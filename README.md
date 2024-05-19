@@ -1,5 +1,5 @@
-## MICROBIAL GENOME & MICROBIOME ANALYSIS
-# Course Content timeline:
+# MICROBIAL GENOME & MICROBIOME ANALYSIS
+## Course Content timeline:
 
 5/19/2024
 
