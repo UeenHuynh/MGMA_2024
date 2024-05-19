@@ -2,8 +2,8 @@ MICROBIAL GENOME & MICROBIOME ANALYSIS
 Course Content timeline:
 
 5/19/2024
-Link Youtube: https://www.youtube.com/watch?v=GNzY0Unt-os
 
+Link Youtube: https://www.youtube.com/watch?v=GNzY0Unt-os
 1) Course overview
 2) Introduction to Microbial Genome and Microbiome (Metagenomics)
 3) Ubuntu and basic Linux commands part 1
