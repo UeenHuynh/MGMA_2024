@@ -14,7 +14,7 @@
 - **PDF Link:** [Ubuntu and Basic Linux Commands Part 1](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commmands_part1%20.pdf)
 - **PPTX Link:** [Ubuntu and Basic Linux Commands Part 1](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commmands_part1.pptx)
 - **Homework:** [Basic Linux Commands Part 1 Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Homework_basic_Linux_commands_part1.pdf)
-### Q&A : [Question and Ansswer](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Questions%26Answers.md)
+### **Q&A** : [Question and Ansswer](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Questions%26Answers.md)
 
 ## May 23, 2024
 ### Lecture 2: 
