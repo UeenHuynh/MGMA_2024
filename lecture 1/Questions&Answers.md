@@ -1,5 +1,5 @@
 ## 1. Cài phiên bản ubuntu nào trên máy thật?
-## từ Nguyễn Quang Khải: 
+### từ Nguyễn Quang Khải: 
 - Em đề xuất mọi người cài các bản Ubuntu LTS, hiện tại bản LTS mới nhất là 24.04 LTS (Noble Numbat), mỗi bản LTS được nhà phát triển đặt cho một tên riêng, bản 24.04 này mới ra hồi tháng 4 năm 2024, em đề xuất không nên cài, phòng trường hợp bị lỗi, nên cài những bản cũ hơn, những bản cũ hơn theo thứ tự cũ dần: 22.04 LTS (Jammy Jellyfish), 20.04 LTS (Focal Fossa),.v.v.. thông tin thêm về các bản, mọi người tham khảm link này: https://ubuntu.com/about/release-cycle trong trang này, người có để thời gian phát hành và thời gian kết thúc hỗ trợ của từng bản, mọi người có thể tham khảo thời gian kết thúc hỗ trợ để chọn bản cài.
 -  Mọi người có thể tham khảo ở máy em: 8gb RAM, em đang sử dụng bản 22.04 LTS, và em thấy ổn ạ. Hiện tại em đang chạy song song Ubuntu và Windows, mỗi hệ điều hành cài trên một ổ cứng riêng, mọi người nên cài hệ điều hành trên ổ cứng loại SSD để hệ điều hành sử dụng được tốc độ tốt.
 - Để tải file .iso cài Ubuntu bản mong muốn, mọi người tham khảo link này: https://releases.ubuntu.com/ Khi chọn bất kì phiên bản nào, trên web sẽ hiện 2 tùy chọn tải: desktop image và server install image, mọi người tải desktop image.  
