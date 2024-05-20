@@ -1,8 +1,8 @@
 # Microbial Genome & Microbiome Analysis Course Content Timeline
 
 ## May 19, 2024
-
-### Lecture 1: Course Overview
+### Lecture 1: 
+### Course Overview
 - Introduction to the course structure and objectives.
 
 ### Introduction to Microbial Genome and Microbiome (Metagenomics)
@@ -16,8 +16,8 @@
 - **Homework:** [Basic Linux Commands Part 1 Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Homework_basic_Linux_commands_part1.pdf)
 
 ## May 23, 2024
-
-### Lecture 2: Homology Search with BLAST (Part 1)
+### Lecture 2: 
+### Homology Search with BLAST (Part 1)
 - Introduction to BLAST and its applications in microbial genomics.
 
 ### Basic Linux Commands Part 2
@@ -27,16 +27,16 @@
 - Basics of writing and executing bash scripts for automating tasks.
 
 ## May 26, 2024
-
-### Lecture 3: Homology Search with BLAST (Part 2)
+### Lecture 3: 
+### Homology Search with BLAST (Part 2)
 - Advanced topics and practical applications of BLAST.
 
 ### Bash Script and AWK
 - Introduction to AWK for data manipulation and its integration with bash scripting.
 
 ## May 30, 2024
-
-### Lecture 4: Basic Microbe Genomics & Metagenomics and Their Applications
+### Lecture 4: 
+### Basic Microbe Genomics & Metagenomics and Their Applications
 - Overview of microbial genomics, metagenomics, and their practical applications.
 
 ### Primer and Probe Design
