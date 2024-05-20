@@ -1,0 +1,1 @@
+{print $1} END{print "this is the end of process"}

@@ -1,0 +1,7 @@
+Name sex city age
+Linh female Haiphong 21
+Nam male Hochiminh 55
+Mai female Hochiminh 26
+Vinh male Hanoi 12
+Xuan female Binhdinh 53 
+Truc female Haiphong 21

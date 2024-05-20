@@ -1,0 +1,112 @@
+#!/huyha/bin/awk
+
+#Basic awk
+
+
+#1.1 Delimiter
+cat -n Test2.txt
+awk '{print $1} {print NR}' Test2.txt
+awk -F: '{print $1, NR}' Test2.txt 
+#1.2 How to execute awk in difference way
+#1
+cat Test1.txt
+awk '{print}' Test1.txt
+#2
+awk '{print $1}' Test1.txt
+#3
+echo 'BEGIN{print "Hello"} END{print "this is the end of process"}' >awk1
+awk -f awk1 
+#1.3 Begin end block
+awk 'BEGIN{print "begin"} {print NR} END{print "end"}' Test1.txt
+
+
+
+#1.4 Variable
+cat -n Test1.txt
+awk '{print $1,$2,$3} {print NR}' Test1.txt
+awk '/male/ {print $0}' Test1.txt
+awk 'BEGIN{FS=":";RS=","} {print $1, $2}' Test3.txt
+my_var="hello"
+awk -v var="$my_var" 'BEGIN { print var }'  # Access 'my_var' inside the script
+
+
+#1.5 awk command structure
+
+
+
+
+
+#awk pattern
+awk ' /Nam/ {print}' Test1.txt
+awk '$1==Linh {print}' Test1.txt
+#awk (Range) pattern1, pattern2 - mean from 1 to 2
+awk ' /Linh/, /Mai/ {print}' Test1.txt
+
+
+#Action
+#IF stament
+awk '{if (NR > 1)  print NR,$0}' Test1.txt
+awk 'END{if(NF % 2 == 0) {print "even"} else {print"odd"} {print NF}}' Test1.txt
+#Loop stament
+#for loop
+awk ' BEGIN{ for ( i=1; i<5; i++ ) { print i }}'
+#while loop
+awk ' BEGIN{ while ( i<10 ){ i+=2; print i}}'
+
+#Reverse 
+awk -F: '{ x[NR] = $0 }
+    END {
+        for (i = NR; i > 0; i--)
+        print x[i]
+    }
+' Test1.txt
+
+
+#operator
+awk '/male/ {a++} {print $a}' Test1.txt 
+awk '-v i=5 BEGIN{i+=5;print i}'
+
+
+#pre incresement and post incresement
+awk 'BEGIN {num = 3; preincr = ++num; print num, preincr; 
+            num = 3; postincr = num++; print num, postincr}'
+
+
+
+#Function
+#Sub,Gsub (function)
+awk 'sub(" ", ":") {print}' Test1.txt 
+
+awk 'gsub(" ", ":") { getline; print substr(abc,2)}' Test1.txt
+
+
+
+awk 'BEGIN{print substr("FirstName",6)}'
+Name
+
+
+#Practice
+echo"
+Acesstion_number
+Gene_name
+Protein_seq
+DNA_seq
+">Seq1.txt
+
+curl -o "./U31362.1.gb" https://www.ebi.ac.uk/ena/browser/api/embl/U31362.1?download=true 
+cat U31362.1.gb
+#Accession number
+awk '$1=="AC"{print $2}' U31362.1.gb |tr -d ';'
+#Gene_name
+awk '$1=="DE"{$1="";print $0}' U31362.1.gb
+awk 'BEGIN{ORS=" "} $1=="DE"{$1="";print $0}' U31362.1.gb
+awk '$1=="DE"{print substr($0,6)}' U31362.1.gb
+#Test1 SQ
+awk '/SQ/{getline;while(i=1) {print $1,$2,$3,$4,$5,$6;getline; if ($1=="//"){break}}} END{gsub(" ","1524",$0)}' U31362.1.gb 
+#SQ
+awk '/SQ/{getline;while(i=1){print $0;getline; if ($1=="//"){break} } }' U31362.1.gb | tr -d '0-9'
+#Translation
+awk '/translation/{while(i=1){print $0;getline; if ($1=="XX"){break} } }' U31362.1.gb|awk '{print $2}'|tr -d '/translation="'
+#Proteine name
+awk '/product/ {$1="";print substr($0,11)}' U31362.1.gb|tr -d "\""
+
