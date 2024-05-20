@@ -1,4 +1,4 @@
-#!/huyha/bin/awk
+#!/bin/awk
 
 #Basic awk
 
@@ -109,4 +109,3 @@ awk '/SQ/{getline;while(i=1){print $0;getline; if ($1=="//"){break} } }' U31362.
 awk '/translation/{while(i=1){print $0;getline; if ($1=="XX"){break} } }' U31362.1.gb|awk '{print $2}'|tr -d '/translation="'
 #Proteine name
 awk '/product/ {$1="";print substr($0,11)}' U31362.1.gb|tr -d "\""
-
