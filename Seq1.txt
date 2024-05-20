@@ -1,6 +1,0 @@
-Practice
-Acesstion_number
-Gene_name
-Protein_seq
-DNA_seq
-
