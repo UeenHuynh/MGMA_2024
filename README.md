@@ -19,13 +19,14 @@
 ## May 23, 2024
 ### Lecture 2: 
 ### Homology Search with BLAST (Part 1)
-- Introduction to BLAST and its applications in microbial genomics.
 
 ### Basic Linux Commands Part 2
 - Continuation of essential Linux commands for genomics analysis.
 
 ### Introduction to Bash Scripting
-- Basics of writing and executing bash scripts for automating tasks.
+- **PDF Link:** [Introduction to Scripts and Bash](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction%20to%20bash%20script%20(1)%20and%20(2).pdf)
+- **Homework:** [[Introduction to Scripts and Bash Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/%5B2%5D%20Bash%20script%20(1)%20Homework.pdf)
+- **Homework material:** [[[Introduction to Scripts and Bash Homework material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script)(https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/material)
 
 ## May 26, 2024
 ### Lecture 3: 
