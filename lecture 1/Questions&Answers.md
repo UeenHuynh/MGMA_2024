@@ -1,4 +1,4 @@
-## Chi tiết về từng bước cài hệ điều hành Ubuntu trên máy thật cũng như cài trên WSL trên Windows, hay cài trên máy ảo; mọi người tham khảo các link hướng dẫn em để ở slide 10 của file Ubuntu_and_basic_Linux_commmands_part1 để xem
+## Chi tiết về từng bước cài hệ điều hành Ubuntu trên máy thật cũng như cài trên WSL trên Windows, hay cài trên máy ảo; mọi người tham khảo các link hướng dẫn được gắn ở slide 10 của file Ubuntu_and_basic_Linux_commmands_part1 để xem
 ## 1. Cài phiên bản ubuntu nào trên máy thật?
 ### từ Nguyễn Quang Khải: 
 - Em đề xuất mọi người cài các bản Ubuntu LTS, hiện tại bản LTS mới nhất là 24.04 LTS (Noble Numbat), mỗi bản LTS được nhà phát triển đặt cho một tên riêng, bản 24.04 này mới ra hồi tháng 4 năm 2024, em đề xuất không nên cài, phòng trường hợp bị lỗi, nên cài những bản cũ hơn, những bản cũ hơn theo thứ tự cũ dần: 22.04 LTS (Jammy Jellyfish), 20.04 LTS (Focal Fossa),.v.v.. thông tin thêm về các bản, mọi người tham khảm link này: https://ubuntu.com/about/release-cycle trong trang này, người có để thời gian phát hành và thời gian kết thúc hỗ trợ của từng bản, mọi người có thể tham khảo thời gian kết thúc hỗ trợ để chọn bản cài.
