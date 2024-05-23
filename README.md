@@ -18,7 +18,7 @@
 - If you don't want to delete windows:
 - [a) Dual boot: Ubuntu and Windows on the same hard drive](https://www.youtube.com/watch?v=GXxTxBPKecQ&t=229s)  
 - [b) Dual boot: Ubuntu and Windows on separate hard drive (Ubuntu on hard drive 1, Windows on hard drive 2)](https://www.youtube.com/watch?v=KX85vZ3ANVk)
-- Recommended method b) if you want dual-boot.  
+- Recommended way b) if you want dual-boot.  
 - [More reference in Vietnamese](https://www.youtube.com/watch?v=oZcvqfWf_ps&t=100s)
 - **Warning: Back up your data before installation if you install Ubuntu on a physical computer!!**
 
