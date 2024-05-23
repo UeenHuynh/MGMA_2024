@@ -31,7 +31,7 @@
 ### Introduction to Bash Scripting
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction%20to%20bash%20script%20(1)%20and%20(2).pdf)
 - [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/%5B2%5D%20Bash%20script%20(1)%20Homework.pdf)
-- [Homework material]((https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script)(https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/material))
+- [Homework material]((https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script),(https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/material))
 
 ## May 26, 2024
 ### Lecture 3: 
