@@ -40,6 +40,7 @@
 
 ## May 23, 2024
 ### Lecture 2: 
+- [Youtube](https://www.youtube.com/watch?v=o078r7GYGfA)
 ### Homology Search with BLAST (Part 1)
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf)
 - [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx)
