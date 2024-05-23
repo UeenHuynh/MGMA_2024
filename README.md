@@ -5,6 +5,22 @@
 ### Course Overview
 - Introduction to the course structure and objectives.
 
+### Some ways to get the Terminal:  
+#### **1.**  
+- [macOS: How to open Terminal](https://support.apple.com/en-vn/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac)
+- [Windows 10/11: Install Ubuntu on Windows Subsystem for Linux (WSL): Recommended for beginners](https://canonical-ubuntu-wsl.readthedocs-hosted.com/en/latest/guides/install-ubuntu-wsl2/)
+#### **2. Install Ubuntu on virtual machine (VM):**
+- [Windows: Install Ubuntu on VirtualBox](https://www.youtube.com/watch?v=ngJQPt-xEeo)
+- [macOS: Install Ubuntu on VirtualBox](https://www.youtube.com/watch?v=b_tOialCSXE)
+#### **3. Install Ubuntu on physical computer: Best for long term use**
+- [Delete Windows & install Ubuntu](https://www.youtube.com/watch?v=oZcvqfWf_ps&t=100s)
+- If you don't want to delete windows: Recommended method b) if you want dual-boot.  
+[a) Dual boot: Ubuntu and Windows on the same hard drive](https://www.youtube.com/watch?v=GXxTxBPKecQ&t=229s)  
+[b) Dual boot: Ubuntu and Windows on the separate hard drive (Ubuntu on hard drive 1, Windows on hard drive 2)](https://www.youtube.com/watch?v=KX85vZ3ANVk)  
+#### **Warning: backup your data before install!!**
+#### **More reference**: [More reference](https://www.youtube.com/watch?v=oZcvqfWf_ps&t=100s)
+
+
 ### Introduction to Microbial Genome and Microbiome (Metagenomics)
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf)
 - [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx)
