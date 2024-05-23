@@ -28,7 +28,7 @@
 - [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx)
 - [YouTube](https://www.youtube.com/watch?v=epMAMIo0AOo&t=6s)
 
-### Ubuntu and Basic Linux Commands 
+### Ubuntu and Basic Linux Commands Part 1 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commmands_part1%20.pdf)
 - [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commmands_part1.pptx)
 - [Youtube part 1](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2)
