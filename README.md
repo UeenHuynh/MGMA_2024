@@ -6,7 +6,7 @@
 - Introduction to the course structure and objectives.
 
 ### Ways to get the Terminal:  
-#### Follow these steps:
+
 #### **1. Guide and Intruction**:  
 - [macOS: How to open Terminal](https://support.apple.com/en-vn/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac)
 - [Windows 10/11: Install Ubuntu on Windows Subsystem for Linux (WSL): Recommended for beginners](https://canonical-ubuntu-wsl.readthedocs-hosted.com/en/latest/guides/install-ubuntu-wsl2/)
