@@ -7,7 +7,7 @@
 
 ### Ways to get the Terminal:  
 #### Follow these steps:
-#### **1.**  
+#### **1.** Guide and Intruction:  
 - [macOS: How to open Terminal](https://support.apple.com/en-vn/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac)
 - [Windows 10/11: Install Ubuntu on Windows Subsystem for Linux (WSL): Recommended for beginners](https://canonical-ubuntu-wsl.readthedocs-hosted.com/en/latest/guides/install-ubuntu-wsl2/)
 #### **2. Install Ubuntu on virtual machine (VM):**
@@ -41,7 +41,12 @@
 ## May 23, 2024
 ### Lecture 2: 
 ### Homology Search with BLAST (Part 1)
-
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf)
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx)
+### Nucleotide DNA RNA:
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf)
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx)
+- [Homewwork](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf)
 ### Basic Linux Commands Part 2
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2.pdf)
 - [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2.pptx)
