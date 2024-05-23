@@ -24,35 +24,24 @@
 
 
 ### Introduction to Microbial Genome and Microbiome (Metagenomics)
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf)
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx)
-- [YouTube](https://www.youtube.com/watch?v=epMAMIo0AOo&t=6s)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf),[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx),[YouTube](https://www.youtube.com/watch?v=epMAMIo0AOo&t=6s)
 
 ### Ubuntu and Basic Linux Commands Part 1 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commmands_part1%20.pdf)
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commmands_part1.pptx)
-- [Youtube part 1](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2)
-- [Youtube part 2](https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3)
-- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Homework_basic_Linux_commands_part1.pdf)
-- [Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/HomeworkAnswers_basic_Linux_commands_part1.pdf)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commmands_part1%20.pdf),[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commmands_part1.pptx),[Youtube part 1](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2),[Youtube part 2](https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3),
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Homework_basic_Linux_commands_part1.pdf),[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/HomeworkAnswers_basic_Linux_commands_part1.pdf)
 - [Question and Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Questions%26Answers.md)
-
 
 
 ## May 23, 2024
 ### Lecture 2: 
 - [Youtube](https://www.youtube.com/watch?v=o078r7GYGfA)
 ### Homology Search with BLAST (Part 1)
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf)
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf),[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx)
 ### Nucleotide DNA RNA:
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf)
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf),[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx)
 - [Homewwork](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf)
 ### Basic Linux Commands Part 2
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2.pdf)
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2.pptx)
-- [Linux command cheat sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Bash_Cheat_Sheet.html)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2.pdf),[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2.pptx),[Linux command cheat sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Bash_Cheat_Sheet.html)
 - [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/Homework_basic_Linux_commands_part2.pdf)
 ### Introduction to Bash Scripting
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction_to_bash_script_(1)_and%20_(2).pdf)
