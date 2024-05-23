@@ -43,6 +43,8 @@
 ### Homology Search with BLAST (Part 1)
 
 ### Basic Linux Commands Part 2
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2.pdf)
+- [PPTX]()
 
 ### Introduction to Bash Scripting
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction_to_bash_script_(1)_and%20_(2).pdf)
