@@ -20,7 +20,7 @@
 - [b) Dual boot: Ubuntu and Windows on the separate hard drive (Ubuntu on hard drive 1, Windows on hard drive 2)](https://www.youtube.com/watch?v=KX85vZ3ANVk)
 - Recommended method b) if you want dual-boot.  
 - [More reference in Vietnamese](https://www.youtube.com/watch?v=oZcvqfWf_ps&t=100s)
-**Warning: Back up your data before installation if you install Ubuntu on a physical computer!!**
+- **Warning: Back up your data before installation if you install Ubuntu on a physical computer!!**
 
 
 ### Introduction to Microbial Genome and Microbiome (Metagenomics)
