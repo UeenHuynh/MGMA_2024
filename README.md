@@ -28,7 +28,7 @@
 
 ### Ubuntu and Basic Linux Commands Part 1 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commmands_part1%20.pdf),[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commmands_part1.pptx),[Youtube part 1](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2),[Youtube part 2](https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3),
-- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Homework_basic_Linux_commands_part1.pdf),[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/HomeworkAnswers_basic_Linux_commands_part1.pdf)
+- [Homework for Basic Linux Commands Part 1](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Homework_basic_Linux_commands_part1.pdf)-[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/HomeworkAnswers_basic_Linux_commands_part1.pdf)
 - [Question and Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Questions%26Answers.md)
 
 
