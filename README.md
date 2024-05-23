@@ -6,8 +6,8 @@
 - Introduction to the course structure and objectives.
 
 ### Introduction to Microbial Genome and Microbiome (Metagenomics)
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf),
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx),
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf)
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx)
 - [YouTube](https://www.youtube.com/watch?v=epMAMIo0AOo&t=6s)
 
 ### Ubuntu and Basic Linux Commands 
