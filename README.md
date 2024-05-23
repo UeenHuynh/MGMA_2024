@@ -5,7 +5,8 @@
 ### Course Overview
 - Introduction to the course structure and objectives.
 
-### Some ways to get the Terminal:  
+### Ways to get the Terminal:  
+#### Follow these steps:
 #### **1.**  
 - [macOS: How to open Terminal](https://support.apple.com/en-vn/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac)
 - [Windows 10/11: Install Ubuntu on Windows Subsystem for Linux (WSL): Recommended for beginners](https://canonical-ubuntu-wsl.readthedocs-hosted.com/en/latest/guides/install-ubuntu-wsl2/)
@@ -17,8 +18,8 @@
 - If you don't want to delete windows: Recommended method b) if you want dual-boot.  
 [a) Dual boot: Ubuntu and Windows on the same hard drive](https://www.youtube.com/watch?v=GXxTxBPKecQ&t=229s)  
 [b) Dual boot: Ubuntu and Windows on the separate hard drive (Ubuntu on hard drive 1, Windows on hard drive 2)](https://www.youtube.com/watch?v=KX85vZ3ANVk)  
-#### **Warning: backup your data before install!!**
-#### **More reference**: [More reference](https://www.youtube.com/watch?v=oZcvqfWf_ps&t=100s)
+## **Warning: backup your data before install!!**
+[More reference](https://www.youtube.com/watch?v=oZcvqfWf_ps&t=100s)
 
 
 ### Introduction to Microbial Genome and Microbiome (Metagenomics)
@@ -42,12 +43,11 @@
 ### Homology Search with BLAST (Part 1)
 
 ### Basic Linux Commands Part 2
-- Continuation of essential Linux commands for genomics analysis.
 
 ### Introduction to Bash Scripting
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction%20to%20bash%20script%20(1)%20and%20(2).pdf)
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/%5B2%5D%20Bash%20script%20(1)%20Homework.pdf)
-- [Homework material]((https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script),(https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/material))
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction_to_bash_script_(1)_and%20_(2).pdf)
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/%5B2%5DBashscript(1)Homework.pdf)
+- [Homework material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script)[,](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/material)
 
 ## May 26, 2024
 ### Lecture 3: 
