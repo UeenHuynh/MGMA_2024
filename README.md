@@ -44,7 +44,7 @@
 ### Basic Linux Commands Part 2
 - I. Working with text files: Search and Filter; Input/Output Redirection ([PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pdf)--[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pptx)--[Youtube])
 - II. Some other commands: Download, File permission, Compress and Decompress ([PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pdf)--[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pptx)--[Youtube])
-- [Homework for Basic Linux Commands Part 2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/Homework_basic_Linux_commands_part2.pdf)
+- [Homework for Basic Linux Commands Part 2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/Homework_basic_Linux_commands_part2.pdf)---[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/HomeworkAnswers_basic_Linux_commands_part2.pdf)
 ### Introduction to Bash Scripting
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction_to_bash_script_(1)_and%20_(2).pdf)
 - [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/%5B2%5DBashscript(1)Homework.pdf)
