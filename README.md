@@ -48,8 +48,8 @@
 ### Introduction to Bash Scripting
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction_to_bash_script_(1)_and%20_(2).pdf)
 - [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/%5B2%5DBashscript(1)Homework.pdf)
-- [Homework material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script)[,](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/material)
-- [Answer for homework]
+- [Homework material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script)
+- [Answer for homework](
 #### [Bash Cheat Sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Bash_Cheat_Sheet.html) (Download to your device to view)
 
 ## May 26, 2024
