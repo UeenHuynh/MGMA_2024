@@ -24,7 +24,7 @@
 
 
 ### Introduction to Microbial Genome and Microbiome (Metagenomics)
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf) &ensp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx) &ensp;[YouTube](https://www.youtube.com/watch?v=epMAMIo0AOo&t=6s)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx) &emsp;[YouTube](https://www.youtube.com/watch?v=epMAMIo0AOo&t=6s)
 
 ### Ubuntu and Basic Linux Commands Part 1 
 - I. Introduction: Ubuntu, File Systems, Some Terms   ([PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pdf)--[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pptx)--[Youtube](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2))
