@@ -24,7 +24,7 @@
 
 
 ### Introduction to Microbial Genome and Microbiome (Metagenomics)
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf)   [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx)   [YouTube](https://www.youtube.com/watch?v=epMAMIo0AOo&t=6s)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf)--[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx)--[YouTube](https://www.youtube.com/watch?v=epMAMIo0AOo&t=6s)
 
 ### Ubuntu and Basic Linux Commands Part 1 
 - I. Introduction: Ubuntu, File Systems, Some Terms   ([PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pdf)--[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pptx)--[Youtube](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2))
@@ -37,10 +37,10 @@
 ### Lecture 2: 
 - [Youtube](https://www.youtube.com/watch?v=o078r7GYGfA)
 ### Homology Search with BLAST (Part 1)
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf),[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf)--[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx)
 ### Nucleotide DNA RNA:
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf),[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx)
-- [Homewwork](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf)--[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx)
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf)
 ### Basic Linux Commands Part 2
 - I. Working with text files: Search and Filter; Input/Output Redirection ([PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pdf)--[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pptx)--[Youtube])
 - II. Some other commands: Download, File permission, Compress and Decompress ([PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pdf)--[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pptx)--[Youtube])
