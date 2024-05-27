@@ -37,7 +37,7 @@
 ### Lecture 2: 
 - [Youtube Live](https://www.youtube.com/watch?v=o078r7GYGfA)
 ### Nucleotide sequence database: DNA and RNA
-- Slide: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx) &emsp;[Youtube](https://youtu.be/z_GshrtJU_o?si=zA10_iOonyXNyHZA)
+- Slide: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx) &emsp;[Youtube](https://youtu.be/z_GshrtJU_o?si=zA10_iOonyXNyHZA)
 - Homework: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pptx) 
 ### Homology Search with BLAST (Part 1)
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx) &emsp;[Youtube](https://youtu.be/_NIkFdBqH7M?si=KLq_EGAbKn6uNx2h)
@@ -47,12 +47,12 @@
 - [Materials used in Slide](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/2.%20basic%20Linux%20commands%20part%202/Material)
 - [Homework for Basic Linux Commands Part 2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/Homework_basic_Linux_commands_part2.pdf) &emsp;[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/HomeworkAnswers_basic_Linux_commands_part2.pdf)
 ### Introduction to Bash Scripting
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction_to_bash_script_(1)_and%20_(2).pdf)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction_to_bash_script_(1)_and%20_(2).pdf) &ensp;[Youtube](https://youtu.be/L61CTtKqyAI?si=c085jGoX71Clj09p)
 - [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/%5B2%5DBashscript(1)Homework.pdf)
 - [Homework material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script)
 - [Answer for homework](https://github.com/UeenHuynh/MGMA_2024/tree/a1eb39362bcd9bf0181f6747c79821f9b0c83c20/lecture2/Bashscript1)
 #### [Bash Cheat Sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Bash_Cheat_Sheet.html) (Download to your device to view)
-
+### [Q&A](https://www.youtube.com/watch?v=8YGAL8jumM8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=9)
 ## May 26, 2024
 ### Lecture 3: 
 ### Homology Search with BLAST (Part 2)
