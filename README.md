@@ -31,16 +31,16 @@
 - II. Some commands work with files and directories &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_2_Some_commands_work_with_files_and_directories.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_2_Some_commands_work_with_files_and_directories.pptx) &emsp;[Youtube](https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3)
 - [Homework for Basic Linux Commands Part 1](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Homework_basic_Linux_commands_part1.pdf) &emsp;[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/HomeworkAnswers_basic_Linux_commands_part1.pdf)
 - [Question and Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Questions%26Answers.md)
-
+### [Q&A](https://www.youtube.com/watch?v=z7rNkiy2tvU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=4)
 
 ## May 23, 2024
 ### Lecture 2: 
 - [Youtube Live](https://www.youtube.com/watch?v=o078r7GYGfA)
-### Homology Search with BLAST (Part 1)
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx)
 ### Nucleotide sequence database: DNA and RNA
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx)
-- Homework: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pptx)
+- Homework: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pptx) &emsp;[Youtube](https://youtu.be/z_GshrtJU_o?si=zA10_iOonyXNyHZA)
+- ### Homology Search with BLAST (Part 1)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx) &emsp;[Youtube](https://youtu.be/_NIkFdBqH7M?si=KLq_EGAbKn6uNx2h)
 ### Basic Linux Commands Part 2
 - I. Working with text files: Search and Filter; Input/Output Redirection &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pptx) &emsp;[Youtube]
 - II. Some other commands: Download, File permission, Compress and Decompress &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pptx) &emsp;[Youtube]
