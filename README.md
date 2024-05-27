@@ -57,7 +57,7 @@
 - Advanced topics and practical applications of BLAST.
 
 ### Bash Script and AWK
-- [Introduction to AWK for data manipulation and its integration with bash scripting](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf)
+- [Introduction to AWK for data manipulation and its integration with bash scripting](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf) [UPDATED](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing)
 - [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf) 
 - [Material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/material)
 - [Script](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/script)
