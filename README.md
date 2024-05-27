@@ -37,7 +37,7 @@
 ### Lecture 2: 
 - [Youtube Live](https://www.youtube.com/watch?v=o078r7GYGfA)
 ### Nucleotide sequence database: DNA and RNA
--Slide: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx) &emsp;[Youtube](https://youtu.be/z_GshrtJU_o?si=zA10_iOonyXNyHZA)
+- Slide: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx) &emsp;[Youtube](https://youtu.be/z_GshrtJU_o?si=zA10_iOonyXNyHZA)
 - Homework: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pptx) 
 ### Homology Search with BLAST (Part 1)
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx) &emsp;[Youtube](https://youtu.be/_NIkFdBqH7M?si=KLq_EGAbKn6uNx2h)
