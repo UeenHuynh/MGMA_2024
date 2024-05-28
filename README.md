@@ -47,8 +47,9 @@
 - [Materials used in Slide](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/2.%20basic%20Linux%20commands%20part%202/Material)
 - [Homework for Basic Linux Commands Part 2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/Homework_basic_Linux_commands_part2.pdf) &emsp;[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/HomeworkAnswers_basic_Linux_commands_part2.pdf)
 ### Introduction to Bash Scripting
-- Slide: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction_to_bash_script_(1)_and%20_(2).pdf) &ensp;[Youtube](https://youtu.be/bIMtUtNmBW4?si=ji-NgsicNPQ_vdBN) [UPDATED](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing)
-- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/%5B2%5DBashscript(1)Homework.pdf) &ensp;[Homework material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script) &ensp;[Answer for homework](https://github.com/UeenHuynh/MGMA_2024/tree/a1eb39362bcd9bf0181f6747c79821f9b0c83c20/lecture2/Bashscript1)
+- Slide: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Introduction_to_bash_script_(1)_and%20_(2).pdf) &ensp;[Youtube](https://youtu.be/bIMtUtNmBW4?si=ji-NgsicNPQ_vdBN) &ensp;
+- [UPDATED PPT](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing)
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/%5B2%5D%20Bash%20script%20(1)%20Homework.pdf) &ensp;[Homework material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script) &ensp;[Answer for homework](https://github.com/UeenHuynh/MGMA_2024/tree/a1eb39362bcd9bf0181f6747c79821f9b0c83c20/lecture2/Bashscript1)
 #### [Bash Cheat Sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Bash_Cheat_Sheet.html) (Download to your device to view)
 ### [Q&A](https://youtu.be/MYUUYeJ8YoY?si=pnOKfzE-ML0--QKa)
 ## May 26, 2024
@@ -57,7 +58,8 @@
 - Advanced topics and practical applications of BLAST.
 
 ### Bash Script and AWK
-- [Introduction to AWK for data manipulation and its integration with bash scripting](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf) [UPDATED](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing)
+- [Introduction to AWK for data manipulation and its integration with bash scripting](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf)
+- [UPDATED PPT](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing)
 - [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf) 
 - [Material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/material)
 - [Script](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/script)
