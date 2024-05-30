@@ -54,7 +54,7 @@
 ## May 26, 2024
 ### Lecture 3: 
 ### Homology Search with BLAST (Part 2): Pairwise Alignment
-[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/lecture_2_3_Pairwise_Alignment_20240530.pptx), [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/lecture_2_3_Pairwise_Alignment_20240530.pdf)
+- Slide: [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/lecture_2_3_Pairwise_Alignment_20240530.pptx) &emsp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/lecture_2_3_Pairwise_Alignment_20240530.pdf)
 ### Bash Script and AWK
 - [Introduction to AWK for data manipulation and its integration with bash scripting](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing)
 - [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf) 
