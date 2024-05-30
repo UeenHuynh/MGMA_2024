@@ -70,14 +70,12 @@
 ### Primer and Probe Design
 - Techniques for designing primers and probes for microbial genome analysis.
 
+### Wrap-up Linux Command Line Change into Code in README
+- Finalizing and documenting code changes in a README file for future reference.
+
 ## References:
 #### Book:
 - **R book:** [R book](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/R)
 - **Bioinformatics Linux:** [Bioinformatics Linux](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/bioinformatics_linux)
 - **Metagenomics:** [Metagenomics](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/metagenomics)
-
-
-### Wrap-up Linux Command Line Change into Code in README
-- Finalizing and documenting code changes in a README file for future reference.
-
 
