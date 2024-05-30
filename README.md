@@ -61,7 +61,7 @@
 - [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf) 
 - [Material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/material)
 - [Script](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/script)
-
+- [Homework_Answer](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/homework)
 ## May 30, 2024
 ### Lecture 4: 
 ### Basic Microbe Genomics & Metagenomics and Their Applications
