@@ -68,7 +68,7 @@
 - Overview of microbial genomics, metagenomics, and their practical applications.
 
 ### Primer and Probe Design
-[- Techniques for designing primers and probes for microbial genome analysis.](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf)
+- [Techniques for designing primers and probes for microbial genome analysis.](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf)
 
 ### Wrap-up Linux Command Line Change into Code in README
 - Finalizing and documenting code changes in a README file for future reference.
