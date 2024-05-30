@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #1.Find Accession number, $1 present the marker to known in this situation is AC
 awk '$1=="AC"{print $2}' U31362.1.gb |tr -d ';'
 
