@@ -4,9 +4,7 @@
 ### Lecture 1: 
 ### Course Overview
 - Introduction to the course structure and objectives.
-
 ### Ways to get the Terminal:  
-
 #### **1. Easy to install**:  
 - [macOS: How to open Terminal](https://support.apple.com/en-vn/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac)
 - [Windows 10/11: Install Ubuntu on Windows Subsystem for Linux (WSL)](https://canonical-ubuntu-wsl.readthedocs-hosted.com/en/latest/guides/install-ubuntu-wsl2/)
@@ -22,10 +20,8 @@
 - [More reference in Vietnamese](https://www.youtube.com/watch?v=oZcvqfWf_ps&t=100s)
 - **Warning: Back up your data before installation if you install Ubuntu on a physical computer!!**
 
-
 ### Introduction to Microbial Genome and Microbiome (Metagenomics)
 - Slide: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx) &emsp;[YouTube](https://www.youtube.com/watch?v=epMAMIo0AOo&t=6s)
-
 ### Ubuntu and Basic Linux Commands Part 1 
 - I. Introduction: Ubuntu, File Systems, Some Terms &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pptx) &emsp;[Youtube](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2)
 - II. Some commands work with files and directories &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_2_Some_commands_work_with_files_and_directories.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_2_Some_commands_work_with_files_and_directories.pptx) &emsp;[Youtube](https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3)
@@ -51,27 +47,35 @@
 - [Homework](https://docs.google.com/presentation/d/1-3tyBtMYiRJPyBK5svC5-boe3KbQersSZCAWzSUbmLA/edit?usp=sharing) &ensp;[Homework material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script) &ensp;[Answer for homework](https://github.com/UeenHuynh/MGMA_2024/tree/a1eb39362bcd9bf0181f6747c79821f9b0c83c20/lecture2/Bashscript1)
 #### [Bash Cheat Sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Bash_Cheat_Sheet.html) (Download to your device to view)
 ### [Q&A](https://youtu.be/MYUUYeJ8YoY?si=pnOKfzE-ML0--QKa)
+
 ## May 26, 2024
 ### Lecture 3: 
 ### Homology Search with BLAST (Part 2): Pairwise Alignment
 - Slide: &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/lecture_2_3_Pairwise_Alignment_20240530.pptx) &emsp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/lecture_2_3_Pairwise_Alignment_20240530.pdf)
+- 
 ### Bash Script and AWK
 - [Introduction to AWK for data manipulation and its integration with bash scripting](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing)
 - [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf) 
 - [Material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/material)
 - [Script](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/script)
 - [Homework_Answer](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/homework)
+
 ## May 30, 2024
 ### Lecture 4: 
 ### Basic Microbe Genomics & Metagenomics and Their Applications
 - Overview of microbial genomics, metagenomics, and their practical applications.
-
 ### Primer and Probe Design
 - [Techniques for designing primers and probes for microbial genome analysis.](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf)
-
 ### Wrap-up Linux Command Line Change into Code in README
 - [Slide](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/wrapup_linux_command_line_practice.pdf)
 - [Bash cheat sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/Wrap_Up_Linux.pdf)
+
+## June 2, 2024
+### Lecture 5: 
+### Nucleotide DNA, microbial genomes databases and genome annotation
+### Basic R1: Data types, Basic calculations, Data structure, Basic Functions (For loop, If ...else, While loop)
+### Code editing with VScode 
+
 ## References:
 #### Book:
 - **R book:** [R book](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/R)
