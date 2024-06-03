@@ -72,9 +72,9 @@
 ## June 2, 2024
 ### Lecture 5: 
 ### Multiple Alignment
-- [PDF]() &emsp;[PPTX]()
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pptx)
 ### Phylogenetic Trees
-- [PDF]() &emsp;[PPTX]()
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pptx)
 ### Basic R1: Data types, Basic calculations, Data structure, Basic Functions (For loop, If ...else, While loop)
 ### Code editing with VScode 
 
