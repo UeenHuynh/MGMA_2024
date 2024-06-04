@@ -80,18 +80,22 @@
 -[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Homework%20R1.pptx) &emsp;[Markdown](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/R1_markdown.rmd)
 
 ## June 6, 2024
+### Lecture 6:
 ### Pairwise Sequence Alignment and Genome-wide Alignment 
 ### Basic plot in R2
 ### Introduction to GitHub
 
 ## June 9, 2024
+### Lecture 7:
 ###  Introduction of next-generation sequencing (NGS) and NGS platforms
 
 ## June 13, 2024
+### Lecture 8:
 ### Multiple Sequence Alignment and Multilpe Genome-wide Alignment
 ### Basic statistics in R3
 
 ## June 13, 2024
+### Lecture 9:
 ### Whole genome sequencing and Phylogenetic analysis for Microbes
 ### Mapping
 ### Calling variants 
