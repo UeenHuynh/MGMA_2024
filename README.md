@@ -58,6 +58,7 @@
 - [Material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/material)
 - [Script](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/script)
 - [Homework_Answer](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/homework)
+- [Awk Cheat sheet](https://bl831.als.lbl.gov/~gmeigs/scripting_help/awk_cheat_sheet.pdf)
 
 ## May 30, 2024
 ### Lecture 4: 
