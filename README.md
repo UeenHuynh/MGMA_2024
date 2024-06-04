@@ -76,7 +76,25 @@
 ### Phylogenetic Trees
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pptx)
 ### Basic R1: Data types, Basic calculations, Data structure, Basic Functions (For loop, If ...else, While loop)
-### Code editing with VScode 
+### Code editing with VScode: Homework
+-[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Homework%20R1.pptx) &emsp;[Markdown](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/R1_markdown.rmd)
+
+## June 6, 2024
+### Pairwise Sequence Alignment and Genome-wide Alignment 
+### Basic plot in R2
+### Introduction to GitHub
+
+## June 9, 2024
+###  Introduction of next-generation sequencing (NGS) and NGS platforms
+
+## June 13, 2024
+### Multiple Sequence Alignment and Multilpe Genome-wide Alignment
+### Basic statistics in R3
+
+## June 13, 2024
+### Whole genome sequencing and Phylogenetic analysis for Microbes
+### Mapping
+### Calling variants 
 
 ## References:
 #### Book:
