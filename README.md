@@ -77,8 +77,9 @@
 ### Phylogenetic Trees
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pptx)
 ### Basic R1: Data types, Basic calculations, Data structure, Basic Functions (For loop, If ...else, While loop)
-### Code editing with VScode: Homework
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Homework%20R1.pptx) &emsp;[Markdown](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/R1_markdown.rmd)
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Homework%20R1.pptx) &emsp;[Markdown](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/R1_markdown.rmd)
+### C.ode editing with VScode: Homework
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Code%20editing%20with%20vs-code.ppt)
 
 ## June 6, 2024
 ### Lecture 6:
