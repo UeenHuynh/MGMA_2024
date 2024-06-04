@@ -1,0 +1,727 @@
+---
+title: <span style="color:blue">R language part 1</span>
+
+date: "`r Sys.Date()`"
+output:
+  rmdformats::html_clean:
+    highlight: kate
+---
+```{r setup, include=FALSE}
+## Global options
+knitr::opts_chunk$set(cache = TRUE)
+```
+
+# Introduce
+
+- R is a popular programming language for statistical computing and graphics. R is widely used in the field of data science, statistics, data analysis, and data visualization.
+
+- R was created by Ross Ihaka and Robert Gentleman at the University of Auckland, New Zealand, until now, developed by the R Development Core Team.
+
+<div style="text-align: center;">
+  <img src="https://i.ytimg.com/vi/ZCQHm63xc4s/maxresdefault.jpg" alt="Ross Ihaka and Robert Gentleman" width="600" height="300">
+</div>
+
+## why we using R?
+    1. Statistical Analysis and Data Visualization
+    2. Reproducible Research
+    3. Extensive Package Ecosystem
+    4. Open Source and Free
+    5. Interoperability
+    6. Active Community and Support
+
+
+# topic
+    - Data types 
+    - Data structures
+    - write and read file
+    - if else sentence
+    - while loop and for loop
+    - function
+
+# Data types 
+this is data type in R
+
+<div style="text-align: center;">
+  <img src="https://cf2.ppt-online.org/files2/slide/p/pSmndFZHgs9oqzvk4NtLyfCbr6e50BxwO78XPl/slide-5.jpg" alt="Data type in R" width="8000" height="500">
+</div>
+
+## number: interger and float:
+
+```{r}
+## interger
+int_num <- 2L
+print(int_num)
+
+## float
+flo_num <- 2.0 
+
+print(flo_num)
+## class of them 
+print(class(flo_num))
+print(class(int_num))
+```
+
+## character
+
+```{r}
+# assign
+str1 <- 'hello the world'
+str2 <- "today i\'m learning R"
+
+print(str1)
+
+paste(str1, str2, sep=', ')
+
+str_length <- nchar(str1) # dung cho 1 so variable like list,vetor,...  
+paste('length of string 1:',str_length)
+
+## modify string
+upper <- toupper(str1)
+paste('upper string:', upper)
+lower <- tolower(upper)
+paste('lower string:', lower)
+
+```
+## logical 
+
+```{r}
+paste('5 > 3 is:', 5 > 3)
+paste('5 < 3 is:', 5 < 3)
+# we can combine many condition together with & and |
+condition1 <- TRUE & FALSE
+condition2 <- TRUE | FALSE
+cat("Condition 1:", condition1, "\n")
+cat("Condition 2:", condition2, "\n")
+
+```
+
+## complex 
+```{r}
+## asign variable
+z <- 1 + 2i
+
+## Arithmetic operations
+sum_complex <- z + (1 +2i)
+product_complex <- z * (1 +2i)
+
+## complex function
+modules <- Mod(z)
+Argument <- Arg(z)
+```
+
+
+# Data structures
+<div style="text-align: center;">
+  <img src="https://cdn.educba.com/academy/wp-content/uploads/2019/11/r-data-types.png" alt="Data structures" width="800" height="500">
+</div>
+
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/originals/4d/71/52/4d715218e6995a3fb1f89539108cc37c.png" alt="Data structures " width="800" height="500">
+</div>
+
+
+## Data structure: factor
+Factors are the data objects which are used to categorize the data and store it as levels. They are useful for storing categorical data. They can store both strings and integers. They are useful to categorize unique values in columns like “TRUE” or “FALSE”, or “MALE” or “FEMALE”, etc.. They are useful in data analysis for statistical modeling.
+
+```{r}
+gender <- factor(c("male", "female", "female", "male"))
+gender
+# modify gender 
+levels(gender) <- c('M', 'F')
+gender
+
+# using order in factor
+size <- factor(c("S", "M", "M", "S", 'L',"M", "L"), 
+level = c('S', 'M', 'L'),
+order=TRUE)   
+size
+
+# we can using that to compare 
+size[1] < size[2]
+
+```
+
+## Data structure: vector 
+
+A vector is an ordered collection of basic data types of a given length. The only key thing here is all the elements of a vector must be of the identical data type e.g homogeneous data structures. Vectors are one-dimensional data structures.
+
+```{r}
+## assign vector
+vect <- c('1','2','3')
+vect2 <- c(1,2,3)
+
+## access element  
+# different from other languages start-index = 0 bit in R it = 1 
+vect[1]
+vect[1:3]
+vect2[vect2 > 2] # this is logical condition
+
+## appending and binding vector 
+name <- c('quy', 'lan', 'phuong')
+name2 <- c('nam', 'hoa', 'binh')
+append_name <- c(name, name2)
+append_name
+
+## Vector Operations
+vect2 <- vect2 * 100
+vect2
+sum(vect2)
+max(vect2)
+min(vect2)
+sqrt(vect2)
+log(vect2)
+
+## sort vector 
+random_numbers <- runif(5, min = 0, max = 100)
+random_numbers
+sort(random_numbers, decreasing = TRUE)
+```
+
+##  Data structure: list 
+A list is a generic object consisting of an ordered collection of objects. Lists are heterogeneous data structures. These are also one-dimensional data structures. A list can be a list of vectors, list of matrices, a list of characters and a list of functions and so on.
+
+```{r}
+## asign element 
+my_list <- list(name = c("John", "katy", "jotaro"), age = c(30,22,16), married = c(TRUE, TRUE,FALSE))
+my_list
+
+## access element 
+my_list['name']
+my_list$name
+my_list$name[1]
+
+## modify list 
+
+# add element
+my_list$location = c('vietname', 'US', 'japan')
+my_list
+
+# delete element
+my_list$married = NULL
+```
+
+##  Data structure: data frame
+Dataframes are generic data objects of R which are used to store the tabular data. Dataframes are the foremost popular data objects in R programming because we are comfortable in seeing the data within the tabular form. They are two-dimensional, heterogeneous data structures. These are lists of vectors of equal lengths. 
+
+Data frames have the following constraints placed upon them: 
+
+- A data-frame must have column names and every row should have a unique name.
+- Each column must have the identical number of items.
+- Each item in a single column must be of the same data type.
+- Different columns may have different data types.
+
+```{r}
+## asign element 
+# Define the vectors
+
+name <- c('John', 'Alice', 'Bob', 'Katy', 'Michael', NA, 'David', 'Sophia', 'Daniel', 'Olivia')
+age <- c(25, 30, 22, 35, 40, 28, 32, 29, 27, 33)
+major <- c('Computer Science', 'Biology', 'Mathematics', 'Chemistry', 'Physics', 'Psychology', 'Economics', 'Sociology', 'History', 'English')
+gender <- c('M', 'F', 'M', 'F', 'M', 'F', 'M', 'F', 'M', 'F')
+
+# Create the data frame
+df <- data.frame(name = name,
+                 age = age,
+                 major = major,
+                 gender = gender)
+
+df 
+# remove na 
+# df <- df[complete.cases(df), ]
+df <- na.omit(df) 
+df
+## Viewing Data Frames
+head(df)
+tail(df)
+View(df)
+
+## Accessing Data Frames
+
+# using this way: the class not change (class :data.frame)
+df['name'][1, ]
+# using this way: class change to vector
+df$name[1]
+# select rows
+df[1:5, ] 
+# select rows with condition 
+df[df$age > 30, ]
+
+## Summary and Information
+summary(df)
+str(df)
+nrow(df)
+ncol(df)
+dim(df)
+
+## Modifying Data Frames
+# add cols
+df$networth <- c(1000, 500, 200, 1177,235454, 110,2299, 2000,44452) 
+
+# add row
+df <- rbind(df, c('jojo',  25, 'Computer Science', 'M',     1000))
+df
+
+
+# delete cols
+df$networth <- NULL
+df
+
+# delete rows
+df2 <- df[df$major == "Computer Science",]
+
+## Aggregating Data
+testDF <- data.frame(v1 = c(1,3,5,7,8,3,5,NA,4,5,7,9),
+                     v2 = c(11,33,55,77,88,33,55,NA,44,55,77,99) )
+by1 <- c("red", "blue", 1, 2, NA, "big", 1, 2, "red", 1, NA, 12)
+by2 <- c("wet", "dry", 99, 95, NA, "damp", 95, 99, "red", 99, NA, NA)
+aggregate(x = testDF, by = list(by1, by2), FUN = "mean")
+
+## reshape 
+
+set.seed(12345)
+n <- 5
+d1 <- data.frame(sex = sample(c("M", "F"), n, replace = TRUE),
+ht.before = round(rnorm(n, 165, 6), 1),
+ht.after = round(rnorm(n, 165, 6), 1),
+wt.before = round(rnorm(n, 80, 6)),
+wt.after = round(rnorm(n, 80, 6)))
+d1
+reshape(d1, direction = "long",
+varying =list(c("ht.before", "ht.after"), c("wt.before", "wt.after")),
+v.names = c("ht", "wt"),
+times = c("before", "after"),
+timevar = "time")
+
+```
+## Data structure: matrix
+
+A matrix is a rectangular arrangement of numbers in rows and columns. In a matrix, as we know rows are the ones that run horizontally and columns are the ones that run vertically. Matrices are two-dimensional, homogeneous data structures.
+
+```{r}
+
+## asign matrix
+mat1<- matrix(1:6, nrow = 2, ncol = 3)
+rownames(mat1) <- c('r1', 'r2')
+colnames(mat1) <- c('c1', 'c2', 'c3')
+mat1
+
+## convert vector to matrix
+num <- c(1:9)
+num
+mat2 = matrix(num, nrow=3, ncol=3, dimnames=list(c('r1', 'r2','r3'), c('c1','c2','c3')))
+
+## access matrix 
+mat2[1,1]
+mat2[,2]
+
+## Matrix Operations:
+mat3 <- matrix(data = rnorm(6), nrow = 2, ncol = 3)
+mat3
+mat4 <- matrix(data = rnorm(6), nrow = 3, ncol = 2)
+mat4
+
+## Element-wise multiplication
+# mat_prod <- mat3 * mat4
+
+## Matrix multiplication
+mat_mult <- mat3 %*% mat4
+summary(mat4)
+
+```
+## Data type: array
+
+Arrays are the R data objects which store the data in more than two dimensions. Arrays are n-dimensional data structures. For example, if we create an array of dimensions (2, 3, 3) then it creates 3 rectangular matrices each with 2 rows and 3 columns. They are homogeneous data structures.
+```{r}
+# Create a 3-dimensional array
+# The elements of the array will be filled in column-major order
+my_array <- array(1:24, dim = c(3, 4, 2))
+
+# Print the array
+print(my_array)
+
+
+# Create a 3-dimensional array with dimension names
+dim_names <- list(
+  Row = c("Row1", "Row2", "Row3"),
+  Column = c("Col1", "Col2", "Col3", "Col4"),
+  Layer = c("Layer1", "Layer2")
+)
+
+my_array_named <- array(1:24, dim = c(3, 4, 2), dimnames = dim_names)
+
+# Print the array with dimension names
+print(my_array_named)
+
+
+# Access the entire 2nd row of the 1st layer
+row <- my_array[2, , 1]
+print(row)
+
+# Access the entire 3rd column of the 2nd layer
+column <- my_array[, 3, 2]
+print(column)
+
+# Access the entire 1st layer
+layer <- my_array[, , 1]
+print(layer)
+```
+
+# Read and write file
+
+In R, reading and writing files is an essential part of data analysis and manipulation. Whether you need to import external data into R for analysis or export results from your analysis, R provides a variety of functions and methods to handle file I/O operations efficiently.
+
+<div style="text-align: center;">
+  <img src="https://www.scaler.com/topics/images/different-dataset-formats-in-pandas-thumbnail.webp" width="8000" height="500">
+</div>
+
+## Read file
+
+```{r}
+# read table 
+# tab <- read.table("genus.csv", header=TRUE,row.names=1, sep=",")
+# tab <- read.table("genus.tsv", header=TRUE,row.names=1, sep="\t")
+# tab <- read.delim("genus.txt", header=T, row.names=1)
+# # read data excel file 
+install.packages("readxl")
+library(readxl)
+df <- read_xlsx(path = "C:/Users/Admin/OneDrive/Documents/R_tutorial/Dataset.xlsx")
+df 
+
+
+
+```
+## Write file
+
+```{r}
+write.table(df, file="./dataset.tsv", quote=FALSE,
+row.names=FALSE,sep="\t")
+
+write.table(df, file="./dataset.csv", quote=FALSE,
+row.names=FALSE,sep=",")
+```
+
+
+# If-else statement, loop and function.
+
+## If-else statement
+
+If-else, provides us with an optional else block which gets executed if the condition for if block is false.  If the condition provided to if block is true then the statement within the if block gets executed, else the statement within the else block gets executed.
+
+<span style='color:red'>if (condition is true) {</span><br>
+<span style='color:red'>&nbsp;&nbsp;&nbsp;&nbsp;execute this statement</span><br>
+<span style='color:red'>} else {</span><br>
+<span style='color:red'>&nbsp;&nbsp;&nbsp;&nbsp;execute this statement</span><br>
+<span style='color:red'>}</span><br>
+
+<div style="text-align: center;">
+  <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230220123250/flowchart_of_if_else_in_c.png" alt="If else structure" width="8000" height="500">
+</div>
+
+```{r}
+age = 18
+ if (age >= 18){
+    print('adult')
+ }else{
+    print('not adult')
+ }
+```
+let have complicate problem:
+
+```{r}
+## example: tom want to go party with his crush, and he has to get enough money to do that:
+#  so we have some variable for this problem: 
+    # his's money: 1000
+    # party cost: 900
+    # free time:TRUE
+    # his relationship with crush: Like
+    # his relationship with friend: fine
+
+tom_Money <- 1000
+free_time <- TRUE
+cost <- 1300
+rel_with_crush <- "like"
+rel_with_friend <- "good"
+date_flat = FALSE
+
+if (rel_with_crush %in% c('like', 'love')){
+    if (free_time){
+        if (tom_Money > cost ){
+            date_flat = TRUE  
+
+        } else if (rel_with_friend %in% c('not bad', 'good')) {
+            date_flat = TRUE 
+           
+        }else {
+            print('you don\'t hanve enough money!!')
+        }
+
+    }else{
+        print('so busy can\'t  go to chill!!')
+    }
+
+} else{
+print('your relationship is not high enough !!')
+}
+
+if (date_flat){
+    print('ready for date!')
+}
+```
+
+## switch statement
+In this switch function expression is matched to list of cases. If a match is found then it prints that case’s value. No default case is available here. If no case is matched it outputs NULL as shown in example.
+
+<span style='color:red'>switch(expression,</span><br>
+<span style='color:red'>&nbsp;&nbsp;&nbsp;&nbsp;case1 = {</span><br>
+<span style='color:red'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;execute this statement</span><br>
+<span style='color:red'>&nbsp;&nbsp;&nbsp;&nbsp;},</span><br>
+<span style='color:red'>&nbsp;&nbsp;&nbsp;&nbsp;case2 = {</span><br>
+<span style='color:red'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;execute this statement</span><br>
+<span style='color:red'>&nbsp;&nbsp;&nbsp;&nbsp;},</span><br>
+<span style='color:red'>&nbsp;&nbsp;&nbsp;&nbsp;default = {</span><br>
+<span style='color:red'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;execute this statement</span><br>
+<span style='color:red'>&nbsp;&nbsp;&nbsp;&nbsp;}</span><br>
+<span style='color:red'>)</span>
+
+
+
+```{r}
+x <- switch('quy', 'duc'= 21,
+                    'quy'= 22,
+                    'lan'= 25,
+                    'nhu'=15)
+          
+print(x)
+
+# Another example: using switch to make simple calculation.
+operation = '+'
+result <- switch(operation,
+                 "+" = function(a, b) {return(a + b)},
+                 "-" = function(a, b) {return(a - b)},
+                 "*" = function(a, b) {return(a * b)},
+                 "/" = function(a, b) {return(a / b)},
+                 default = "Invalid operation")
+
+cat('sum function:', result(20, 10))
+
+```
+## loop
+
+
+<div style="text-align: center;">
+  <img src="https://www.datamentor.io/sites/tutorial2program/files/r-next-flowchart.png" alt="loop structure" width="8000" height="500">
+</div>
+
+### while loop
+
+While loop in R programming language is used when the exact number of iterations of a loop is not known beforehand. It executes the same code again and again until a stop condition is met.
+
+
+<span style='color:red'> Syntax:  <span>
+
+<span style='color:red'> while (test_expression) { <span>
+
+<span style='color:red'>&nbsp;&nbsp;&nbsp;statement{ <span>
+
+<span style='color:red'>&nbsp;&nbsp;&nbsp;update_expression{ <span>
+
+<span style='color:red'> } <span>
+
+```{r}
+num <- 0
+while(num < 10){
+    print(num)
+    num <- num + 1
+}
+
+# example: find number 6 in vector
+vect <- c(1,25,2,423,5,7,2,5,87,5,6)
+while(num <= length(vect)){
+    if (vect[num] == 6){
+      print(paste('find this number in position:', num))
+      break 
+    }
+    num <- num + 1
+}
+
+```
+
+### for loop
+
+For loop in R Programming Language is useful to iterate over the elements of a list, data frame, vector, matrix, or any other object. It means the for loop can be used to execute a group of statements repeatedly depending upon the number of elements in the object
+
+<span style='color:red'> Syntax:  <span>
+
+<span style='color:red'> for (var in vector){ <span>
+
+<span style='color:red'>&nbsp;&nbsp;&nbsp;statement(s){ <span>
+
+<span style='color:red'> } <span>
+
+
+```{r}
+for (i in 0:9) {
+    print(i)
+}
+
+# example: 
+random_number <- sample(1:10, 10)
+for (i in random_number){
+    if (i > 5){
+        print(i)
+    }
+}
+```
+
+## Function
+
+- Type of function in R:
+<div style="text-align: center;">
+  <img src="https://static.javatpoint.com/tutorial/r/images/r-function-types.png" alt="type of fucntion in R" width="8000" height="500">
+</div>
+- Function structure in R: 
+<div style="text-align: center;">
+  <img src="https://www.rforecology.com/functions_image0_new.png" alt="type of fucntion in R" width="8000" height="500">
+</div>
+
+- code: 
+```{r}
+hello <- function(){
+    print('hello the world')
+}
+hello()
+
+
+sum <- function(x, y){
+    print('this is my sum function')
+    return (x + y)
+}
+sum(50, 11)
+
+# example: 5x + 100 = 0
+findx <- function(a, b, y) {
+    return ((y-b)/a)
+}
+x = findx(5, 100,0)
+print(paste('5x + 100 = 0 <-> x =', x, sep=" "))
+
+```
+
+
+## apply(), lapply(), sapply() and mapply()
+
+in this section we using dataset iris, mtcars and custom function to explain apply and other stuff.
+
+<div style="text-align: center;">
+  <img src="https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Machine+Learning+R/iris-machinelearning.png" alt="type of fucntion in R" width="8000" height="500">
+</div>
+
+
+```{r}
+# apply(X, MARGIN, FUN)
+# Here:
+# -x: an array or matrix
+# -MARGIN:  take a value or range between 1 and 2 to define where to apply the function:
+# -MARGIN=1`: the manipulation is performed on rows
+# -MARGIN=2`: the manipulation is performed on columns
+# -MARGIN=c(1,2)` the manipulation is performed on rows and columns
+# -FUN: tells which function to apply. Built functions like mean, median, sum, min, max and even user-defined functions can be applied>
+```
+```{r}
+# lapply(X, FUN)
+# Arguments:
+# -X: A vector or an object
+# -FUN: Function applied to each element of x
+```
+```{r}
+# sapply(X, FUN)
+# Arguments:
+# -X: A vector or an object
+# -FUN: Function applied to each element of x
+```
+```{r}
+# tapply(X, INDEX, FUN = NULL)
+# Arguments:
+# -X: An object, usually a vector
+# -INDEX: A list containing factor
+# -FUN: Function applied to each element of x
+```
+
+
+```{r}
+# Iris dataset 
+head(iris)
+str(iris)
+
+# So i want to know mean of Sepal.Length, Sepal.Width, Petal.Length, Petal.Width 
+result <- apply(iris[,1:4], 2, mean)
+result
+
+# tapply () -> list 
+mean_Sepal_Width <- tapply(iris$Sepal.Width, iris$Species, FUN= mean)
+class(mean_Sepal_Width)
+mean_Sepal_Width
+
+# we can combine them together too. 
+result2 <- lapply(iris[,1:4],FUN=function(X)tapply(X, iris$Species, FUN=mean))
+result2
+
+# sapply: Similar to lapply, but tries to simplify the result to a vector or matrix if possible.
+Sepal_Width <- function(s_w){
+  if (s_w > 3){
+    return (TRUE)
+  }
+  else {
+     return (FALSE)
+  }
+}
+
+index2 <- sapply(X=iris$Sepal.Width, FUN=Sepal_Width)
+class(index2)
+head(iris[index2,])
+
+# lapply:  Applies a function to each element of a list or vector and returns a list.
+index3 <- sapply(X=iris$Sepal.Width, FUN=Sepal_Width)
+
+# mapply: is a multivariate version of sapply. 
+df <- mtcars
+
+within_range <- function(mpg, low, height){
+    if (mpg > low & mpg <= height){
+        return (TRUE)
+    }
+    return (FALSE)
+}
+
+index3 <- sapply(X=df$mpg, FUN=within_range ,low=15, height=20)
+index3
+
+df[index3, ]
+
+mgp_within_standar_range  <- function(mpg, cyl){
+    if (cyl == 4){
+        return (within_range(mpg, low=23, height=31 ))
+    }else if (cyl == 6){
+        return (within_range(mpg, low= 18, height=23 ))
+    }
+    return (within_range(mpg, low=13, height=18))
+
+}
+
+index4 <- mapply(FUN=mgp_within_standar_range, mpg=df$mpg, cyl=df$cyl)
+df[index4, ]
+
+# We can create funtion in mapply.
+mapply(function(x, y) seq_len(x) + y,
+       c(a =  1, b = 2, c = 3),  # names from first
+       c(A = 10, B = 0, C = -10))
+
+
+# Let me exaplain result.
+seq_len(3)
+
+``` 
+
+# references
+- https://www.geeksforgeeks.org/r-tutorial/?ref=lbp
+- https://www.guru99.com/r-apply-sapply-tapply.html
