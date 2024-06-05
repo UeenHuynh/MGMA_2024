@@ -1,1 +1,2 @@
 *.bam filter=lfs diff=lfs merge=lfs -text
+*.fastq.gz filter=lfs diff=lfs merge=lfs -text
