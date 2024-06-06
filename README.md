@@ -86,6 +86,7 @@
 ### Pairwise Sequence Alignment and Genome-wide Alignment 
 ### Basic plot in R2
 ### Introduction to GitHub
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx)
 
 ## June 9, 2024
 ### Lecture 7:
