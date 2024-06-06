@@ -1,3 +1,4 @@
+#!/bin/bash
 for name in `ls /home/huyha/`; do
 if [[ -f "/home/huyha/$name" ]];then
     echo "$name is file"
