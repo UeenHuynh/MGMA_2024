@@ -95,7 +95,7 @@
 
 ## June 13, 2024
 ### Lecture 8:
-### Multiple Sequence Alignment and Multilpe Genome-wide Alignment
+### Gene and Genome Annotation
 ### Basic statistics in R3
 
 ## June 13, 2024
