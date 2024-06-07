@@ -83,7 +83,7 @@
 
 ## June 6, 2024
 ### Lecture 6:
-### Pairwise Sequence Alignment and Genome-wide Alignment: Multiple genome alignment with Mauve
+### Pairwise and Multiple genome alignment with Mauve
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx)
 ### Basic plot in R2
 ### Introduction to GitHub
