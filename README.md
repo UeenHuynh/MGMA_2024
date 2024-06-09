@@ -86,9 +86,11 @@
 ### Pairwise and Multiple genome alignment with Mauve
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx)
 ### Basic plot in R2
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Basic%20R2.pptx) &emsp;[Question](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/R2_question.txt) &emsp;[Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Answer_R2.R)
 ### Introduction to GitHub
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx)
-
+### Test answer:
+- []
 ## June 9, 2024
 ### Lecture 7:
 ###  Introduction of next-generation sequencing (NGS) and NGS platforms
