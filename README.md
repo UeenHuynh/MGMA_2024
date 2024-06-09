@@ -90,7 +90,7 @@
 ### Introduction to GitHub
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx)
 ### Test answer:
-- []
+- [Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Q%26A-pairwise-alignment-6-6-2024.docx)
 ## June 9, 2024
 ### Lecture 7:
 ###  Introduction of next-generation sequencing (NGS) and NGS platforms
