@@ -94,7 +94,7 @@
 ## June 9, 2024
 ### Lecture 7:
 ###  Introduction of next-generation sequencing (NGS) and NGS platforms
-
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pptx)
 ## June 13, 2024
 ### Lecture 8:
 ### Gene and Genome Annotation
