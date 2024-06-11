@@ -95,8 +95,9 @@
 ### Lecture 7:
 ###  Introduction of next-generation sequencing (NGS) and NGS platforms
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pptx)
+- [SISC](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS%20-%20Ion_Turrent_sequencing%20-%20SISC)
 ### Q&A:
-- [PacBio](https://docs.google.com/presentation/d/1QWkN66QjXux6aAvEaf7h1owOtWA9J_7n8mkhUBXzv-4/edit?usp=sharing) &emsp;[MGI](https://docs.google.com/presentation/d/1i5_9dFW5CW1GZO0AwLMAGDxlne4_ze6J-_ovlbAJhc0/edit#slide=id.g2e46905ef34_0_6) &emsp;[AVITI](https://docs.google.com/presentation/d/1wpYaS0Gn7Yn-3jr2Eh0PNogLvzC-YnfO2wubZwsBL0U/edit?usp=sharing) &emsp;[GeneMind](https://docs.google.com/presentation/d/1mX1X9rC5G42-pdoke7YkK5lUSXpe6qxHUAy8EVMHwxI/edit#slide=id.g2e46a4f8d89_1_31) &emsp;[Illumina](https://docs.google.com/presentation/d/1S_ra-UyH4fNBe9dWA3k5t1x7q4GNEpQnYW1_MQQQXoE/edit?usp=sharing)
+- [PacBio](https://docs.google.com/presentation/d/1QWkN66QjXux6aAvEaf7h1owOtWA9J_7n8mkhUBXzv-4/edit?usp=sharing) &emsp;[MGI](https://docs.google.com/presentation/d/1i5_9dFW5CW1GZO0AwLMAGDxlne4_ze6J-_ovlbAJhc0/edit#slide=id.g2e46905ef34_0_6) &emsp;[AVITI](https://docs.google.com/presentation/d/1wpYaS0Gn7Yn-3jr2Eh0PNogLvzC-YnfO2wubZwsBL0U/edit?usp=sharing) &emsp;[GeneMind](https://docs.google.com/presentation/d/1mX1X9rC5G42-pdoke7YkK5lUSXpe6qxHUAy8EVMHwxI/edit#slide=id.g2e46a4f8d89_1_31) &emsp;[Illumina](https://docs.google.com/presentation/d/1S_ra-UyH4fNBe9dWA3k5t1x7q4GNEpQnYW1_MQQQXoE/edit?usp=sharing)&emsp;[SISC](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/Q%26A_Ion_Torrent.pptx)
 ## June 13, 2024
 ### Lecture 8:
 ### Gene and Genome Annotation
