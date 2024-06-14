@@ -59,27 +59,30 @@
 - [Script](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/script)
 - [Homework_Answer](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/homework)
 - [Awk Cheat sheet](https://bl831.als.lbl.gov/~gmeigs/scripting_help/awk_cheat_sheet.pdf)
-
+- [Youtube](https://www.youtube.com/watch?v=3r83hXh9qL8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=12)
+### [Q&A](https://www.youtube.com/watch?v=6r87H7m_Yko&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=13).
 ## May 30, 2024
 ### Lecture 4: 
 ### Basic Microbe Genomics & Metagenomics and Their Applications
 - Overview of microbial genomics, metagenomics, and their practical applications.
 ### Primer and Probe Design
-- [Techniques for designing primers and probes for microbial genome analysis.](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf)
+- [Techniques for designing primers and probes for microbial genome analysis.](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf. $emsp; [Youtube](https://www.youtube.com/watch?v=NynLku_Oizk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=14).
 ### Wrap-up Linux Command Line Change into Code in README
 - [Slide](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/wrapup_linux_command_line_practice.pdf)
 - [Bash cheat sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/Wrap_Up_Linux.pdf)
-
+- [Youtube](https://www.youtube.com/watch?v=114oATBzX-I&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=15).
+### [Q&A](https://www.youtube.com/watch?v=pjXgItToXRk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=16).
 ## June 2, 2024
 ### Lecture 5: 
 ### Multiple Alignment
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pptx)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pptx) $emsp;[Youtube](https://www.youtube.com/watch?v=5fj5HEZk7B8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=17)
 ### Phylogenetic Trees
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pptx)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pptx) $emsp;[Youtube](https://www.youtube.com/watch?v=g_EFfYhAXG4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=18)
 ### Basic R1: Data types, Basic calculations, Data structure, Basic Functions (For loop, If ...else, While loop)
-- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Homework%20R1.pptx) &emsp;[Markdown](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/R1_markdown.rmd)
-### C.ode editing with VScode: Homework
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Code%20editing%20with%20vs-code.ppt)
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Homework%20R1.pptx) &emsp;[Markdown](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/R1_markdown.rmd) &enmsp; [Youtube](https://www.youtube.com/watch?v=5iKr0TWv5xE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=19)
+### Code editing with VScode: Homework
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Code%20editing%20with%20vs-code.ppt) &emsp; [Youtube](https://www.youtube.com/watch?v=1IU7-67iYbM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=20)
+### [Q&A](https://www.youtube.com/watch?v=xsohnjaVloY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=21)
 
 ## June 6, 2024
 ### Lecture 6:
