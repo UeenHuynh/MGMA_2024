@@ -91,6 +91,7 @@
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx)
 ### Test answer:
 - [Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Q%26A-pairwise-alignment-6-6-2024.docx)
+
 ## June 9, 2024
 ### Lecture 7:
 ###  Introduction of next-generation sequencing (NGS) and NGS platforms
@@ -99,6 +100,7 @@
 - [SISC](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS%20-%20Ion_Turrent_sequencing%20-%20SISC)
 ### Q&A:
 - [PacBio](https://docs.google.com/presentation/d/1QWkN66QjXux6aAvEaf7h1owOtWA9J_7n8mkhUBXzv-4/edit?usp=sharing) &emsp;[MGI](https://docs.google.com/presentation/d/1i5_9dFW5CW1GZO0AwLMAGDxlne4_ze6J-_ovlbAJhc0/edit#slide=id.g2e46905ef34_0_6) &emsp;[AVITI](https://docs.google.com/presentation/d/1wpYaS0Gn7Yn-3jr2Eh0PNogLvzC-YnfO2wubZwsBL0U/edit?usp=sharing) &emsp;[GeneMind](https://docs.google.com/presentation/d/1mX1X9rC5G42-pdoke7YkK5lUSXpe6qxHUAy8EVMHwxI/edit#slide=id.g2e46a4f8d89_1_31) &emsp;[Illumina](https://docs.google.com/presentation/d/1S_ra-UyH4fNBe9dWA3k5t1x7q4GNEpQnYW1_MQQQXoE/edit?usp=sharing)&emsp;[SISC](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/Q%26A_Ion_Torrent.pptx)
+
 ## June 13, 2024
 ### Lecture 8:
 ### Gene and Genome Annotation
@@ -106,11 +108,14 @@
 ### Basic statistics in R3
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/1q4Hm8-7czKdhyHPc0JIiWPsTKN_3u8I2.pdf)
 - [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/VdrGenusCounts.csv) &emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/code_statistics_Tr%C3%AD.R)
-## June 13, 2024
+
+## June 16, 2024
 ### Lecture 9:
-### Whole genome sequencing and Phylogenetic analysis for Microbes
-### Mapping
-### Calling variants 
+### Introduction of Whole genome sequencing analysis for Microbes
+### Microbial WGS upstream analysis
+#### 1. Mapping
+#### 2. Calling variants
+#### 3. Building Phylogenetic Trees 
 
 ## References:
 #### Book:
