@@ -66,7 +66,8 @@
 ### Basic Microbe Genomics & Metagenomics and Their Applications
 - Overview of microbial genomics, metagenomics, and their practical applications.
 ### Primer and Probe Design
-- [Techniques for designing primers and probes for microbial genome analysis.](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf. &emsp; [YOUTUBE](https://www.youtube.com/watch?v=NynLku_Oizk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=14).
+- [Techniques for designing primers and probes for microbial genome analysis.](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf
+- [YOUTUBE](https://www.youtube.com/watch?v=NynLku_Oizk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=14).
 ### Wrap-up Linux Command Line Change into Code in README
 - [Slide](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/wrapup_linux_command_line_practice.pdf)
 - [Bash cheat sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/Wrap_Up_Linux.pdf)
@@ -79,7 +80,7 @@
 ### Phylogenetic Trees
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pptx) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=g_EFfYhAXG4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=18)
 ### Basic R1: Data types, Basic calculations, Data structure, Basic Functions (For loop, If ...else, While loop)
-- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Homework%20R1.pptx) &emsp;[Markdown](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/R1_markdown.rmd) &enmsp; [YOUTUBE](https://www.youtube.com/watch?v=5iKr0TWv5xE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=19)
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Homework%20R1.pptx) &emsp;[Markdown](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/R1_markdown.rmd) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=5iKr0TWv5xE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=19)
 ### Code editing with VScode: Homework
 - [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Code%20editing%20with%20vs-code.ppt) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=1IU7-67iYbM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=20)
 ### [Q&A](https://www.youtube.com/watch?v=xsohnjaVloY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=21)
@@ -87,18 +88,21 @@
 ## June 6, 2024
 ### Lecture 6:
 ### Pairwise and Multiple genome alignment with Mauve
-[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx)
+[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=e4U0N9C-Rho&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=24)
 ### Basic plot in R2
-[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Basic%20R2.pptx) &emsp;[Question](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/R2_question.txt) &emsp;[Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Answer_R2.R)
+[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Basic%20R2.pptx) &emsp;[Question](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/R2_question.txt) &emsp;[Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Answer_R2.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=8GTNqj6YY2o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=25)
 ### Introduction to GitHub
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=Z8TCs7K3E3w&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=26)
 ### Test answer:
 - [Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Q%26A-pairwise-alignment-6-6-2024.docx)
+- [YOUTUBE](https://www.youtube.com/watch?v=doZFJCrK3-c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=27)
 
 ## June 9, 2024
 ### Lecture 7:
-###  Introduction of next-generation sequencing (NGS) and NGS platforms
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pptx)
+###  Sanger Sequencing method
+- [YOUTUBE](https://www.youtube.com/watch?v=XtblMQ-Al0g&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=29)
+###  Introduction of next-generation sequencing (NGS)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=hhOH7TG9WPc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=30)
 ### Lecture ppt
 - [SISC](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS%20-%20Ion_Turrent_sequencing%20-%20SISC)
 ### Q&A:
