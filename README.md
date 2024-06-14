@@ -115,7 +115,9 @@
 ### Microbial WGS upstream analysis
 #### 1. Mapping
 #### 2. Calling variants
-#### 3. Building Phylogenetic Trees 
+#### 3. Building a Phylogenetic Tree
+-[Slide]()
+-[Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture9/9.3_Building-a-Phylogenetic-Tree)
 
 ## References:
 #### Book:
