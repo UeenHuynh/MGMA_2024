@@ -102,6 +102,7 @@
 ## June 13, 2024
 ### Lecture 8:
 ### Gene and Genome Annotation
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Bacterial_genome_annotation_20240613.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Bacterial_genome_annotation_20240613.pptx)
 ### Basic statistics in R3
 
 ## June 13, 2024
