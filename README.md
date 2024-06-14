@@ -108,8 +108,8 @@
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS%20-%20Ion_Turrent_sequencing%20-%20SISC) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qso3tdp0IPo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=35)
 #### ILLUMINA
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/ILLUMINA%20Platform-%20Illumina%20VietNam.pdf)  &emsp; [YOUTUBE](https://www.youtube.com/watch?v=-Kw5ov-orzU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=33)
-#### PACBIO
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/PacBio%20Platform%20-%20DKSH.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=tFmNO5rVoeM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=31)
+#### MGI
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/MGI%20-%20Research%20Instruments.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=4_h4wNIyfk0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=34)
 ### Q&A:
 - [PacBio](https://docs.google.com/presentation/d/1QWkN66QjXux6aAvEaf7h1owOtWA9J_7n8mkhUBXzv-4/edit?usp=sharing) &emsp;[MGI](https://docs.google.com/presentation/d/1i5_9dFW5CW1GZO0AwLMAGDxlne4_ze6J-_ovlbAJhc0/edit#slide=id.g2e46905ef34_0_6) &emsp;[AVITI](https://docs.google.com/presentation/d/1wpYaS0Gn7Yn-3jr2Eh0PNogLvzC-YnfO2wubZwsBL0U/edit?usp=sharing) &emsp;[GeneMind](https://docs.google.com/presentation/d/1mX1X9rC5G42-pdoke7YkK5lUSXpe6qxHUAy8EVMHwxI/edit#slide=id.g2e46a4f8d89_1_31) &emsp;[Illumina](https://docs.google.com/presentation/d/1S_ra-UyH4fNBe9dWA3k5t1x7q4GNEpQnYW1_MQQQXoE/edit?usp=sharing)&emsp;[SISC](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/Q%26A_Ion_Torrent.pptx)
 
