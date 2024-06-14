@@ -4,14 +4,14 @@ In the previous step, we identified single nucleotide polymorphisms (SNPs) using
 
 Phylogenetic trees are invaluable tools in evolutionary biology, allowing researchers to trace the lineage of organisms, understand the genetic divergence between species, and infer ancestral relationships. In our specific case, analyzing the SNPs will enable us to uncover the evolutionary pathways and genetic variations within the fungal isolates, shedding light on their adaptation mechanisms and evolutionary dynamics.
 
-To construct the phylogenetic tree, we will use `FastTree`, a computationally efficient program known for its speed and accuracy in building large-scale phylogenies. `FastTree` **approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide or protein sequences and can handle alignments with up to a million sequences in a reasonable amount of time and memory**. For large alignments, `FastTree` is 100-1,000 times faster than PhyML 3.0 or RAxML 7. As open-source software, FastTree is freely available for download and use.
+To construct the phylogenetic tree, we will use `FastTree`, a computationally efficient program known for its speed and accuracy in building large-scale phylogenies. `FastTree` **approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide or protein sequences and can handle alignments with up to a million sequences in a reasonable amount of time and memory**. For large alignments, `FastTree` is 100-1,000 times faster than PhyML 3.0 or RAxML 7. As open-source software, `FastTree` is freely available for download and use.
 
 This tutorial draws inspiration from [Dr. Jennifer Chang's Bioinformatics Workbook](https://bioinformaticsworkbook.org/phylogenetics/FastTree.html#gsc.tab=0).
 
 ## Software required
 [MAFFT](https://mafft.cbrc.jp/alignment/software/): For aligning sequences.
 [FastTree](http://meta.microbesonline.org/fasttree/#Usage): Build phylogenetic trees quickly.
-[FigTree](http://tree.bio.ed.ac.uk/software/figtree/): View phylogenetic trees.
+[iTOL](https://itol.embl.de/): View phylogenetic trees.
 
 ## Overview of the pipeline
 ```mermaid
@@ -27,7 +27,7 @@ A["Variant calling <br/> GATK (*.vcf)"] --> B["Variant filtration <br/> GATK (*.
 B --> C["Generating consensus<br/> sequences <br/> (*.fasta)"];
 C --> D["Multiple sequence<br/> alignments <br/> MAFFT (*.fasta)"];
 D --> E["Building a phylogenetic<br/> tree <br/> FastTree (*.tre)"];
-E --> F["Visualization <br/> FigTree (pdf figure)"];
+E --> F["Visualization <br/> iTOL (*.svg/*.pdf figure)"];
 ```
 
 ## Example Dataset
@@ -35,7 +35,7 @@ E --> F["Visualization <br/> FigTree (pdf figure)"];
 
 - 5 Candida auris sequences ([SRR27718832](https://www.ncbi.nlm.nih.gov/sra/SRR27718832), [SRR27718834](https://www.ncbi.nlm.nih.gov/sra/?term=SRR27718834), [SRR28872828](https://www.ncbi.nlm.nih.gov/sra/?term=SRR28872828), [SRR28872841](https://www.ncbi.nlm.nih.gov/sra/?term=SRR28872841), [SRR28872842](https://www.ncbi.nlm.nih.gov/sra/?term=SRR28872842)) were obtained via whole-genome sequencing with paired-end reads.
 
-- Following upstream analysis, all sequences undergo variant calling to identify Single Nucleotide Polymorphisms (SNPs). The resulting Variant Call Format (`VCF`) files are then converted into FASTA format and subsequently merged into a single, composite `FASTA` file named `vcf-to-fasta.fasta`.
+- Following upstream analysis, all sequences undergo variant calling to identify Single Nucleotide Polymorphisms (SNPs). The resulting Variant Call Format (`VCF`) files are then converted into `FASTA` format and subsequently merged into a single, composite `FASTA` file named `vcf-to-fasta.fasta`.
 
 ```bash
 $ grep ">" vcf-to-fasta.fasta
@@ -50,12 +50,12 @@ $ grep ">" vcf-to-fasta.fasta
 
 ### Step 1: `MAFFT`
 
-For nucleotide alignment using `MAFFT`, employ the `--auto` option to automatically detect parameters and generate the aligned sequence file input_aln.fasta.
+For nucleotide alignment using `MAFFT`, employ the `--auto` option to automatically detect parameters and generate the aligned sequence file `input_aln.fasta`.
 
 ```bash
 mafft --auto vcf-to-fasta.fasta > input_aln.fasta
 ```
-### Step 2: FastTree
+### Step 2: `FastTree`
 
 ```bash
 # For a nucleotide alignment
@@ -73,20 +73,16 @@ fasttree -gtr -gamma -fastest -log output_phylogeny.tre.log -nt input_aln.fasta 
 
 The resulting `output_phylogeny.tre` file will display the organisms grouped in Newick format, similar to:
 ```
-(SRR27718832:0.000030713,SRR27718834:0.000017589,(reference:0.000252831,(SRR28872828:0.330423874,(SRR28872841:0.000124734,SRR28872842:0.000052112)1.000:4.264691578)0.998:0.015471241)1.000:0.000517116);
+(SRR27718832:0.000029880,SRR27718834:0.000017083,(reference:0.000247326,(SRR28872828:0.139602419,(SRR28872841:0.000119089,SRR28872842:0.000099675)1.000:0.961369022)1.000:0.125958982)1.000:0.000500244);
 ```
 
-### Step 3: FigTree
+### Step 3: `iTOL`
 
-Open FigTree and load your `output_phylogeny.tre` file using `File > Open Tree`. Since the tree is unrooted, set the midpoint `(Ctrl-M)` and sort upward `(Ctrl-U)` as a starting root estimate. Adjust the root position based on virus studies or chronological data, positioning it close to the earliest viral sequence if applicable.
+Upload your tree file to https://itol.embl.de/: iTOL supports formats like Newick, Nexus, PhyloXML, and Jplace. Upload anonymously or by creating an account.
 
-#### Basic Tree Visualization:
-Experiment with FigTree's visualization tools. Explore expandable sections on the left, use the Node/Clade/Taxa buttons, and apply branch coloring through the "Colour" menu.
+Explore the interface and visualization functions: Customize your tree's appearance with various layouts (circular, rectangular), branch lengths, colors, and label fonts and sizes. 
 
-#### Annotated Tree:
-After customization, save the tree. The input.tre file converts to NEXUS format, retaining the original Newick tree in the "begin trees;" section.
-
-This structured workflow guides you through sequence alignment with MAFFT, phylogenetic tree construction using FastTree, and visualization in FigTree, facilitating comprehensive analysis and visualization of evolutionary relationships. Adjust commands and options based on specific dataset requirements and analytical goals.
+Export your tree: Once satisfied, export your tree as a high-quality image file (`SVG`, `PDF`) for presentations or publications.
 
 
 
@@ -99,3 +95,7 @@ This structured workflow guides you through sequence alignment with MAFFT, phylo
 Fast Tree Documentation: http://meta.microbesonline.org/fasttree/#Usage
 
 Phylogenetics - Back to basics: https://training.galaxyproject.org/topics/evolution/tutorials/abc_intro_phylo/tutorial.html
+
+Phylogenetic analysis for beginners using MEGA 11 software: https://www.youtube.com/watch?v=u9YNvHaRI5A
+
+Phylogenetic Tree Construction with iTol: https://www.youtube.com/watch?v=orLVMEZMp0Y
