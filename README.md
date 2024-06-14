@@ -104,7 +104,8 @@
 ### Gene and Genome Annotation
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Bacterial_genome_annotation_20240613.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Bacterial_genome_annotation_20240613.pptx)
 ### Basic statistics in R3
-
+- (PDF)[]
+- [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/VdrGenusCounts.csv) &emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/code_statistics_Tr%C3%AD.R)
 ## June 13, 2024
 ### Lecture 9:
 ### Whole genome sequencing and Phylogenetic analysis for Microbes
