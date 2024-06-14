@@ -104,14 +104,19 @@
 ###  Introduction of next-generation sequencing (NGS)
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=hhOH7TG9WPc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=30)
 ### Lecture ppt
-- [SISC](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS%20-%20Ion_Turrent_sequencing%20-%20SISC)
+- [SISC]
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS%20-%20Ion_Turrent_sequencing%20-%20SISC) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qso3tdp0IPo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=35)
+- [ILLUMINA]
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/ILLUMINA%20Platform-%20Illumina%20VietNam.pdf)  &emsp; [YOUTUBE](https://www.youtube.com/watch?v=-Kw5ov-orzU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=33)
+- [PACBIO]
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/PacBio%20Platform%20-%20DKSH.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=tFmNO5rVoeM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=31)
 ### Q&A:
 - [PacBio](https://docs.google.com/presentation/d/1QWkN66QjXux6aAvEaf7h1owOtWA9J_7n8mkhUBXzv-4/edit?usp=sharing) &emsp;[MGI](https://docs.google.com/presentation/d/1i5_9dFW5CW1GZO0AwLMAGDxlne4_ze6J-_ovlbAJhc0/edit#slide=id.g2e46905ef34_0_6) &emsp;[AVITI](https://docs.google.com/presentation/d/1wpYaS0Gn7Yn-3jr2Eh0PNogLvzC-YnfO2wubZwsBL0U/edit?usp=sharing) &emsp;[GeneMind](https://docs.google.com/presentation/d/1mX1X9rC5G42-pdoke7YkK5lUSXpe6qxHUAy8EVMHwxI/edit#slide=id.g2e46a4f8d89_1_31) &emsp;[Illumina](https://docs.google.com/presentation/d/1S_ra-UyH4fNBe9dWA3k5t1x7q4GNEpQnYW1_MQQQXoE/edit?usp=sharing)&emsp;[SISC](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/Q%26A_Ion_Torrent.pptx)
 
 ## June 13, 2024
 ### Lecture 8:
 ### Gene and Genome Annotation
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Bacterial_genome_annotation_20240613.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Bacterial_genome_annotation_20240613.pptx)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Bacterial_genome_annotation_20240613.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Bacterial_genome_annotation_20240613.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=u6-hnKTHms8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=37)
 ### Basic statistics in R3
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/1q4Hm8-7czKdhyHPc0JIiWPsTKN_3u8I2.pdf)
 - [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/VdrGenusCounts.csv) &emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/code_statistics_Tr%C3%AD.R)
