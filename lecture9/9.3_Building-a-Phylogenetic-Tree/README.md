@@ -53,22 +53,22 @@ $ grep ">" vcf-to-fasta.fasta
 For nucleotide alignment using `MAFFT`, employ the `--auto` option to automatically detect parameters and generate the aligned sequence file `input_aln.fasta`.
 
 ```bash
-mafft --auto vcf-to-fasta.fasta > input_aln.fasta
+$ mafft --auto vcf-to-fasta.fasta > input_aln.fasta
 ```
 ### Step 2: `FastTree`
 
 ```bash
 # For a nucleotide alignment
-FastTree -nt -gtr -gamma input_aln.fasta > output.tre
+$ fasttree -nt -gtr -gamma input_aln.fasta > output.tre
 
 # For a protein alignment
-FastTree input_aln.fasta > output.tre
+$ fasttree input_aln.fasta > output.tre
 ```
 
 For nucleotide alignment, utilize `FastTree` with the `-nt` `-gtr` `-gamma` options on the aligned sequence file `input_aln.fasta` to generate the phylogenetic tree file `output_phylogeny.tre`.
 
 ```bash
-fasttree -gtr -gamma -fastest -log output_phylogeny.tre.log -nt input_aln.fasta > output_phylogeny.tre
+$ fasttree -gtr -gamma -fastest -log output_phylogeny.tre.log -nt input_aln.fasta > output_phylogeny.tre
 ```
 
 The resulting `output_phylogeny.tre` file will display the organisms grouped in Newick format, similar to:
@@ -86,11 +86,7 @@ Export your tree: Once satisfied, export your tree as a high-quality image file 
 
 ![IMG](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture9/9.3_Building-a-Phylogenetic-Tree/iTOL_tree.png)
 
-
-
-
-
-                 
+               
 ## References
 Fast Tree Documentation: http://meta.microbesonline.org/fasttree/#Usage
 
