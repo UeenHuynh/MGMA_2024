@@ -131,6 +131,13 @@
 -[Slide](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture9/9.3_Building-a-Phylogenetic-Tree/phylogenetic_tree.pdf)
 -[Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture9/9.3_Building-a-Phylogenetic-Tree)
 
+## June 20, 2024
+### Lecture 10:
+### Denovo assembly for WGS of Microbes
+-[Slide]()
+-[Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/lucianhu-patch-1/lecture10/Denovo_assembly)
+### Annotation of WGS and Pathway Analysis
+
 ## References:
 #### Book:
 - [R book](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/R)
