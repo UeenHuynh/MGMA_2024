@@ -114,9 +114,9 @@
 
 ## References:
 #### Book:
-- **R book:** [R book](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/R)
-- **Bioinformatics Linux:** [Bioinformatics Linux](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/bioinformatics_linux)
-- **Metagenomics:** [Metagenomics](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/metagenomics)
+- [R book](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/R)
+- [Bioinformatics Linux](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/bioinformatics_linux)
+- [Metagenomics](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/metagenomics)
 #### Some course recommend for Bash, Scripts, Awk:
 - [Awk](https://www.udemy.com/course/advance-unix-commands/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROW&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=&priority=&utm_content=deal4584&utm_term=_._ag_77879423894_._ad_535397245857_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171032_._li_1028581_._pd__._&matchtype=&gad_source=2&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9P6tIxYgnIWnAgf-Q-8a2iXhTKpjc7u7qOmAxV_MACoimqFRzNXTVMaApeeEALw_wcB&couponCode=2021PM25) &emsp;[Awk Youtube1](https://www.youtube.com/watch?v=I-uWvNvtJcY&list=PLY-V_O-O7h4fzqbPT0kpQMl8XlPvSse9H&pp=iAQB) &emsp;[Awk Youtube2](https://youtu.be/oPEnvuj9QrI)
 - [Scripts](https://www.udemy.com/course/linux-shell-scripting/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=&priority=&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282064_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_1028581_._pd__._&matchtype=&gad_source=2&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9Mulr7atWce8JLEMlbdQSr-3Er5TTKRU_jrjvd8yKi0e6jugGKKWI8aAuPPEALw_wcB&couponCode=2021PM25)
