@@ -203,19 +203,29 @@
 
 ### Lecture 9
 
-#### 1. Introduction of Whole genome sequencing analysis for Microbes
+#### I. Introduction of Whole genome sequencing analysis for Microbes
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000)
 
-#### 2. Mapping sequence reads
+#### II. Microbial WGS upstream analysis
+
+##### 1. QC and Trimming
+
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000)
+- [QC](./lecture9/9.1_Mapping/output/FastQC/)
+- [Trimming](./lecture9/9.1_Mapping/output/trimmed/)
+
+##### 2. Alignment/Mapping to the reference genome, QC and visualization of BAM
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000)
 - [Paper](./lecture9/docs/The_anti-tubercular_callyaerins_target_the_Mycobac.pdf)
-- [Materials](./lecture9/)
+- [Alignment](./lecture9/9.1_Mapping/output/alignment/)
 
-#### 3. Calling variants
+#### III. Microbial WGS downstream analysis
 
-#### 4. Building a Phylogenetic Tree
+##### 1. Calling variants and visualization of variants (VCF)
+
+##### 2. Building and visualization of Phylogenetic Trees
 
 -[Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture9/9.3_Building-a-Phylogenetic-Tree/phylogenetic_tree.pdf)
 -[Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture9/9.3_Building-a-Phylogenetic-Tree)
