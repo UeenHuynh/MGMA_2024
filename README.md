@@ -5,7 +5,9 @@
 ### Lecture 1
 [Introduction to the course structure and objectives](https://www.youtube.com/watch?v=epMAMIo0AOo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=1&pp=iAQB)
 
-[Ways to get the Terminal](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Way%20to%20get%20the%20terminal)[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx) &emsp;
+[Ways to get the Terminal](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Way%20to%20get%20the%20terminal)
+
+[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx) &emsp;
 ### Ubuntu and Basic Linux Commands Part 1
 
 - I. Introduction: Ubuntu, File Systems, Some Terms &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pptx) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2)
