@@ -6,7 +6,6 @@
 [Introduction to the course structure and objectives](https://www.youtube.com/watch?v=epMAMIo0AOo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=1&pp=iAQB) &emsp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx) \
 [Ways to get the Terminal](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Way%20to%20get%20the%20terminal)
 
-
 ### Ubuntu and Basic Linux Commands Part 1
 [I. Introduction: Ubuntu, File Systems, Some Terms](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2&t=2s&pp=iAQB) &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pptx) \
 [II. Some commands work with files and directories](https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3&t=2s&pp=iAQB)
@@ -18,13 +17,8 @@
 ## May 23, 2024
 
 ### Lecture 2
-
-- [Youtube Live](https://www.youtube.com/watch?v=o078r7GYGfA)
-
-### Nucleotide sequence database: DNA and RNA
-
-- Slide: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx) &emsp;[YOUTUBE](https://youtu.be/z_GshrtJU_o?si=zA10_iOonyXNyHZA)
-- Homework: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pptx)
+[Nucleotide sequence database: DNA and RNA](https://www.youtube.com/watch?v=z_GshrtJU_o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=5&pp=iAQB)  &emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx) \
+Homework: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pptx)
 
 ### Homology Search with BLAST (Part 1)
 
