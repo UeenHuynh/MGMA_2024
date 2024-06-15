@@ -70,7 +70,8 @@
 - Slide: &ensp;[PDF](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing) &emsp;[YOUTUBE](https://youtu.be/bIMtUtNmBW4?si=ji-NgsicNPQ_vdBN) &emsp;
 - [Homework](https://docs.google.com/presentation/d/1-3tyBtMYiRJPyBK5svC5-boe3KbQersSZCAWzSUbmLA/edit?usp=sharing) &ensp;[Homework material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script) &ensp;[Answer for homework](https://github.com/UeenHuynh/MGMA_2024/tree/a1eb39362bcd9bf0181f6747c79821f9b0c83c20/lecture2/Bashscript1)
 
-#### [Bash Cheat Sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Bash_Cheat_Sheet.html) (Download to your device to view)### [Q&A](https://youtu.be/MYUUYeJ8YoY?si=pnOKfzE-ML0--QKa)
+#### [Bash Cheat Sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Bash_Cheat_Sheet.html) (Download to your device to view)
+### [Q&A](https://youtu.be/MYUUYeJ8YoY?si=pnOKfzE-ML0--QKa)
 
 ## May 26, 2024
 
