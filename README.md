@@ -215,7 +215,7 @@
 
 #### 3. Calling variants
 
-### 4. Building a Phylogenetic Tree
+#### 4. Building a Phylogenetic Tree
 
 -[Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture9/9.3_Building-a-Phylogenetic-Tree/phylogenetic_tree.pdf)
 -[Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture9/9.3_Building-a-Phylogenetic-Tree)
@@ -224,12 +224,12 @@
 
 ### Lecture 10
 
-### Denovo assembly for WGS of Microbes
+#### Denovo assembly for WGS of Microbes
 
 -[Slides](a)
 -[Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/lucianhu-patch-1/lecture10/Denovo_assembly)
 
-### Annotation of WGS and Pathway Analysis
+#### Annotation of WGS and Pathway Analysis
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000&slide=id.g2e5ad591ad5_1_267)
 - [Materials](./lecture10/annotation_pathway/)
@@ -242,7 +242,7 @@
 - **Bioinformatics Linux:** [Bioinformatics Linux](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/bioinformatics_linux)
 - **Metagenomics:** [Metagenomics](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/metagenomics)
 
-### Some courses recommend for Bash, Scripts, Awk
+### Some recommended courses for Bash, Scripts, Awk
 
 - [Awk](https://www.udemy.com/course/advance-unix-commands/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROW&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=&priority=&utm_content=deal4584&utm_term=_._ag_77879423894_._ad_535397245857_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171032_._li_1028581_._pd__._&matchtype=&gad_source=2&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9P6tIxYgnIWnAgf-Q-8a2iXhTKpjc7u7qOmAxV_MACoimqFRzNXTVMaApeeEALw_wcB&couponCode=2021PM25) &emsp;[Awk Youtube1](https://www.youtube.com/watch?v=I-uWvNvtJcY&list=PLY-V_O-O7h4fzqbPT0kpQMl8XlPvSse9H&pp=iAQB) &emsp;[Awk Youtube2](https://youtu.be/oPEnvuj9QrI)
 - [Scripts](https://www.udemy.com/course/linux-shell-scripting/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=&priority=&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282064_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_1028581_._pd__._&matchtype=&gad_source=2&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9Mulr7atWce8JLEMlbdQSr-3Er5TTKRU_jrjvd8yKi0e6jugGKKWI8aAuPPEALw_wcB&couponCode=2021PM25)
