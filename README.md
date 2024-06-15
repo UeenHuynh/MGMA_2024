@@ -3,8 +3,7 @@
 ## May 19, 2024
 
 ### Lecture 1
-[Introduction to the course structure and objectives](https://www.youtube.com/watch?v=epMAMIo0AOo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=1&pp=iAQB) &emsp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx) &emsp;
-
+[Introduction to the course structure and objectives](https://www.youtube.com/watch?v=epMAMIo0AOo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=1&pp=iAQB) &emsp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx)
 [Ways to get the Terminal](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Way%20to%20get%20the%20terminal)
 
 
