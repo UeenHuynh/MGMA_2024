@@ -102,7 +102,7 @@
 
 ### Primer and Probe Design
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf) & emsp; [YOUTUBE](https://www.youtube.com/watch?v=NynLku_Oizk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=14).
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf)  &emsp; [YOUTUBE](https://www.youtube.com/watch?v=NynLku_Oizk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=14).
 
 ### Wrap-up Linux Command Line Change into Code in README
 
