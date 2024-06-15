@@ -5,8 +5,7 @@
 ### Lecture 1
 
 ### Course Overview
-
-- Introduction to the course structure and objectives.
+[Introduction to the course structure and objectives](https://www.youtube.com/watch?v=epMAMIo0AOo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=1&pp=iAQB)
 
 ### Ways to get the Terminal
 
