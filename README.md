@@ -123,13 +123,13 @@
 
 ## June 16, 2024
 ### Lecture 9:
-### Introduction of Whole genome sequencing analysis for Microbes
-### Microbial WGS upstream analysis
+### I. Introduction of Whole genome sequencing analysis for Microbes
+### II. Microbial WGS upstream analysis
 #### 1. QC and Trimming
-#### 2. Alignment/Mapping and QC
-### Microbial WGS downstream analysis
-#### 1. Calling variants and visualization of variants
-#### 2. Building Phylogenetic Trees
+#### 2. Alignment/Mapping to the reference genome, QC and visualization of BAM
+### III. Microbial WGS downstream analysis
+#### 1. Calling variants and visualization of variants (VCF)
+#### 2. Building and visualization of Phylogenetic Trees 
 -[Slide](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture9/9.3_Building-a-Phylogenetic-Tree/phylogenetic_tree.pdf)
 -[Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture9/9.3_Building-a-Phylogenetic-Tree)
 
