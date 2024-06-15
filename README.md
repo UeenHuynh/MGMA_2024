@@ -26,7 +26,7 @@ Homework: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/
 [Homework for Basic Linux Commands Part 2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/Homework_basic_Linux_commands_part2.pdf) &emsp;[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/HomeworkAnswers_basic_Linux_commands_part2.pdf) \
 [Introduction to Bash Scripting](https://www.youtube.com/watch?v=bIMtUtNmBW4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=9&pp=iAQB) &ensp;[PDF](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing) \
 [Homework](https://docs.google.com/presentation/d/1-3tyBtMYiRJPyBK5svC5-boe3KbQersSZCAWzSUbmLA/edit?usp=sharing) &ensp;[Homework material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script) &ensp;[Answer for homework] &ensp;(https://github.com/UeenHuynh/MGMA_2024/tree/a1eb39362bcd9bf0181f6747c79821f9b0c83c20/lecture2/Bashscript1)
-[Q&A]([https://youtu.be/MYUUYeJ8YoY?si=pnOKfzE-ML0--QKa](https://www.youtube.com/watch?v=MYUUYeJ8YoY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=10&pp=iAQB)) 
+[Q&A](https://www.youtube.com/watch?v=MYUUYeJ8YoY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=10&pp=iAQB)
 #### [Bash Cheat Sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Bash_Cheat_Sheet.html) (Download to your device to view)
 
 
@@ -35,10 +35,8 @@ Homework: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/
 ### Lecture 3
 
 [Homology Search with BLAST (Part 2): Pairwise Alignment](https://www.youtube.com/watch?v=DbzSkZhlRDA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=11&pp=iAQB) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/lecture_2_3_Pairwise_Alignment_20240530.pptx) &emsp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/lecture_2_3_Pairwise_Alignment_20240530.pdf) \
-[Bash Script and AWK](https://www.youtube.com/watch?v=3r83hXh9qL8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=12&pp=iAQB) &ensp;[PPTX](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing) &ensp;[Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf) &ensp;[Material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/material) &ensp;[Script]\(https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/script)
-[Homework_Answer](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/homework) &ensp;[Awk Cheat sheet](https://bl831.als.lbl.gov/~gmeigs/scripting_help/awk_cheat_sheet.pdf)
-
-### [Q&A](https://www.youtube.com/watch?v=6r87H7m_Yko&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=13)
+[Bash Script and AWK](https://www.youtube.com/watch?v=3r83hXh9qL8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=12&pp=iAQB) &ensp;[PPTX](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing) &ensp;[Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf) &ensp;[Material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/material) &ensp;[Script](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/script)\
+[Homework_Answer](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/homework) &ensp;[Awk Cheat sheet](https://bl831.als.lbl.gov/~gmeigs/scripting_help/awk_cheat_sheet.pdf) &ensp; [Q&A](https://www.youtube.com/watch?v=6r87H7m_Yko&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=13)
 
 ## May 30, 2024
 
