@@ -40,22 +40,9 @@ Homework: &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/
 ## May 30, 2024
 
 ### Lecture 4
-
-### Basic Microbe Genomics & Metagenomics and Their Applications
-
-- Overview of microbial genomics, metagenomics, and their practical applications.
-
-### Primer and Probe Design
-
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf)  &emsp; [YOUTUBE](https://www.youtube.com/watch?v=NynLku_Oizk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=14).
-
-### Wrap-up Linux Command Line Change into Code in README
-
-- [Slide](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/wrapup_linux_command_line_practice.pdf)
-- [Bash cheat sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/Wrap_Up_Linux.pdf)
-- [YOUTUBE](https://www.youtube.com/watch?v=114oATBzX-I&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=15).
-
-### [Q&A](https://www.youtube.com/watch?v=pjXgItToXRk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=16)
+[Primer and Probe Design](https://www.youtube.com/watch?v=NynLku_Oizk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=14&pp=iAQB) &emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf) \
+[Wrap-up Linux Command Line Change into Code in README](https://www.youtube.com/watch?v=114oATBzX-I&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=15&pp=iAQB) &ensp;[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/wrapup_linux_command_line_practice.pdf)
+&ensp;[Bash cheat sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/Wrap_Up_Linux.pdf)&ensp;[Q&A](https://www.youtube.com/watch?v=pjXgItToXRk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=16)
 
 ## June 2, 2024
 
