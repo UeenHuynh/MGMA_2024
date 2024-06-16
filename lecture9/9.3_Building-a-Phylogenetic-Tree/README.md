@@ -31,24 +31,30 @@ E --> F["Visualization <br/> iTOL (*.svg/*.pdf figure)"];
 ```
 
 ## Example Dataset
+
+Candida auris (C. auris) is a yeast that poses significant challenges in healthcare due to its antifungal resistance and potential to cause life-threatening infections. It primarily affects ill or immunocompromised patients and spreads easily in hospitals, often colonizing without symptoms. Accurate identification requires specialized tests like sequencing or mass spectrometry. Clinical infections, which have nonspecific symptoms, should be treated with echinocandins as the first-line therapy in adults, and consulting an infectious disease specialist is recommended. Early detection, screening, and strict infection control measures are crucial to prevent its spread.
+
 - Reference sequence [GCA_016772135.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_016772135.1/), B11205 (Clade I, South Asian clade), is widely used for SNP analysis of Candida auris.
 
-- 5 Candida auris sequences ([SRR27718832](https://www.ncbi.nlm.nih.gov/sra/SRR27718832), [SRR27718834](https://www.ncbi.nlm.nih.gov/sra/?term=SRR27718834), [SRR28872828](https://www.ncbi.nlm.nih.gov/sra/?term=SRR28872828), [SRR28872841](https://www.ncbi.nlm.nih.gov/sra/?term=SRR28872841), [SRR28872842](https://www.ncbi.nlm.nih.gov/sra/?term=SRR28872842)) were obtained via whole-genome sequencing with paired-end reads.
+- 5 Candida auris sequences ([SRR10461159 Canada](https://www.ncbi.nlm.nih.gov/sra/?term=SRR10461159), [SRR3883438 Pakistan](https://www.ncbi.nlm.nih.gov/sra/?term=SRR3883438), [SRR3883441 India](https://www.ncbi.nlm.nih.gov/sra/?term=SRR3883441), [SRR3883463 South Africa](https://www.ncbi.nlm.nih.gov/sra/?term=SRR3883463), [SRR9007776 Iran](https://www.ncbi.nlm.nih.gov/sra/?term=SRR9007776)) were obtained via whole-genome sequencing with paired-end reads.
 
-- Following upstream analysis, all sequences undergo variant calling to identify Single Nucleotide Polymorphisms (SNPs). The resulting Variant Call Format (`VCF`) files are then converted into `FASTA` format and subsequently merged into a single, composite `FASTA` file named `vcf-to-fasta.fasta`.
+- Following upstream analysis, all sequences undergo variant calling to identify Single Nucleotide Polymorphisms (SNPs). The resulting Variant Call Format (`VCF`) files are then converted into `FASTA` format and subsequently merged into a single, composite `FASTA` file named `input_aln.fasta`. :heavy_exclamation_mark:**The FASTA sequences have undergone multiple sequence alignment.**
+
 
 ```bash
-$ grep ">" vcf-to-fasta.fasta
+$ grep ">" input_aln.fasta
 >reference
->SRR27718832
->SRR27718834
->SRR28872828
->SRR28872841
->SRR28872842
+>Canada
+>India
+>Iran
+>Pakistan
+>SouthAfric
 ```
 ## Steps
 
 ### Step 1: `MAFFT`
+
+`FastTree` requires an input file formatted as a multiple sequence alignment (MSA) in FASTA format. If your file isn't already an MSA, use the tools `MAFFT`. For this task, my file is already formatted as an MSA.
 
 For nucleotide alignment using `MAFFT`, employ the `--auto` option to automatically detect parameters and generate the aligned sequence file `input_aln.fasta`.
 
@@ -73,7 +79,7 @@ $ fasttree -gtr -gamma -fastest -log output_phylogeny.tre.log -nt input_aln.fast
 
 The resulting `output_phylogeny.tre` file will display the organisms grouped in Newick format, similar to:
 ```
-(SRR27718832:0.000029880,SRR27718834:0.000017083,(reference:0.000247326,(SRR28872828:0.139602419,(SRR28872841:0.000119089,SRR28872842:0.000099675)1.000:0.961369022)1.000:0.125958982)1.000:0.000500244);
+(reference:0.000074614,Pakistan:0.000064449,(India:0.000210264,(SouthAfrica:0.086664658,(Iran:3.585887617,Canada:0.192768854)0.932:0.000000006)1.000:0.090328955)0.997:0.000098466);
 ```
 
 ### Step 3: `iTOL`
