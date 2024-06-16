@@ -171,15 +171,13 @@
 
 #### I. Introduction of Whole genome sequencing analysis for Microbes
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) 
 
 #### II. Microbial WGS upstream analysis
 
 ##### 1. QC and Trimming
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000)
-- [QC](./lecture9/9.1_Mapping/output/FastQC/)
-- [Trimming](./lecture9/9.1_Mapping/output/trimmed/)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[QC](./lecture9/9.1_Mapping/output/FastQC/) &emsp;[Trimming](./lecture9/9.1_Mapping/output/trimmed/)
 
 ##### 2. Alignment/Mapping to the reference genome, QC and visualization of BAM
 
