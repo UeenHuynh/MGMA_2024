@@ -91,7 +91,6 @@ Explore the interface and visualization functions: Customize your tree's appeara
 Export your tree: Once satisfied, export your tree as a high-quality image file (`SVG`, `PDF`) for presentations or publications.
 
 ![IMG](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture9/9.3_Building-a-Phylogenetic-Tree/img/iTOL_output.png)
-
                
 ## References
 Fast Tree Documentation: http://meta.microbesonline.org/fasttree/#Usage
