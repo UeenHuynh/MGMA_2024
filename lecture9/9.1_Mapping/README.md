@@ -21,6 +21,10 @@
     - [6.3 Flagstats](#63-flagstats)
   - [7. Aggregate all QC stats through MultiQC](#7-aggregate-all-qc-stats-through-multiqc)
 
+## Microbial WGS analysis: Upstream workflow
+
+![upstream_workflow](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture9/9.1_Mapping/img/upstream_workflow.png)
+
 ## 1. NCBI project
 
 - BioProject: [PRJNA1098701](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1098701/)
