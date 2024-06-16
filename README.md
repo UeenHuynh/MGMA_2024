@@ -170,29 +170,29 @@
 
 ### Lecture 9
 
-#### I. Introduction of Whole genome sequencing analysis for Microbes
+### I. Introduction of Whole genome sequencing analysis for Microbes
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000)
 
-#### II. Microbial WGS upstream analysis
+### II. Microbial WGS upstream analysis
 
-##### 1. QC and Trimming
+#### 1. QC and Trimming
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000)
 - [QC](./lecture9/9.1_Mapping/output/FastQC/)
 - [Trimming](./lecture9/9.1_Mapping/output/trimmed/)
 
-##### 2. Alignment/Mapping to the reference genome, QC and visualization of BAM
+#### 2. Alignment/Mapping to the reference genome, QC and visualization of BAM
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000)
 - [Paper](./lecture9/docs/The_anti-tubercular_callyaerins_target_the_Mycobac.pdf)
 - [Alignment](./lecture9/9.1_Mapping/output/alignment/)
 
-#### III. Microbial WGS downstream analysis
+### III. Microbial WGS downstream analysis
 
-##### 1. Calling variants and visualization of variants (VCF)
+#### 1. Calling variants and visualization of variants (VCF)
 
-##### 2. Building and visualization of Phylogenetic Trees
+#### 2. Building and visualization of Phylogenetic Trees
 
 -[Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture9/9.3_Building-a-Phylogenetic-Tree/phylogenetic_tree.pdf)
 -[Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture9/9.3_Building-a-Phylogenetic-Tree)
@@ -201,12 +201,12 @@
 
 ### Lecture 10
 
-#### Denovo assembly for WGS of Microbes
+### Denovo assembly for WGS of Microbes
 
 -[Slides](a)
 -[Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/lucianhu-patch-1/lecture10/Denovo_assembly)
 
-#### Annotation of WGS and Pathway Analysis
+### Annotation of WGS and Pathway Analysis
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000)
 - [Materials](./lecture10/annotation_pathway/)
