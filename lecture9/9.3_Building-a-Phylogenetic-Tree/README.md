@@ -1,6 +1,6 @@
 # Building a Phylogenetic Tree
 
-In the previous step, we identified single nucleotide polymorphisms (SNPs) using the Genome Analysis Toolkit (GATK). To prepare this data for phylogenetic analysis, we utilized a customized Python script available from the [Broad Institute's GitHub](https://github.com/broadinstitute/broad-fungalgroup/blob/master/scripts/SNPs/vcfSnpsToFasta.py). This script extracts all the SNPs for each sample and concatenates them with the corresponding reference alleles at those positions, resulting in a multi-FASTA file. With the multi-FASTA file generated, we can proceed to construct a phylogenetic tree.
+In the previous step, we identified single nucleotide polymorphisms (SNPs) using the Genome Analysis Toolkit (`GATK`). To prepare this data for phylogenetic analysis, we utilized a customized Python script available from the [Broad Institute's GitHub](https://github.com/broadinstitute/broad-fungalgroup/blob/master/scripts/SNPs/vcfSnpsToFasta.py). This script extracts all the SNPs for each sample and concatenates them with the corresponding reference alleles at those positions, resulting in a multi-FASTA file. With the multi-FASTA file generated, we can proceed to construct a phylogenetic tree.
 
 Phylogenetic trees are invaluable tools in evolutionary biology, allowing researchers to trace the lineage of organisms, understand the genetic divergence between species, and infer ancestral relationships. In our specific case, analyzing the SNPs will enable us to uncover the evolutionary pathways and genetic variations within the fungal isolates, shedding light on their adaptation mechanisms and evolutionary dynamics.
 
@@ -38,7 +38,7 @@ Candida auris (C. auris) is a yeast that poses significant challenges in healthc
 
 - 5 Candida auris sequences ([SRR10461159 Canada](https://www.ncbi.nlm.nih.gov/sra/?term=SRR10461159), [SRR3883438 Pakistan](https://www.ncbi.nlm.nih.gov/sra/?term=SRR3883438), [SRR3883441 India](https://www.ncbi.nlm.nih.gov/sra/?term=SRR3883441), [SRR3883463 South Africa](https://www.ncbi.nlm.nih.gov/sra/?term=SRR3883463), [SRR9007776 Iran](https://www.ncbi.nlm.nih.gov/sra/?term=SRR9007776)) were obtained via whole-genome sequencing with paired-end reads.
 
-- Following upstream analysis, all sequences undergo variant calling to identify Single Nucleotide Polymorphisms (SNPs). The resulting Variant Call Format (`VCF`) files are then converted into `FASTA` format and subsequently merged into a single, composite `FASTA` file named `input_aln.fasta`. :heavy_exclamation_mark:**The FASTA sequences have undergone multiple sequence alignment.**
+- Following upstream analysis, all sequences undergo variant calling to identify Single Nucleotide Polymorphisms (SNPs). The resulting Variant Call Format (`VCF`) files are then converted into `FASTA` format and subsequently merged into a single, composite `FASTA` file named `input_aln.fasta`. :heavy_exclamation_mark:**The `FASTA` sequences have undergone multiple sequence alignment.**
 
 
 ```bash
@@ -54,7 +54,7 @@ $ grep ">" input_aln.fasta
 
 ### Step 1: `MAFFT`
 
-`FastTree` requires an input file formatted as a multiple sequence alignment (MSA) in FASTA format. If your file isn't already an MSA, use the tools `MAFFT`. For this task, my file is already formatted as an MSA.
+`FastTree` requires an input file formatted as a multiple sequence alignment (MSA) in `FASTA` format. If your file isn't already an MSA, use the tools `MAFFT`. For this task, my file is already formatted as an MSA.
 
 For nucleotide alignment using `MAFFT`, employ the `--auto` option to automatically detect parameters and generate the aligned sequence file `input_aln.fasta`.
 
