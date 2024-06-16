@@ -194,8 +194,8 @@
 
 ##### 2. Building and visualization of Phylogenetic Trees
 
--[Slides](.lecture9/9.3_Building-a-Phylogenetic-Tree/docs/phylogenetic_tree.pdf)
--[Tutorial](.lecture9/9.3_Building-a-Phylogenetic-Tree)
+- [Slides](./lecture9/9.3_Building-a-Phylogenetic-Tree/docs/phylogenetic_tree.pdf)
+- [Tutorial](./lecture9/9.3_Building-a-Phylogenetic-Tree)
 
 ## June 20, 2024
 
