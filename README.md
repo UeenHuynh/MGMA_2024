@@ -186,6 +186,7 @@
 #### III. Microbial WGS downstream analysis
 
 ##### 1. Calling variants and visualization of variants (VCF)
+- [Tutorial](https://colab.research.google.com/drive/1myWAW4smvROX6w4dFL3KloQZHrsol9do?usp=sharing)
 
 ##### 2. Building and visualization of Phylogenetic Trees
 
@@ -198,8 +199,8 @@
 
 #### Denovo assembly for WGS of Microbes
 
--[Slides](a)
--[Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/lucianhu-patch-1/lecture10/Denovo_assembly)
+- [Slides](a)
+- [Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/lucianhu-patch-1/lecture10/Denovo_assembly)
 
 #### Annotation of WGS and Pathway Analysis
 
