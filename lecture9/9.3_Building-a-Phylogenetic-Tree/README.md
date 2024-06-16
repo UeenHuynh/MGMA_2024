@@ -74,7 +74,7 @@ $ fasttree input_aln.fasta > fasttree_phylogeny.tre
 For nucleotide alignment, utilize `FastTree` with the `-nt` `-gtr` `-gamma` options on the aligned sequence file `input_aln.fasta` to generate the phylogenetic tree file `output_phylogeny.tre`.
 
 ```bash
-$ fasttree -gtr -gamma -fastest -log output_phylogeny.tre.log -nt input_aln.fasta > fasttree_phylogeny.tre
+$ fasttree -gtr -gamma -fastest -log fasttree_phylogeny.tre.log -nt input_aln.fasta > fasttree_phylogeny.tre
 ```
 
 The resulting `output_phylogeny.tre` file will display the organisms grouped in Newick format, similar to:
