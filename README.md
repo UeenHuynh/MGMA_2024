@@ -194,8 +194,8 @@
 
 ##### 2. Building and visualization of Phylogenetic Trees
 
--[Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture9/9.3_Building-a-Phylogenetic-Tree/phylogenetic_tree.pdf)
--[Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture9/9.3_Building-a-Phylogenetic-Tree)
+-[Slides](.lecture9/9.3_Building-a-Phylogenetic-Tree/docs/phylogenetic_tree.pdf)
+-[Tutorial](.lecture9/9.3_Building-a-Phylogenetic-Tree)
 
 ## June 20, 2024
 
