@@ -84,41 +84,41 @@
 
 ### Lecture 5
 
-### Multiple Alignment
+#### Multiple Alignment
 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pptx) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=5fj5HEZk7B8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=17)
 
-### Phylogenetic Trees
+#### Phylogenetic Trees
 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pptx) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=g_EFfYhAXG4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=18)
 
-### Basic R1: Data types, Basic calculations, Data structure, Basic Functions (For loop, If ...else, While loop)
+#### Basic R1: Data types, Basic calculations, Data structure, Basic Functions (For loop, If ...else, While loop)
 
 - [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Homework%20R1.pptx) &emsp;[Markdown](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/R1_markdown.rmd) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=5iKr0TWv5xE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=19)
 
-### Code editing with VScode: Homework
+#### Code editing with VScode: Homework
 
 - [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Code%20editing%20with%20vs-code.ppt) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=1IU7-67iYbM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=20)
 
-### [Q&A](https://www.youtube.com/watch?v=xsohnjaVloY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=21)
+#### [Q&A](https://www.youtube.com/watch?v=xsohnjaVloY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=21)
 
 ## June 6, 2024
 
 ### Lecture 6
 
-### Pairwise and Multiple genome alignment with Mauve
+#### Pairwise and Multiple genome alignment with Mauve
 
 [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=e4U0N9C-Rho&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=24)
 
-### Basic plot in R2
+#### Basic plot in R2
 
 [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Basic%20R2.pptx) &emsp;[Question](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/R2_question.txt) &emsp;[Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Answer_R2.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=8GTNqj6YY2o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=25)
 
-### Introduction to GitHub
+#### Introduction to GitHub
 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=Z8TCs7K3E3w&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=26)
 
-### Test answer
+#### Test answer
 
 - [Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Q%26A-pairwise-alignment-6-6-2024.docx)
 - [YOUTUBE](https://www.youtube.com/watch?v=doZFJCrK3-c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=27)
@@ -127,11 +127,11 @@
 
 ### Lecture 7
 
-### Sanger Sequencing method
+#### Sanger Sequencing method
 
 - [YOUTUBE](https://www.youtube.com/watch?v=XtblMQ-Al0g&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=29)
 
-### Introduction of next-generation sequencing (NGS)
+#### Introduction of next-generation sequencing (NGS)
 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=hhOH7TG9WPc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=30)
 
@@ -149,7 +149,7 @@
 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/MGI%20-%20Research%20Instruments.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=4_h4wNIyfk0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=34)
 
-### Q&A
+#### Q&A
 
 - [PacBio](https://docs.google.com/presentation/d/1QWkN66QjXux6aAvEaf7h1owOtWA9J_7n8mkhUBXzv-4/edit?usp=sharing) &emsp;[MGI](https://docs.google.com/presentation/d/1i5_9dFW5CW1GZO0AwLMAGDxlne4_ze6J-_ovlbAJhc0/edit#slide=id.g2e46905ef34_0_6) &emsp;[AVITI](https://docs.google.com/presentation/d/1wpYaS0Gn7Yn-3jr2Eh0PNogLvzC-YnfO2wubZwsBL0U/edit?usp=sharing) &emsp;[GeneMind](https://docs.google.com/presentation/d/1mX1X9rC5G42-pdoke7YkK5lUSXpe6qxHUAy8EVMHwxI/edit#slide=id.g2e46a4f8d89_1_31) &emsp;[Illumina](https://docs.google.com/presentation/d/1S_ra-UyH4fNBe9dWA3k5t1x7q4GNEpQnYW1_MQQQXoE/edit?usp=sharing)&emsp;[SISC](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/Q%26A_Ion_Torrent.pptx)
 
@@ -157,11 +157,11 @@
 
 ### Lecture 8
 
-### Gene and Genome Annotation
+#### Gene and Genome Annotation
 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Bacterial_genome_annotation_20240613.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Bacterial_genome_annotation_20240613.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=u6-hnKTHms8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=37)
 
-### Basic statistics in R3
+#### Basic statistics in R3
 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/1q4Hm8-7czKdhyHPc0JIiWPsTKN_3u8I2.pdf) &emsp; [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/VdrGenusCounts.csv) &emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/code_statistics_Tr%C3%AD.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=6_4-byxNhB4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=38).
 
@@ -204,8 +204,7 @@
 
 #### Annotation of WGS and Pathway Analysis
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000)
-- [Materials](./lecture10/annotation_pathway/)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000) &emsp;[Materials](./lecture10/annotation_pathway/)
 
 ## References
 
