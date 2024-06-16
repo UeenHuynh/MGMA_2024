@@ -65,16 +65,16 @@ $ mafft --auto vcf-to-fasta.fasta > input_aln.fasta
 
 ```bash
 # For a nucleotide alignment
-$ fasttree -nt -gtr -gamma input_aln.fasta > output.tre
+$ fasttree -nt -gtr -gamma input_aln.fasta > fasttree_phylogeny.tre
 
 # For a protein alignment
-$ fasttree input_aln.fasta > output.tre
+$ fasttree input_aln.fasta > fasttree_phylogeny.tre
 ```
 
 For nucleotide alignment, utilize `FastTree` with the `-nt` `-gtr` `-gamma` options on the aligned sequence file `input_aln.fasta` to generate the phylogenetic tree file `output_phylogeny.tre`.
 
 ```bash
-$ fasttree -gtr -gamma -fastest -log output_phylogeny.tre.log -nt input_aln.fasta > output_phylogeny.tre
+$ fasttree -gtr -gamma -fastest -log output_phylogeny.tre.log -nt input_aln.fasta > fasttree_phylogeny.tre
 ```
 
 The resulting `output_phylogeny.tre` file will display the organisms grouped in Newick format, similar to:
