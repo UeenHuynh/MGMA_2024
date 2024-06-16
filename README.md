@@ -163,8 +163,7 @@
 
 ### Basic statistics in R3
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/1q4Hm8-7czKdhyHPc0JIiWPsTKN_3u8I2.pdf)
-- [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/VdrGenusCounts.csv) &emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/code_statistics_Tr%C3%AD.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=6_4-byxNhB4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=38).
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/1q4Hm8-7czKdhyHPc0JIiWPsTKN_3u8I2.pdf) &emsp; [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/VdrGenusCounts.csv) &emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/code_statistics_Tr%C3%AD.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=6_4-byxNhB4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=38).
 
 ## June 16, 2024
 
