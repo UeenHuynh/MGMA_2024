@@ -48,7 +48,7 @@ $ grep ">" input_aln.fasta
 >India
 >Iran
 >Pakistan
->SouthAfric
+>SouthAfrica
 ```
 ## Steps
 
