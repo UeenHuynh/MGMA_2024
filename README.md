@@ -215,9 +215,9 @@
 
 ### Books
 
-- **R book:** [R book](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/R)
-- **Bioinformatics Linux:** [Bioinformatics Linux](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/bioinformatics_linux)
-- **Metagenomics:** [Metagenomics](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/metagenomics)
+- [R book](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/R)
+- [Bioinformatics Linux](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/bioinformatics_linux)
+- [Metagenomics](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/metagenomics)
 
 ### Some recommended courses for Bash, Scripts, Awk
 
