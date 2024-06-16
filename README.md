@@ -181,9 +181,7 @@
 
 ##### 2. Alignment/Mapping to the reference genome, QC and visualization of BAM
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000)
-- [Paper](./lecture9/docs/The_anti-tubercular_callyaerins_target_the_Mycobac.pdf)
-- [Alignment](./lecture9/9.1_Mapping/output/alignment/)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[Paper](./lecture9/docs/The_anti-tubercular_callyaerins_target_the_Mycobac.pdf) &emsp;[Alignment](./lecture9/9.1_Mapping/output/alignment/)
 
 #### III. Microbial WGS downstream analysis
 
