@@ -136,6 +136,9 @@
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=hhOH7TG9WPc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=30)
 
 ### Lecture ppt
+### Pacbio
+
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS%20-%20Ion_Turrent_sequencing%20-%20SISC) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=tFmNO5rVoeM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=31)
 
 #### SISC
 
