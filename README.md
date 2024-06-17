@@ -179,27 +179,27 @@
 
 #### I. Introduction of Whole genome sequencing analysis for Microbes
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) 
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=44)
 
 #### II. Microbial WGS upstream analysis
 
 ##### 1. QC and Trimming
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[QC](./lecture9/9.1_Mapping/output/FastQC/) &emsp;[Trimming](./lecture9/9.1_Mapping/output/trimmed/)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[QC](./lecture9/9.1_Mapping/output/FastQC/) &emsp;[Trimming](./lecture9/9.1_Mapping/output/trimmed/) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
+
 
 ##### 2. Alignment/Mapping to the reference genome, QC and visualization of BAM
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[Paper](./lecture9/docs/The_anti-tubercular_callyaerins_target_the_Mycobac.pdf) &emsp;[Alignment](./lecture9/9.1_Mapping/output/alignment/)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[Paper](./lecture9/docs/The_anti-tubercular_callyaerins_target_the_Mycobac.pdf) &emsp;[Alignment](./lecture9/9.1_Mapping/output/alignment/) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
 
 #### III. Microbial WGS downstream analysis
 
 ##### 1. Calling variants and visualization of variants (VCF)
-- [Tutorial](https://colab.research.google.com/drive/1myWAW4smvROX6w4dFL3KloQZHrsol9do?usp=sharing)
+- [Tutorial](https://colab.research.google.com/drive/1myWAW4smvROX6w4dFL3KloQZHrsol9do?usp=sharing) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BO80RxfSG8s&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=46)
 
 ##### 2. Building and visualization of Phylogenetic Trees
 
-- [Slides](./lecture9/9.3_Building-a-Phylogenetic-Tree/docs/phylogenetic_tree.pdf)
-- [Tutorial](./lecture9/9.3_Building-a-Phylogenetic-Tree)
+- [Slides](./lecture9/9.3_Building-a-Phylogenetic-Tree/docs/phylogenetic_tree.pdf) &emsp; [Tutorial](./lecture9/9.3_Building-a-Phylogenetic-Tree) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=LgEIc_nfNnE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=47)
 
 ## June 20, 2024
 
