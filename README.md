@@ -171,8 +171,8 @@
 
 #### Basic statistics in R3
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/1q4Hm8-7czKdhyHPc0JIiWPsTKN_3u8I2.pdf) &emsp; [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/VdrGenusCounts.csv) &emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/code_statistics_Tr%C3%AD.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=6_4-byxNhB4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=38).
-
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/1q4Hm8-7czKdhyHPc0JIiWPsTKN_3u8I2.pdf) &emsp; [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/VdrGenusCounts.csv)&emsp; [Slide Code](https://colab.research.google.com/drive/1mbJ2cUwe9_19jbK1Bu2PIn79BLX5wu54?usp=drive_link)&emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/code_statistics_Tr%C3%AD.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=6_4-byxNhB4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=38).
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Homework_R3.pptx) &emsp; [Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Answer_R3.R)
 ## June 16, 2024
 
 ### Lecture 9
