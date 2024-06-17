@@ -138,7 +138,12 @@
 ### Lecture ppt
 ### Pacbio
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS%20-%20Ion_Turrent_sequencing%20-%20SISC) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=tFmNO5rVoeM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=31)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/a7ad8d2b21c2756897a2794c6847b733c38e5c9b/lecture%207/PacBioMicrobialGenomicPresentation.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=tFmNO5rVoeM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=31)
+
+### AVITI
+
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/Element_1_NGS%20on%20AVITI_24.06.09_Ver2.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=pSwWofrRu3Y&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=36)
+
 
 #### SISC
 
