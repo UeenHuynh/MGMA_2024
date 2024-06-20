@@ -68,6 +68,8 @@ Here is a basic command:
 $ spades.py -1 Iran_Babol_1_1.trimmed.fastq.gz -2 Iran_Babol_1_2.trimmed.fastq.gz -o output_folder
 ```
 
+## Output
+
 ## Visualization
 To visualize the assembly, you can use `Bandage` program.
 
@@ -78,3 +80,4 @@ conda create --name assembly_visualization -c conda-forge -c bioconda bandage
 # Run it
 Bandage
 ```
+![IMG](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture10/Denovo_assembly/img/scaffolds_graph.png)
