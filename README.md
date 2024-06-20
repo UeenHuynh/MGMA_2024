@@ -208,7 +208,7 @@
 
 #### Denovo assembly for WGS of Microbes
 
-- [Slides](a)
+- [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture10/Denovo_assembly/docs/Denovo_assembly.pdf)
 - [Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/lucianhu-patch-1/lecture10/Denovo_assembly)
 
 #### Annotation of WGS and Pathway Analysis
