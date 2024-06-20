@@ -76,13 +76,13 @@ $ spades.py -1 Iran_Babol_1_1.trimmed.fastq.gz -2 Iran_Babol_1_2.trimmed.fastq.g
 
 - `scaffolds.fasta`: This file contains the assembled scaffolds, which are larger sequences constructed from contigs based on paired-end read information and other data. Scaffolds represent a more complete picture of the genome than individual contigs.
 
-- `scaffolds.paths`: Similar to contigs.paths, this file shows the paths through the assembly graph corresponding to the scaffolds. It provides insights into the structure and connectivity of the genome as inferred by SPAdes.
+- `scaffolds.paths`: Similar to `contigs.paths`, this file shows the paths through the assembly graph corresponding to the scaffolds. It provides insights into the structure and connectivity of the genome as inferred by `SPAdes`.
 
-- `assembly_graph_with_scaffolds.gfa`: This file represents the assembly graph. It uses the Graphical Fragment Assembly (GFA) format to show the relationships between contigs and/or scaffolds. Scaffolds are ordered and oriented sets of contigs that represent the inferred structure of the genome. Visualization tools like `Bandage` can be used to interpret this output effectively.
+- `assembly_graph_with_scaffolds.gfa`: This file represents the assembly graph. It uses the Graphical Fragment Assembly (`GFA`) format to show the relationships between contigs and/or scaffolds. Scaffolds are ordered and oriented sets of contigs that represent the inferred structure of the genome. Visualization tools like `Bandage` can be used to interpret this output effectively.
 
-- `assembly_graph_after_simplification.gfa`: Similar to the previous file, but this one simplified redundant or overlapping sequences. .
+- `assembly_graph_after_simplification.gfa`: Similar to the previous file, but this one simplified redundant or overlapping sequences.
 
-- `spades.log`: This log file records the details of the SPAdes run, including parameters used, warnings encountered, and general information about the assembly process. It can be helpful for troubleshooting and understanding the specifics of the assembly run.
+- `spades.log`: This log file records the details of the `SPAdes` run, including parameters used, warnings encountered, and general information about the assembly process. It can be helpful for troubleshooting and understanding the specifics of the assembly run.
 
 ## Evaluating Output
 
@@ -91,16 +91,16 @@ Inspect each output directory generated for each set of reads examined. The cruc
 The `grep` command is particularly useful for extracting contig names and associated information. It can be enhanced with options such as -c to count total contigs, or by piping results to head, tail, or both to focus on top or bottom contigs.
 
 ```
-# Count total number of contigs:
+# Count total number of contigs
 $ grep -c "^>" contigs.fasta
 
-# Display the lengths of the 5 largest contigs:
+# Display the lengths of the 5 largest contigs
 $ grep "^>" contigs.fasta | head -n 5
 
-# Display the lengths of the 20 smallest contigs:
+# Display the lengths of the 20 smallest contigs
 $ grep "^>" contigs.fasta | tail -n 20
 
-# Display the lengths of contigs 100 to 110:
+# Display the lengths of contigs 100 to 110
 $ grep "^>" contigs.fasta | head -n 110 | tail -n 10
 ```
 
@@ -124,15 +124,15 @@ In the assembly graph, identify contigs that are disconnected from the rest of t
 
 ## Toy facts
 
-**Effect of Insert Size on Contigs:**
+**Effect of Insert Size on Contig**
 
 The insert size significantly influences the assembly quality. Larger insert sizes tend to reduce the number of contigs and increase the length of the largest contigs. This is because larger inserts can span repetitive elements in the genome, allowing more contiguous sequences to be assembled.
 
-**Why Larger Insert Sizes Might Not Always Help:**
+**Why Larger Insert Sizes Might Not Always Help**
 
 Despite their potential benefits, larger insert sizes may not always improve assemblies due to the presence of very large repetitive elements in genomes. These elements require exceptionally long inserts to span them entirely with a single read pair, which may not be feasible with current sequencing technologies.
 
-**Assembling the E. coli Genome:**
+**Assembling the E. coli Genome**
 
 Despite using "perfect" simulated data, assembling the complete E. coli genome (approximately 4.6 Mb) remains challenging due to the presence of 7 nearly identical ribosomal RNA operons dispersed throughout the chromosome. Each of these operons exceeds 3000 bases in length, preventing contigs from spanning across them using the available sequencing data. For bacteria, achieving fully closed chromosomes typically requires fragments of approximately 7 kb in length.
 
