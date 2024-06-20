@@ -56,7 +56,7 @@ SPAdes genome assembler v4.0.0
 
 Candida auris (C. auris) is a yeast that presents significant healthcare challenges due to its resistance to antifungal treatments and its potential to cause life-threatening infections. It primarily affects individuals who are already ill or immunocompromised and can spread easily within hospital settings, often colonizing patients asymptomatically. Accurate identification typically requires specialized tests such as sequencing or mass spectrometry. Clinical infections caused by C. auris, which often manifest with nonspecific symptoms, should be initially treated with echinocandins in adults, with consultation from infectious disease specialists recommended. Early detection, screening procedures, and stringent infection control measures are essential to curbing its transmission.
 
-The raw data used in this tutorial is sourced from [SRR9007776 Iran](https://www.ncbi.nlm.nih.gov/sra/?term=SRR9007776), obtained through whole-genome sequencing employing paired-end reads. :bangbang:**Before performing the assembly, it is crucial to conduct quality control, trimming, and adapter filtering on the FASTQ files**. 
+The raw data used in this tutorial is sourced from [SRR9007776 Iran](https://www.ncbi.nlm.nih.gov/sra/?term=SRR9007776), obtained through whole-genome sequencing employing paired-end reads. :warning:**Before performing the assembly, it is crucial to conduct quality control, trimming, and adapter filtering on the FASTQ files**. 
 
 Our processed file can be accessed [here](link to the processed file). [here](link to FASTQ files for quality control).
 
