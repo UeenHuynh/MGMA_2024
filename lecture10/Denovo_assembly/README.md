@@ -72,7 +72,7 @@ $ spades.py -1 Iran_Babol_1_1.trimmed.fastq.gz -2 Iran_Babol_1_2.trimmed.fastq.g
 
 - `contigs.fasta`: This file contains the assembled contigs, which are contiguous sequences of DNA that are derived from overlapping reads.
 
-- `contigs.paths`: In SPAdes, this file typically shows the paths through the assembly graph that correspond to the contigs. It helps understand how contigs are connected in the assembly process.
+- `contigs.paths`: In `SPAdes`, this file typically shows the paths through the assembly graph that correspond to the contigs. It helps understand how contigs are connected in the assembly process.
 
 - `scaffolds.fasta`: This file contains the assembled scaffolds, which are larger sequences constructed from contigs based on paired-end read information and other data. Scaffolds represent a more complete picture of the genome than individual contigs.
 
