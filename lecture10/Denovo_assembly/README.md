@@ -52,13 +52,19 @@ Since we didn't set any options and only ran the prepackaged tests, ignoring the
 SPAdes genome assembler v4.0.0
 ```
 
+## Example Dataset
+
+Candida auris (C. auris) is a yeast that presents significant healthcare challenges due to its resistance to antifungal treatments and its potential to cause life-threatening infections. It primarily affects individuals who are already ill or immunocompromised and can spread easily within hospital settings, often colonizing patients asymptomatically. Accurate identification typically requires specialized tests such as sequencing or mass spectrometry. Clinical infections caused by C. auris, which often manifest with nonspecific symptoms, should be initially treated with echinocandins in adults, with consultation from infectious disease specialists recommended. Early detection, screening procedures, and stringent infection control measures are essential to curbing its transmission.
+
+The raw data used in this tutorial is sourced from [SRR9007776 Iran](https://www.ncbi.nlm.nih.gov/sra/?term=SRR9007776), obtained through whole-genome sequencing employing paired-end reads. Before performing the assembly, it is crucial to conduct quality control, trimming, and adapter filtering on the FASTQ files. 
+
+Our processed file can be accessed [here](link to the processed file). [here](link to FASTQ files for quality control).
+
 ## SPAdes Assembly
 Now let's use `SPAdes` to assemble the reads. It's always a good idea to check what options the program accepts using the `-h` option. `SPAdes` is written in Python, and the base script is named `spades.py`. There are additional scripts that change many of the default options, such as `metaspades.py`, `plasmidspades.py`, and `rnaspades.py`. Alternatively, these options can be set from the main `spades.py` script with the flags `--meta`, `--plasmid`, and `--rna` respectively. 
 
 Here is a basic command:
-
-bash
-Copy code
-plasmidspades.py -1 <forward_reads.fastq> -2 <reverse_reads.fastq> -o plasmid -t 48
-Replace <forward_reads.fastq> and <reverse_reads.fastq> with the paths to your paired-end read files. This command is expected to take less than 2 minutes.
+```
+$ spades.py -1 Iran_Babol_1_1.trimmed.fastq.gz -2 Iran_Babol_1_2.trimmed.fastq.gz -o output_folder
+```
 
