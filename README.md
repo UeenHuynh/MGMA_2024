@@ -213,7 +213,8 @@
 
 #### Annotation of WGS and Pathway Analysis
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000) &emsp;[Materials](./lecture10/annotation_pathway/)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000).
+- [Materials](./lecture10/annotation_pathway/)
 
 ## June 23, 2024
 

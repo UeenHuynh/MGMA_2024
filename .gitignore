@@ -8,3 +8,10 @@ lecture9/9.1_Mapping/output/alignment/SRR28714678_aln_sorted.bam/
 lecture9/9.1_Mapping/output/alignment/markduplicates/*sorted_md.bam
 lecture9/9.1_Mapping/output/alignment/markduplicates/*cleaned_md.bam
 lecture9/9.1_Mapping/output/alignment/SRR28714678_aln_sorted.bam
+lecture10/annotation_pathway/GO/gProfiler_H37Rv_results_gem.txt
+lecture10/annotation_pathway/GO/taxon_1773_token.txt
+lecture10/annotation_pathway/multiqc/
+lecture10/annotation_pathway/quast/
+lecture10/annotation_pathway/trimmed/
+lecture10/annotation_pathway/unicycler/
+lecture10/annotation_pathway/scripts/

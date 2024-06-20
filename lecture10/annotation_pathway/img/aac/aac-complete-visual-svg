@@ -1,0 +1,486 @@
+<?xml version='1.0'?>
+<svg contentScriptType="text/ecmascript" width="924" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentStyleType="text/css" id="svg2" height="300" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.1">
+	
+ <defs id="definitions">
+    
+  <symbol id="colorscaleBox" preserveAspectRatio="xMidYMid meet">
+      
+   <rect x="50" width="650" height="10" y="15"/>
+      
+   <text x="1" fill="black" font-size="11" y="25" font-family="sans-serif">E-value</text>
+      
+   <line y2="26" stroke-width="1" x1="50" x2="700" stroke="black" y1="26"/>
+      
+   <line y2="28" stroke-width="1" x1="50" x2="50" stroke="black" y1="26"/>
+      
+   <text x="50" font-size="10" y="38" text-anchor="middle" fill="black" font-family="sans-serif" id="gradientStart">1E-136</text>
+      
+   <line y2="28" stroke-width="1" x1="212" x2="212" stroke="black" y1="26"/>
+      
+   <text x="212" font-size="10" y="38" text-anchor="middle" fill="black" font-family="sans-serif" id="gradientStep1">3.514E-69</text>
+      
+   <line y2="28" stroke-width="1" x1="374" x2="374" stroke="black" y1="26"/>
+      
+   <text x="374" font-size="10" y="38" text-anchor="middle" fill="black" font-family="sans-serif" id="gradientStep2">5.928E-35</text>
+      
+   <line y2="28" stroke-width="1" x1="536" x2="536" stroke="black" y1="26"/>
+      
+   <text x="536" font-size="10" y="38" text-anchor="middle" fill="black" font-family="sans-serif" id="gradientStep3">1</text>
+      
+   <line y2="28" stroke-width="1" x1="698" x2="698" stroke="black" y1="26"/>
+      
+   <text x="698" font-size="10" y="38" text-anchor="middle" fill="black" font-family="sans-serif" id="gradientEnd">8.1</text>
+      
+   <text x="350" fill="black" font-size="10" y="60" font-family="sans-serif" text-anchor="middle">European Bioinformatics Institute 2006-2020. EBI is an Outstation of the European Molecular Biology Laboratory.</text>
+    
+  </symbol>
+    
+  <linearGradient xlink:actuate="onLoad" xlink:type="simple" id="colorscale" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">
+        
+   <stop stop-color="rgb(255,64,64)" offset="0%"/>
+        
+   <stop stop-color="rgb(255,255,64)" offset="25%"/>
+        
+   <stop stop-color="rgb(64,255,64)" offset="50%"/>
+        
+   <stop stop-color="rgb(64,255,255)" offset="75%"/>
+        
+   <stop stop-color="rgb(64,64,255)" offset="100%"/>
+    
+  </linearGradient>
+  
+ </defs>
+	
+ <rect x="1" y="0" fill="white" width="922" opacity="1" id="border" height="299" stroke="rgb(94,158,158)" stroke-width="2"/>
+	
+ <g id="info">
+		
+  <text x="919" font-size="10" id="startTimeInfo" y="13" font-family="sans-serif" text-anchor="end">Wed, Jun 12, 2024 at 18:09:00</text>
+		
+  <text x="919" font-size="10" id="endTimeInfo" y="23" font-family="sans-serif" text-anchor="end">Wed, Jun 12, 2024 at 18:09:11</text>
+		
+  <text x="5" font-size="11" id="programInfo" y="13" font-weight="bold" font-family="sans-serif">blastp (version: BLASTP 2.12.0+)</text>
+		
+  <text x="5" font-size="10" id="databaseInfo" y="26" font-family="sans-serif">Database: uniprotkb_refprotswissprot</text>
+		
+  <svg x="0" contentScriptType="text/ecmascript" y="29" width="919" xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify" contentStyleType="text/css" height="20" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" version="1.0">
+			
+   <text x="5" font-size="10" id="sequenceName" y="8" font-family="sans-serif">Sequence: IJICCACA_00177 aminoglycoside 2'-N-acetyltransferase</text>
+		
+  </svg>
+		
+  <text x="5" font-size="10" id="sequenceInfo" y="48" font-family="sans-serif">Length: 181</text>
+	
+ </g>
+
+	
+ <g id="content">
+  <g id="title">
+			
+   <text x="299" fill="black" font-size="10" y="68" font-weight="bold" font-family="sans-serif">
+				Sequence Match
+			</text>
+			
+   <text x="246" fill="black" font-size="10" y="86" font-family="sans-serif">
+				1
+			</text>
+			
+   <text x="452" font-size="10" y="86" text-anchor="end" fill="black" font-family="sans-serif" id="sequenceLength">181</text>
+			
+   <text x="481" font-size="10" y="68" text-anchor="middle" fill="black" font-family="sans-serif" font-weight="bold">
+				E-value
+			</text>
+			
+   <text x="684" fill="black" font-size="10" y="68" font-weight="bold" font-family="sans-serif">
+				Subject Match
+			</text>
+			
+   <text x="512" fill="black" font-size="10" y="86" font-family="sans-serif">
+				1
+			</text>
+			
+   <text x="917" font-size="10" y="86" text-anchor="end" fill="black" font-family="sans-serif" id="subjectLength">999</text>
+			
+   <line y2="74" stroke-width="2" x1="249" x2="449" stroke="black" y1="74"/>
+			
+   <line y2="76" stroke-width="2" x1="249" x2="249" stroke="black" y1="72"/>
+			
+   <line y2="76" stroke-width="2" x1="449" x2="449" stroke="black" y1="72"/>
+			
+   <line y2="74" stroke-width="2" x1="514" x2="914" stroke="black" y1="74"/>
+			
+   <line y2="76" stroke-width="2" x1="514" x2="514" stroke="black" y1="72"/>
+			
+   <line y2="76" stroke-width="2" x1="914" x2="914" stroke="black" y1="72"/>
+		
+  </g>
+  <g>
+   <text x="115" font-size="9" y="103" text-anchor="end" fill="black" font-family="sans-serif" id="id">AAC2_MYCTU</text>
+   <text x="122" font-size="9" y="103" fill="black" font-family="sans-serif" id="description" lengthAdjust="spacingAndGlyphs" textLength="120">Aminoglycoside 2'-N-acet...</text>
+   <g id="alignment">
+				
+    <g id="sequenceMatch">
+					
+     <line y2="100" stroke-width="1" x1="249" x2="449" stroke="black" y1="100"/>
+					
+     <line y2="103" stroke-width="1" x1="249" x2="249" stroke="black" y1="97"/>
+					
+     <line y2="103" stroke-width="1" x1="449" x2="449" stroke="black" y1="97"/>
+					
+     <rect x="250" y="97" fill="rgb(255,64,64)" width="199" rx="3" ry="3" height="6"/>
+				
+    </g>
+				
+    <text x="481" font-size="10" y="103" text-anchor="middle" fill="black" font-family="sans-serif" id="eValue">1.0E-136</text>
+				
+    <g id="subjectMatch">
+					
+     <line y2="100" stroke-width="1" x1="514" x2="586" stroke="black" y1="100"/>
+					
+     <line y2="103" stroke-width="1" x1="514" x2="514" stroke="black" y1="97"/>
+					
+     <line y2="103" stroke-width="1" x1="586" x2="586" stroke="black" y1="97"/>
+					
+     <rect x="514" y="97" fill="rgb(255,64,64)" width="72" rx="3" ry="3" height="6"/>
+				
+    </g>
+			
+   </g>
+  </g>
+  <g>
+   <text x="115" font-size="9" y="113" text-anchor="end" fill="black" font-family="sans-serif" id="id">Y2319_MYCTU</text>
+   <text x="122" font-size="9" y="113" fill="black" font-family="sans-serif" id="description" lengthAdjust="spacingAndGlyphs" textLength="120">Universal stress protein...</text>
+   <g id="alignment">
+				
+    <g id="sequenceMatch">
+					
+     <line y2="110" stroke-width="1" x1="249" x2="449" stroke="black" y1="110"/>
+					
+     <line y2="113" stroke-width="1" x1="249" x2="249" stroke="black" y1="107"/>
+					
+     <line y2="113" stroke-width="1" x1="449" x2="449" stroke="black" y1="107"/>
+					
+     <rect x="339" y="107" fill="rgb(64,255,249)" width="51" rx="3" ry="3" height="6"/>
+				
+    </g>
+				
+    <text x="481" font-size="10" y="113" text-anchor="middle" fill="black" font-family="sans-serif" id="eValue">0.1</text>
+				
+    <g id="subjectMatch">
+					
+     <line y2="110" stroke-width="1" x1="514" x2="630" stroke="black" y1="110"/>
+					
+     <line y2="113" stroke-width="1" x1="514" x2="514" stroke="black" y1="107"/>
+					
+     <line y2="113" stroke-width="1" x1="630" x2="630" stroke="black" y1="107"/>
+					
+     <rect x="544" y="107" fill="rgb(64,255,249)" width="19" rx="3" ry="3" height="6"/>
+				
+    </g>
+			
+   </g>
+  </g>
+  <g>
+   <text x="115" font-size="9" y="123" text-anchor="end" fill="black" font-family="sans-serif" id="id">I6XFI7_MYCTU</text>
+   <text x="122" font-size="9" y="123" fill="black" font-family="sans-serif" id="description" lengthAdjust="spacingAndGlyphs" textLength="120">GCN5-related N-acetyltra...</text>
+   <g id="alignment">
+				
+    <g id="sequenceMatch">
+					
+     <line y2="120" stroke-width="1" x1="249" x2="449" stroke="black" y1="120"/>
+					
+     <line y2="123" stroke-width="1" x1="249" x2="249" stroke="black" y1="117"/>
+					
+     <line y2="123" stroke-width="1" x1="449" x2="449" stroke="black" y1="117"/>
+					
+     <rect x="307" y="117" fill="rgb(64,255,254)" width="86" rx="3" ry="3" height="6"/>
+				
+    </g>
+				
+    <text x="481" font-size="10" y="123" text-anchor="middle" fill="black" font-family="sans-serif" id="eValue">0.57</text>
+				
+    <g id="subjectMatch">
+					
+     <line y2="120" stroke-width="1" x1="514" x2="627" stroke="black" y1="120"/>
+					
+     <line y2="123" stroke-width="1" x1="514" x2="514" stroke="black" y1="117"/>
+					
+     <line y2="123" stroke-width="1" x1="627" x2="627" stroke="black" y1="117"/>
+					
+     <rect x="593" y="117" fill="rgb(64,255,254)" width="29" rx="3" ry="3" height="6"/>
+				
+    </g>
+			
+   </g>
+  </g>
+  <g>
+   <text x="115" font-size="9" y="133" text-anchor="end" fill="black" font-family="sans-serif" id="id">O33185_MYCTU</text>
+   <text x="122" font-size="9" y="133" fill="black" font-family="sans-serif" id="description" lengthAdjust="spacingAndGlyphs" textLength="120">Possible bifunctional en...</text>
+   <g id="alignment">
+				
+    <g id="sequenceMatch">
+					
+     <line y2="130" stroke-width="1" x1="249" x2="449" stroke="black" y1="130"/>
+					
+     <line y2="133" stroke-width="1" x1="249" x2="249" stroke="black" y1="127"/>
+					
+     <line y2="133" stroke-width="1" x1="449" x2="449" stroke="black" y1="127"/>
+					
+     <rect x="367" y="127" fill="rgb(64,238,255)" width="33" rx="3" ry="3" height="6"/>
+				
+    </g>
+				
+    <text x="481" font-size="10" y="133" text-anchor="middle" fill="black" font-family="sans-serif" id="eValue">1.2</text>
+				
+    <g id="subjectMatch">
+					
+     <line y2="130" stroke-width="1" x1="514" x2="914" stroke="black" y1="130"/>
+					
+     <line y2="133" stroke-width="1" x1="514" x2="514" stroke="black" y1="127"/>
+					
+     <line y2="133" stroke-width="1" x1="914" x2="914" stroke="black" y1="127"/>
+					
+     <rect x="608" y="127" fill="rgb(64,238,255)" width="12" rx="3" ry="3" height="6"/>
+				
+    </g>
+			
+   </g>
+  </g>
+  <g>
+   <text x="115" font-size="9" y="143" text-anchor="end" fill="black" font-family="sans-serif" id="id">ALKX_MYCTU</text>
+   <text x="122" font-size="9" y="143" fill="black" font-family="sans-serif" id="description" lengthAdjust="spacingAndGlyphs" textLength="120">HTH-type transcriptional...</text>
+   <g id="alignment">
+				
+    <g id="sequenceMatch">
+					
+     <line y2="140" stroke-width="1" x1="249" x2="449" stroke="black" y1="140"/>
+					
+     <line y2="143" stroke-width="1" x1="249" x2="249" stroke="black" y1="137"/>
+					
+     <line y2="143" stroke-width="1" x1="449" x2="449" stroke="black" y1="137"/>
+					
+     <rect x="314" y="137" fill="rgb(64,212,255)" width="47" rx="3" ry="3" height="6"/>
+				
+    </g>
+				
+    <text x="481" font-size="10" y="143" text-anchor="middle" fill="black" font-family="sans-serif" id="eValue">1.6</text>
+				
+    <g id="subjectMatch">
+					
+     <line y2="140" stroke-width="1" x1="514" x2="598" stroke="black" y1="140"/>
+					
+     <line y2="143" stroke-width="1" x1="514" x2="514" stroke="black" y1="137"/>
+					
+     <line y2="143" stroke-width="1" x1="598" x2="598" stroke="black" y1="137"/>
+					
+     <rect x="533" y="137" fill="rgb(64,212,255)" width="17" rx="3" ry="3" height="6"/>
+				
+    </g>
+			
+   </g>
+  </g>
+  <g>
+   <text x="115" font-size="9" y="153" text-anchor="end" fill="black" font-family="sans-serif" id="id">Y769_MYCTU</text>
+   <text x="122" font-size="9" y="153" fill="black" font-family="sans-serif" id="description" lengthAdjust="spacingAndGlyphs" textLength="120">Uncharacterized oxidored...</text>
+   <g id="alignment">
+				
+    <g id="sequenceMatch">
+					
+     <line y2="150" stroke-width="1" x1="249" x2="449" stroke="black" y1="150"/>
+					
+     <line y2="153" stroke-width="1" x1="249" x2="249" stroke="black" y1="147"/>
+					
+     <line y2="153" stroke-width="1" x1="449" x2="449" stroke="black" y1="147"/>
+					
+     <rect x="416" y="147" fill="rgb(64,175,255)" width="29" rx="3" ry="3" height="6"/>
+				
+    </g>
+				
+    <text x="481" font-size="10" y="153" text-anchor="middle" fill="black" font-family="sans-serif" id="eValue">2.4</text>
+				
+    <g id="subjectMatch">
+					
+     <line y2="150" stroke-width="1" x1="514" x2="613" stroke="black" y1="150"/>
+					
+     <line y2="153" stroke-width="1" x1="514" x2="514" stroke="black" y1="147"/>
+					
+     <line y2="153" stroke-width="1" x1="613" x2="613" stroke="black" y1="147"/>
+					
+     <rect x="534" y="147" fill="rgb(64,175,255)" width="10" rx="3" ry="3" height="6"/>
+				
+    </g>
+			
+   </g>
+  </g>
+  <g>
+   <text x="115" font-size="9" y="163" text-anchor="end" fill="black" font-family="sans-serif" id="id">I6YGT7_MYCTU</text>
+   <text x="122" font-size="9" y="163" fill="black" font-family="sans-serif" id="description" lengthAdjust="spacingAndGlyphs" textLength="120">Possible conserved membr...</text>
+   <g id="alignment">
+				
+    <g id="sequenceMatch">
+					
+     <line y2="160" stroke-width="1" x1="249" x2="449" stroke="black" y1="160"/>
+					
+     <line y2="163" stroke-width="1" x1="249" x2="249" stroke="black" y1="157"/>
+					
+     <line y2="163" stroke-width="1" x1="449" x2="449" stroke="black" y1="157"/>
+					
+     <rect x="365" y="157" fill="rgb(64,164,255)" width="56" rx="3" ry="3" height="6"/>
+				
+    </g>
+				
+    <text x="481" font-size="10" y="163" text-anchor="middle" fill="black" font-family="sans-serif" id="eValue">2.7</text>
+				
+    <g id="subjectMatch">
+					
+     <line y2="160" stroke-width="1" x1="514" x2="559" stroke="black" y1="160"/>
+					
+     <line y2="163" stroke-width="1" x1="514" x2="514" stroke="black" y1="157"/>
+					
+     <line y2="163" stroke-width="1" x1="559" x2="559" stroke="black" y1="157"/>
+					
+     <rect x="516" y="157" fill="rgb(64,164,255)" width="20" rx="3" ry="3" height="6"/>
+				
+    </g>
+			
+   </g>
+  </g>
+  <g>
+   <text x="115" font-size="9" y="173" text-anchor="end" fill="black" font-family="sans-serif" id="id">I6Y461_MYCTU</text>
+   <text x="122" font-size="9" y="173" fill="black" font-family="sans-serif" id="description" lengthAdjust="spacingAndGlyphs" textLength="120">Possible Mce-family lipo...</text>
+   <g id="alignment">
+				
+    <g id="sequenceMatch">
+					
+     <line y2="170" stroke-width="1" x1="249" x2="449" stroke="black" y1="170"/>
+					
+     <line y2="173" stroke-width="1" x1="249" x2="249" stroke="black" y1="167"/>
+					
+     <line y2="173" stroke-width="1" x1="449" x2="449" stroke="black" y1="167"/>
+					
+     <rect x="397" y="167" fill="rgb(64,140,255)" width="52" rx="3" ry="3" height="6"/>
+				
+    </g>
+				
+    <text x="481" font-size="10" y="173" text-anchor="middle" fill="black" font-family="sans-serif" id="eValue">3.5</text>
+				
+    <g id="subjectMatch">
+					
+     <line y2="170" stroke-width="1" x1="514" x2="674" stroke="black" y1="170"/>
+					
+     <line y2="173" stroke-width="1" x1="514" x2="514" stroke="black" y1="167"/>
+					
+     <line y2="173" stroke-width="1" x1="674" x2="674" stroke="black" y1="167"/>
+					
+     <rect x="533" y="167" fill="rgb(64,140,255)" width="17" rx="3" ry="3" height="6"/>
+				
+    </g>
+			
+   </g>
+  </g>
+  <g>
+   <text x="115" font-size="9" y="183" text-anchor="end" fill="black" font-family="sans-serif" id="id">O33255_MYCTU</text>
+   <text x="122" font-size="9" y="183" fill="black" font-family="sans-serif" id="description" lengthAdjust="spacingAndGlyphs" textLength="120">Probable conserved integ...</text>
+   <g id="alignment">
+				
+    <g id="sequenceMatch">
+					
+     <line y2="180" stroke-width="1" x1="249" x2="449" stroke="black" y1="180"/>
+					
+     <line y2="183" stroke-width="1" x1="249" x2="249" stroke="black" y1="177"/>
+					
+     <line y2="183" stroke-width="1" x1="449" x2="449" stroke="black" y1="177"/>
+					
+     <rect x="277" y="177" fill="rgb(64,114,255)" width="27" rx="3" ry="3" height="6"/>
+				
+    </g>
+				
+    <text x="481" font-size="10" y="183" text-anchor="middle" fill="black" font-family="sans-serif" id="eValue">4.7</text>
+				
+    <g id="subjectMatch">
+					
+     <line y2="180" stroke-width="1" x1="514" x2="578" stroke="black" y1="180"/>
+					
+     <line y2="183" stroke-width="1" x1="514" x2="514" stroke="black" y1="177"/>
+					
+     <line y2="183" stroke-width="1" x1="578" x2="578" stroke="black" y1="177"/>
+					
+     <rect x="547" y="177" fill="rgb(64,114,255)" width="10" rx="3" ry="3" height="6"/>
+				
+    </g>
+			
+   </g>
+  </g>
+  <g>
+   <text x="115" font-size="9" y="193" text-anchor="end" fill="black" font-family="sans-serif" id="id">O05576_MYCTU</text>
+   <text x="122" font-size="9" y="193" fill="black" font-family="sans-serif" id="description" lengthAdjust="spacingAndGlyphs" textLength="120">UTP--glucose-1-phosphate...</text>
+   <g id="alignment">
+				
+    <g id="sequenceMatch">
+					
+     <line y2="190" stroke-width="1" x1="249" x2="449" stroke="black" y1="190"/>
+					
+     <line y2="193" stroke-width="1" x1="249" x2="249" stroke="black" y1="187"/>
+					
+     <line y2="193" stroke-width="1" x1="449" x2="449" stroke="black" y1="187"/>
+					
+     <rect x="410" y="187" fill="rgb(64,65,255)" width="34" rx="3" ry="3" height="6"/>
+				
+    </g>
+				
+    <text x="481" font-size="10" y="193" text-anchor="middle" fill="black" font-family="sans-serif" id="eValue">8.0</text>
+				
+    <g id="subjectMatch">
+					
+     <line y2="190" stroke-width="1" x1="514" x2="636" stroke="black" y1="190"/>
+					
+     <line y2="193" stroke-width="1" x1="514" x2="514" stroke="black" y1="187"/>
+					
+     <line y2="193" stroke-width="1" x1="636" x2="636" stroke="black" y1="187"/>
+					
+     <rect x="563" y="187" fill="rgb(64,65,255)" width="13" rx="3" ry="3" height="6"/>
+				
+    </g>
+			
+   </g>
+  </g>
+  <g>
+   <text x="115" font-size="9" y="203" text-anchor="end" fill="black" font-family="sans-serif" id="id">TILS_MYCTU</text>
+   <text x="122" font-size="9" y="203" fill="black" font-family="sans-serif" id="description" lengthAdjust="spacingAndGlyphs" textLength="120">tRNA(Ile)-lysidine synth...</text>
+   <g id="alignment">
+				
+    <g id="sequenceMatch">
+					
+     <line y2="200" stroke-width="1" x1="249" x2="449" stroke="black" y1="200"/>
+					
+     <line y2="203" stroke-width="1" x1="249" x2="249" stroke="black" y1="197"/>
+					
+     <line y2="203" stroke-width="1" x1="449" x2="449" stroke="black" y1="197"/>
+					
+     <rect x="340" y="197" fill="rgb(64,64,255)" width="22" rx="3" ry="3" height="6"/>
+				
+    </g>
+				
+    <text x="481" font-size="10" y="203" text-anchor="middle" fill="black" font-family="sans-serif" id="eValue">8.1</text>
+				
+    <g id="subjectMatch">
+					
+     <line y2="200" stroke-width="1" x1="514" x2="643" stroke="black" y1="200"/>
+					
+     <line y2="203" stroke-width="1" x1="514" x2="514" stroke="black" y1="197"/>
+					
+     <line y2="203" stroke-width="1" x1="643" x2="643" stroke="black" y1="197"/>
+					
+     <rect x="632" y="197" fill="rgb(64,64,255)" width="8" rx="3" ry="3" height="6"/>
+				
+    </g>
+			
+   </g>
+  </g>
+ </g>
+	
+	
+ <use x="112" y="230" fill="url(#colorscale)" width="824" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#colorscaleBox" xlink:type="simple" xlink:actuate="onLoad" height="70" id="bottom" xlink:show="embed"/>
+
+
+</svg>
