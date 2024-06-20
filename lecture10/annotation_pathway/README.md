@@ -4,6 +4,16 @@
 
 ---
 
+## Table of contents
+
+- [Genome annotation and Pathway Analysis](#genome-annotation-and-pathway-analysis)
+  - [Table of contents](#table-of-contents)
+  - [Genome annotation with Prokka](#genome-annotation-with-prokka)
+  - [Quality control with QUAST](#quality-control-with-quast)
+  - [Filter AMR-related genes](#filter-amr-related-genes)
+  - [Double check queried AMR protein sequences](#double-check-queried-amr-protein-sequences)
+  - [Pathway analysis for *Mycobacterium tuberculosis*](#pathway-analysis-for-mycobacterium-tuberculosis)
+
 ## Genome annotation with Prokka
 
 ```bash
@@ -44,7 +54,7 @@ seqtk subseq prokka/SRR28714678.faa AMR/AMR_list.txt  > "AMR/AMR_prots.fa"
 
 - Using `NCBI BLAST` on [these sequences](./AMR/AMR_prots.fa).
 
-## Pathway analysis
+## Pathway analysis for ***Mycobacterium tuberculosis***
 
-- Access my custom `gProfiler` pathway database for ***Mycobacterium tuberculosis*** using the provided `token` to identify pathways associated with specific genes of interest.
+- Access my custom `gProfiler` pathway database for ***M.tuberculosis*** using the provided `token` to identify pathways associated with specific genes of interest.
 - [gProfiler](https://biit.cs.ut.ee/) webpage.
