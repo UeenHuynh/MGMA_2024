@@ -35,9 +35,11 @@
 
 ```bash
 # Genotype: CalA_resC6
-wget -P ./raw/ ftp.sra.ebi.ac.uk/vol1/fastq/SRR287/078/SRR28714678/SRR28714678_{1,2}.fastq.gz
+wget -P ./raw/ ftp.sra.ebi.ac.uk/vol1/fastq/SRR287/078/SRR28714678/SRR28714678_1.fastq.gz
+wget -P ./raw/ ftp.sra.ebi.ac.uk/vol1/fastq/SRR287/078/SRR28714678/SRR28714678_2.fastq.gz
 # Genotype: CalB_546_1
-wget -P ./raw/ ftp.sra.ebi.ac.uk/vol1/fastq/SRR287/067/SRR28714667/SRR28714677_{1,2}.fastq.gz
+wget -P ./raw/ ftp.sra.ebi.ac.uk/vol1/fastq/SRR287/067/SRR28714667/SRR28714677_1.fastq.gz
+wget -P ./raw/ ftp.sra.ebi.ac.uk/vol1/fastq/SRR287/067/SRR28714667/SRR28714677_2.fastq.gz
 ```
 
 ## 3. Prepare reference genome: `Genome assembly ASM19595v2`
