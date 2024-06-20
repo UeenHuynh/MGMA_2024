@@ -13,7 +13,7 @@ Genome assembly should only be used in the following scenarios:
 As genome assembly is an important part of analysis but involves building a reference file that will be used multiple times, it makes sense to install it in its own environment. Other potential tools to include in the same environment would be read preprocessing tools, particularly adapter removal tools such as fastp. Supporting the suggestion made in the fastp tutorial, if environments are to be grouped together based on tasks, read preprocessing is a good environment to establish.
 
 ```bash
-conda create --name assembly -c conda-forge -c bioconda spades
+$ conda create --name assembly -c conda-forge -c bioconda spades
 ```
 
 SPAdes comes with a self-test option to ensure the program is correctly installed. While this is not true for most programs, it is always a good idea to run whatever test data a program provides rather than jumping straight into your own data. Knowing there is an error in the program rather than your data makes troubleshooting much easier. 
@@ -56,7 +56,7 @@ SPAdes genome assembler v4.0.0
 
 Candida auris (C. auris) is a yeast that presents significant healthcare challenges due to its resistance to antifungal treatments and its potential to cause life-threatening infections. It primarily affects individuals who are already ill or immunocompromised and can spread easily within hospital settings, often colonizing patients asymptomatically. Accurate identification typically requires specialized tests such as sequencing or mass spectrometry. Clinical infections caused by C. auris, which often manifest with nonspecific symptoms, should be initially treated with echinocandins in adults, with consultation from infectious disease specialists recommended. Early detection, screening procedures, and stringent infection control measures are essential to curbing its transmission.
 
-The raw data used in this tutorial is sourced from [SRR9007776 Iran](https://www.ncbi.nlm.nih.gov/sra/?term=SRR9007776), obtained through whole-genome sequencing employing paired-end reads. Before performing the assembly, it is crucial to conduct quality control, trimming, and adapter filtering on the FASTQ files. 
+The raw data used in this tutorial is sourced from [SRR9007776 Iran](https://www.ncbi.nlm.nih.gov/sra/?term=SRR9007776), obtained through whole-genome sequencing employing paired-end reads. :bangbang:**Before performing the assembly, it is crucial to conduct quality control, trimming, and adapter filtering on the FASTQ files**. 
 
 Our processed file can be accessed [here](link to the processed file). [here](link to FASTQ files for quality control).
 
@@ -68,3 +68,13 @@ Here is a basic command:
 $ spades.py -1 Iran_Babol_1_1.trimmed.fastq.gz -2 Iran_Babol_1_2.trimmed.fastq.gz -o output_folder
 ```
 
+## Visualization
+To visualize the assembly, you can use `Bandage` program.
+
+```bash
+# Install bandage
+conda create --name assembly_visualization -c conda-forge -c bioconda bandage
+
+# Run it
+Bandage
+```
