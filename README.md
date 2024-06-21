@@ -208,13 +208,13 @@
 
 #### Denovo assembly for WGS of Microbes
 
-- [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture10/Denovo_assembly/docs/Denovo_assembly.pdf)
-- [Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/lucianhu-patch-1/lecture10/Denovo_assembly)
+- [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture10/Denovo_assembly/docs/Denovo_assembly.pdf) &emsp; [Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/lucianhu-patch-1/lecture10/Denovo_assembly) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=4uF5Nd07-N0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=50)
 
 #### Annotation of WGS and Pathway Analysis
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000).
-- [Materials](./lecture10/annotation_pathway/)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000). &emsp; [Materials](./lecture10/annotation_pathway/) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=j47sh5SdWfA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=51)
+
+#### [Q&A](https://www.youtube.com/watch?v=wU_zXMtwR-c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=52)
 
 ## June 23, 2024
 
