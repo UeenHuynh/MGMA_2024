@@ -221,10 +221,10 @@
 ## Lecture 11
 
 #### Serotyping, genotyping and phenotyping for Microbes
--Section_1:Serotyping,phenotyping 
--Section_2:Introduction to genotying method
--Section_3:MLST analysis for microbes
--Section_4:How to use pubMLST database
+- [Section_1:Serotyping,phenotyping] 
+- [Section_2:Introduction to genotying method]
+- [Section_3:MLST analysis for microbes]
+- [Section_4:How to use pubMLST database]
 - [Slides](https://docs.google.com/presentation/d/1gioc_015QxKmmBVs7ebYW9eqMSoiT4PgL5fJY1Zcezo/edit#slide=id.g2e78a483b2b_3_45)
 - [Homework_and_practice](https://colab.research.google.com/drive/1qTnHzxvIctjg3G7j1pivuXT5tBWM-8jf?usp=sharing)
 
