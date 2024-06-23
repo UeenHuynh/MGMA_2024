@@ -221,14 +221,7 @@
 ## Lecture 11
 
 #### Serotyping, genotyping and phenotyping for Microbes
-
-#### Traditional Methods 
-
-#### MLST analysis for Microbes
-
-#### Practice and home work
-
-
+- [Slides](https://docs.google.com/presentation/d/1gioc_015QxKmmBVs7ebYW9eqMSoiT4PgL5fJY1Zcezo/edit#slide=id.g2e78a483b2b_3_45)
 
 ## References
 
