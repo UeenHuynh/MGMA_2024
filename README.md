@@ -222,7 +222,7 @@
 
 #### Serotyping, genotyping and phenotyping for Microbes
 - [Section_1:Serotyping,phenotyping] 
-- [Section_2:Introduction to genotying method]
+- [Section_2:Introduction to genotying methods]
 - [Section_3:MLST analysis for microbes]
 - [Section_4:How to use pubMLST database]
 - [Slides](https://docs.google.com/presentation/d/1gioc_015QxKmmBVs7ebYW9eqMSoiT4PgL5fJY1Zcezo/edit#slide=id.g2e78a483b2b_3_45)
