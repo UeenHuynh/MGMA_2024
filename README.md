@@ -1,18 +1,18 @@
-# Microbial Genome & Microbiome Analysis Course Content Timeline
+q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 ## May 19, 2024
 
 ### Lecture 1
 
 #### Introduction to the course structure and objectives
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=epMAMIo0AOo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=1&pp=iAQB)
-- [Ways to get the Terminal](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Way%20to%20get%20the%20terminal)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Introduction_to_Microbial_Genome_and_Microbiome_20240519.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=epMAMIo0AOo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=1&pp=iAQB)
+- [Ways to get the Terminal](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Way%20to%20get%20the%20terminal)
 
 #### Ubuntu and Basic Linux Commands Part 1
 
-- I. Introduction: Ubuntu, File Systems, Some Terms: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2&t=2s&pp=iAQB)
-- II. Some commands work with files and directories: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_2_Some_commands_work_with_files_and_directories.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_2_Some_commands_work_with_files_and_directories.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3&t=2s&pp=iAQB)
-- [Homework for Basic Linux Commands Part 1](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/Homework_basic_Linux_commands_part1.pdf) &emsp;[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Ubuntu_and_basic_Linux_commands_part_1/HomeworkAnswers_basic_Linux_commands_part1.pdf)
+- I. Introduction: Ubuntu, File Systems, Some Terms: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_1_IntroductionUbuntu_FileSystems_SomeTerms%20.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=5mYu5BOCvKc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=2&t=2s&pp=iAQB)
+- II. Some commands work with files and directories: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_2_Some_commands_work_with_files_and_directories.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Ubuntu_and_basic_Linux_commands_part_1/Ubuntu_and_basic_Linux_commmands_part1_2_Some_commands_work_with_files_and_directories.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=NHq5sqyhybM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=3&t=2s&pp=iAQB)
+- [Homework for Basic Linux Commands Part 1](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Ubuntu_and_basic_Linux_commands_part_1/Homework_basic_Linux_commands_part1.pdf) &emsp;[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_1/Ubuntu_and_basic_Linux_commands_part_1/HomeworkAnswers_basic_Linux_commands_part1.pdf)
 - [Question and Answer](https://www.youtube.com/watch?v=z7rNkiy2tvU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=4&t=1s&pp=iAQB) &emsp;[Q&A](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%201/Questions%26Answers.md)
 
 
@@ -22,21 +22,21 @@
 
 #### Nucleotide sequence database: DNA and RNA
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=z_GshrtJU_o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=5&pp=iAQB)
-- Homework: &emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pptx)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=z_GshrtJU_o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=5&pp=iAQB)
+- Homework: &emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pptx)
 
 #### Homology Search with BLAST (Part 1)
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=_NIkFdBqH7M&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=6&pp=iAQB)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Homology%20search%20with%20BLAST/Lecture_2_2_Homology_Searching_with_BLAST.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=_NIkFdBqH7M&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=6&pp=iAQB)
 
 #### Basic Linux Commands Part 2: Search and Filter, Input/Output Redirection
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=wBV9j147arU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=7&pp=iAQB)
+- [PDF]() &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=wBV9j147arU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=7&pp=iAQB)
 
 #### Basic Linux Commands Part 2: Download, File permission, Compress and Decompress
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=Y0C9AyUu8EE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=8&pp=iAQB)
-- [Materials used in Slide](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/2.%20basic%20Linux%20commands%20part%202/Material)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/2.%20basic%20Linux%20commands%20part%202) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=Y0C9AyUu8EE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=8&pp=iAQB)
+- [Materials used in Slide](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/Material)
 - [Homework for Basic Linux Commands Part 2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/Homework_basic_Linux_commands_part2.pdf) &emsp;[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/HomeworkAnswers_basic_Linux_commands_part2.pdf)
 
 #### Introduction to Bash Scripting 
