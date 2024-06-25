@@ -23,7 +23,8 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 #### Nucleotide sequence database: DNA and RNA
 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=z_GshrtJU_o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=5&pp=iAQB)
-- Homework: &emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pptx)
+##### Homework:
+ - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Homology%20search%20with%20BLAST/Lecture_2_1_Nucleotide_DNA_RNA_Classwork.pptx)
 
 #### Homology Search with BLAST (Part 1)
 
@@ -31,21 +32,24 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 #### Basic Linux Commands Part 2: Search and Filter, Input/Output Redirection
 
-- [PDF]() &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=wBV9j147arU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=7&pp=iAQB)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_I.Working_with_text_files.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=wBV9j147arU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=7&pp=iAQB)
 
 #### Basic Linux Commands Part 2: Download, File permission, Compress and Decompress
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/2.%20basic%20Linux%20commands%20part%202) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=Y0C9AyUu8EE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=8&pp=iAQB)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pptx)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=Y0C9AyUu8EE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=8&pp=iAQB)
 - [Materials used in Slide](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/Material)
-- [Homework for Basic Linux Commands Part 2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/Homework_basic_Linux_commands_part2.pdf) &emsp;[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/2.%20basic%20Linux%20commands%20part%202/HomeworkAnswers_basic_Linux_commands_part2.pdf)
+- [Homework for Basic Linux Commands Part 2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/Homework_basic_Linux_commands_part2.pdf) &emsp;[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/HomeworkAnswers_basic_Linux_commands_part2.pdf)
 
 #### Introduction to Bash Scripting 
 
-- [PDF](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing) &emsp; [Homework](https://docs.google.com/presentation/d/1-3tyBtMYiRJPyBK5svC5-boe3KbQersSZCAWzSUbmLA/edit?usp=sharing) &emsp;[Homework material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture2/Script) &emsp;[Answer for homework](https://github.com/UeenHuynh/MGMA_2024/tree/a1eb39362bcd9bf0181f6747c79821f9b0c83c20/lecture2/Bashscript1) &emsp;[Q&A](https://www.youtube.com/watch?v=MYUUYeJ8YoY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=10&pp=iAQB) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=bIMtUtNmBW4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=9&pp=iAQB)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Bashscript1/Introduction_to_bash_script_(1)_and%20_(2).pdf) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=bIMtUtNmBW4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=9&pp=iAQB)
+&emsp;[Scripts-material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/Bashscript1/Scriptst) 
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Bashscript1/%5B2%5D%20Bash%20script%20(1)%20Homework.pdf)  &emsp;[Answer](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/Bashscript1/Answers) &emsp;
+- [Q&A](https://www.youtube.com/watch?v=MYUUYeJ8YoY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=10&pp=iAQB) &emsp; 
 
 #### Bash Cheat Sheet 
 
-[Bash Cheat Sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture2/Bash_Cheat_Sheet.html) (Download to your device to view)
+[Bash Cheat Sheet](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Bashscript1/Bash_Cheat_Sheet.html) (Download to your device to view)
 
 
 ## May 26, 2024
@@ -54,15 +58,16 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 #### Homology Search with BLAST (Part 2): Pairwise Alignment
 
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/lecture_2_3_Pairwise_Alignment_20240530.pptx) &emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/lecture_2_3_Pairwise_Alignment_20240530.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=DbzSkZhlRDA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=11&pp=iAQB)
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_3/lecture_2_3_Pairwise_Alignment_20240530.pptx) &emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_3/lecture_2_3_Pairwise_Alignment_20240530.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=DbzSkZhlRDA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=11&pp=iAQB)
 
 #### Bash Script and AWK
 
-- [PPTX](https://docs.google.com/presentation/d/1NcvZLF0UgyI0JUEYRqmrn5E4dXeaj9mYlPklXUAxTj0/edit?usp=sharing) &emsp; [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture3/%5B3%5DBashscript(2)Homework.pdf) &emsp; [Material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/material) &ensp;[Script](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/script) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=3r83hXh9qL8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=12&pp=iAQB)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_3/Introduction_to_bash_script%20_(1)_and_(2).pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=3r83hXh9qL8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=12&pp=iAQB) 
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_3/%5B3%5DBashscript(2)Homework.pdf)&emsp; [Material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_3/material)&ensp;[Script](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/script) &emsp;
 
 #### Homework Answer
 
-- [Homework_Answer](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture3/homework) &emsp;[Awk Cheat sheet](https://bl831.als.lbl.gov/~gmeigs/scripting_help/awk_cheat_sheet.pdf) &emsp; [Q&A](https://www.youtube.com/watch?v=6r87H7m_Yko&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=13)
+- [Homework_Answer](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_3/homework) &emsp;[Awk Cheat sheet](https://bl831.als.lbl.gov/~gmeigs/scripting_help/awk_cheat_sheet.pdf) &emsp; [Q&A](https://www.youtube.com/watch?v=6r87H7m_Yko&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=13)
 
 ## May 30, 2024
 
@@ -223,13 +228,13 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 ### Serotyping, genotyping and phenotyping for Microbes
 - [Slides for all sections](https://docs.google.com/presentation/d/1gioc_015QxKmmBVs7ebYW9eqMSoiT4PgL5fJY1Zcezo/edit#slide=id.g2e78a483b2b_3_45)
 #### Section 1: Serotyping, phenotyping
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%201_%20Serotyping%2C%20phenotyping.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=QEAE9TJrn-8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=54) 
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%201_%20Serotyping%2C%20phenotyping.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=QEAE9TJrn-8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=54) 
 #### Section 2: Genotype and molecular subtyping
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%202_%20Introduction%20to%20genotying%20methods.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=KePR39DtqOk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=55)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%202_%20Genotype%20and%20molecular%20subtyping.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=KePR39DtqOk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=55)
 #### Section 3: MLST analysis for microbes
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%203_%20MLST%20analysis%20for%20microbes.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=SXClmCkdYnA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=56)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%203_%20MLST%20analysis%20for%20microbes.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=SXClmCkdYnA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=56)
 #### Section 4: How to use pubMLST database + CoreGenome MLST practice
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20Section%204_%20How%20to%20use%20pubMLST%20database%20%2B%20CoreGenome%20MLST%20practice.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=yYR37VdQtnI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=57)&emsp;[TUTORIAL](https://colab.research.google.com/drive/1qTnHzxvIctjg3G7j1pivuXT5tBWM-8jf?usp=sharing)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%204_%20How%20to%20use%20pubMLST%20database%20%2B%20CoreGenome%20MLST%20practice.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=yYR37VdQtnI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=57)&emsp;[TUTORIAL](https://colab.research.google.com/drive/1qTnHzxvIctjg3G7j1pivuXT5tBWM-8jf?usp=sharing)
 #### [Q&A-YOUTUBE](https://www.youtube.com/watch?v=jTy02A62Ogs&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=58)
 
 ## References
@@ -244,3 +249,6 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 - [Awk](https://www.udemy.com/course/advance-unix-commands/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROW&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=&priority=&utm_content=deal4584&utm_term=_._ag_77879423894_._ad_535397245857_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171032_._li_1028581_._pd__._&matchtype=&gad_source=2&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9P6tIxYgnIWnAgf-Q-8a2iXhTKpjc7u7qOmAxV_MACoimqFRzNXTVMaApeeEALw_wcB&couponCode=2021PM25) &emsp;[Awk Youtube1](https://www.youtube.com/watch?v=I-uWvNvtJcY&list=PLY-V_O-O7h4fzqbPT0kpQMl8XlPvSse9H&pp=iAQB) &emsp;[Awk Youtube2](https://youtu.be/oPEnvuj9QrI)
 - [Scripts](https://www.udemy.com/course/linux-shell-scripting/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.ROW&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=&priority=&utm_content=deal4584&utm_term=_._ag_88010211481_._ad_535397282064_._kw__._de_c_._dm__._pl__._ti_dsa-406594358574_._li_1028581_._pd__._&matchtype=&gad_source=2&gclid=Cj0KCQjwpNuyBhCuARIsANJqL9Mulr7atWce8JLEMlbdQSr-3Er5TTKRU_jrjvd8yKi0e6jugGKKWI8aAuPPEALw_wcB&couponCode=2021PM25)
+
+
+[def]: https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/Material
