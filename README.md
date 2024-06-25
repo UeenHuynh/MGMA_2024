@@ -75,15 +75,15 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 #### Primer and Probe Design
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=NynLku_Oizk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=14&pp=iAQB)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_4/Design%20Primer%20and%20Probe%20-%20MGMA%202024.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=NynLku_Oizk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=14&pp=iAQB)
 
 #### Wrap-up Linux Command Line
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/wrapup_linux_command_line_practice.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=114oATBzX-I&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=15&pp=iAQB)
+- [PDF-part1](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_4/slide/wrapup_linux_command_line_practice.pdf) &emsp;
+ [PDF-part2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_4/slide/Wrap_Up_Linux.pdf) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=114oATBzX-I&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=15&pp=iAQB)
 
-#### Bash cheat sheet
 
-- [YOUTUBE](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture4/slide/Wrap_Up_Linux.pdf) &emsp; [Q&A](https://www.youtube.com/watch?v=pjXgItToXRk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=16)
+ &emsp; [Q&A](https://www.youtube.com/watch?v=pjXgItToXRk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=16)
 
 ## June 2, 2024
 
@@ -213,7 +213,7 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 #### Denovo assembly for WGS of Microbes
 
-- [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture10/Denovo_assembly/docs/Denovo_assembly.pdf) &emsp; [Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/lucianhu-patch-1/lecture10/Denovo_assembly) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=4uF5Nd07-N0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=50)
+- [Slides](hhttps://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_10/Denovo_assembly/docs/Denovo_assembly.pdf) &emsp; [Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_10) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=4uF5Nd07-N0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=50)
 
 #### Annotation of WGS and Pathway Analysis
 
