@@ -1,0 +1,27 @@
+Question File:
+Task 1:
+    Using the sample() function, create two sets of 10 points each on a 2D plane (x, y).
+    Set 1: Points in the range from 70 to 100.
+    Set 2: Points in the range from 0 to 50.
+    Plot the first set with red points and the second set with blue points using the plot() function.
+Task 2:
+    Load the mtcars dataset.
+    Extract the columns mpg, hp, and wt.
+    Display a box plot for the hp field with appropriate labels and title using the boxplot() function.
+    Display a histogram for the cyl field with appropriate labels and title using the hist() function.
+    Display a bar graph for the cyl field with appropriate labels and title using the barplot() function
+
+Task 3:
+	Load the pressure dataset
+	Create a line graph between temperature an pressure with appropriate name, using plot() function.
+	Add points interating between temperature and pressure into the graph.
+	Add another line graph which displays a half pressure value into the "Temperature-Pressure" graph.
+	
+Task 4:
+    Load the iris dataset.
+    Aggregate the data to find the mean Sepal.Length for each Species.
+    Create a bar plot displaying the mean Sepal Length by Petal Width with species names and a legend.
+Task 5:
+    Load the iris dataset.
+    Using the mapply() function, filter out the Sepal.Length values that fall outside the interquartile range (IQR) for each species.
+    Plot a histogram of the filtered Sepal.Length values with a legend.
