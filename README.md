@@ -223,18 +223,13 @@
 ### Serotyping, genotyping and phenotyping for Microbes
 - [Slides for all sections](https://docs.google.com/presentation/d/1gioc_015QxKmmBVs7ebYW9eqMSoiT4PgL5fJY1Zcezo/edit#slide=id.g2e78a483b2b_3_45)
 #### Section 1: Serotyping, phenotyping
--[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%201_%20Serotyping%2C%20phenotyping.pdf)&emsp;
--[YOUTUBE](https://www.youtube.com/watch?v=QEAE9TJrn-8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=54) 
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%201_%20Serotyping%2C%20phenotyping.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=QEAE9TJrn-8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=54) 
 #### Section 2: Introduction to genotying methods
--[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%202_%20Introduction%20to%20genotying%20methods.pdf)&emsp;
--[YOUTUBE](https://www.youtube.com/watch?v=KePR39DtqOk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=55)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%202_%20Introduction%20to%20genotying%20methods.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=KePR39DtqOk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=55)
 #### Section 3: MLST analysis for microbes
--[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%203_%20MLST%20analysis%20for%20microbes.pdf)&emsp;
--[YOUTUBE](https://www.youtube.com/watch?v=SXClmCkdYnA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=56)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%203_%20MLST%20analysis%20for%20microbes.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=SXClmCkdYnA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=56)
 #### Section 4: How to use pubMLST database + CoreGenome MLST practice
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20Section%204_%20How%20to%20use%20pubMLST%20database%20%2B%20CoreGenome%20MLST%20practice.pdf)&emsp;
-- [YOUTUBE](https://www.youtube.com/watch?v=yYR37VdQtnI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=57)&emsp;
-- [TUTORIAL](https://colab.research.google.com/drive/1qTnHzxvIctjg3G7j1pivuXT5tBWM-8jf?usp=sharing)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20Section%204_%20How%20to%20use%20pubMLST%20database%20%2B%20CoreGenome%20MLST%20practice.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=yYR37VdQtnI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=57)&emsp;[TUTORIAL](https://colab.research.google.com/drive/1qTnHzxvIctjg3G7j1pivuXT5tBWM-8jf?usp=sharing)
 #### [Q&A-YOUTUBE](https://www.youtube.com/watch?v=jTy02A62Ogs&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=58)
 
 ## References
