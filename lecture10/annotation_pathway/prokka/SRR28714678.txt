@@ -1,9 +1,0 @@
-organism: Mycobacterium tuberculosis H37Rv 
-contigs: 143
-bases: 4346720
-CDS: 4050
-misc_RNA: 36
-rRNA: 3
-repeat_region: 2
-tRNA: 52
-tmRNA: 1
