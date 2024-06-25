@@ -224,7 +224,7 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 - [Slides for all sections](https://docs.google.com/presentation/d/1gioc_015QxKmmBVs7ebYW9eqMSoiT4PgL5fJY1Zcezo/edit#slide=id.g2e78a483b2b_3_45)
 #### Section 1: Serotyping, phenotyping
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%201_%20Serotyping%2C%20phenotyping.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=QEAE9TJrn-8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=54) 
-#### Section 2: Introduction to genotying methods
+#### Section 2: Genotype and molecular subtyping
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%202_%20Introduction%20to%20genotying%20methods.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=KePR39DtqOk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=55)
 #### Section 3: MLST analysis for microbes
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture11/Lecture%2011%20-%20Section%203_%20MLST%20analysis%20for%20microbes.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=SXClmCkdYnA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=56)
