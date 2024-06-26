@@ -91,19 +91,19 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 #### Multiple Alignment
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pptx) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=5fj5HEZk7B8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=17)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_5/lecture_2_4_Multiple_Sequence_Alignment_20240602.pptx) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=5fj5HEZk7B8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=17)
 
 #### Phylogenetic Trees
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pptx) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=g_EFfYhAXG4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=18)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_5/lecture_2_5_Reconstruct_Phylogenetic_Tree_20240602.pptx) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=g_EFfYhAXG4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=18)
 
 #### Basic R1: Data types, Basic calculations, Data structure, Basic Functions (For loop, If ...else, While loop)
 
-- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Homework%20R1.pptx) &emsp;[Markdown](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/R1_markdown.rmd) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=5iKr0TWv5xE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=19)
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_5/Homework%20R1.pptx) &emsp;[Markdown](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_5/R1_markdown.rmd) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=5iKr0TWv5xE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=19)
 
 #### Code editing with VScode: Homework
 
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture5/Code%20editing%20with%20vs-code.ppt) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=1IU7-67iYbM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=20)
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_5/Code%20editing%20with%20vs-code.ppt) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=1IU7-67iYbM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=20)
 
 #### [Q&A](https://www.youtube.com/watch?v=xsohnjaVloY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=21)
 
@@ -117,15 +117,15 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 #### Basic plot in R2
 
-[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Basic%20R2.pptx) &emsp;[Question](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/R2_question.txt) &emsp;[Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Answer_R2.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=8GTNqj6YY2o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=25)
+[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_6/Basic%20R2.pptx) &emsp;[Question](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_6/R2_question.txt) &emsp;[Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_6/Answer_R2.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=8GTNqj6YY2o&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=25)
 
 #### Introduction to GitHub
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/introduction%20about%20github.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=Z8TCs7K3E3w&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=26)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_6/introduction%20about%20github.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_6/introduction%20about%20github.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=Z8TCs7K3E3w&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=26)
 
 #### Test answer
 
-- [Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/Lecture%206/Q%26A-pairwise-alignment-6-6-2024.docx)
+- [Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_6/Q%26A-pairwise-alignment-6-6-2024.docx)
 - [YOUTUBE](https://www.youtube.com/watch?v=doZFJCrK3-c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=27)
 
 ## June 9, 2024
@@ -138,29 +138,29 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 #### Introduction of next-generation sequencing (NGS)
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS_Loi_20240609.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=hhOH7TG9WPc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=30)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_7/NGS_Loi_20240609.pdf) &emsp;[PPTX](hhttps://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_7/NGS_Loi_20240609.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=hhOH7TG9WPc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=30)
 
 ### Lecture ppt
 ### Pacbio
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/a7ad8d2b21c2756897a2794c6847b733c38e5c9b/lecture%207/PacBioMicrobialGenomicPresentation.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=tFmNO5rVoeM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=31)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_7/PacBioMicrobialGenomicPresentation.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=tFmNO5rVoeM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=31)
 
 ### AVITI
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/Element_1_NGS%20on%20AVITI_24.06.09_Ver2.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=pSwWofrRu3Y&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=36)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_7/Element_1_NGS%20on%20AVITI_24.06.09_Ver2.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=pSwWofrRu3Y&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=36)
 
 
 #### SISC
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/NGS%20-%20Ion_Turrent_sequencing%20-%20SISC) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qso3tdp0IPo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=35)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_7/NGS%20-%20Ion_Turrent_sequencing%20-%20SISC) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qso3tdp0IPo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=35)
 
 #### ILLUMINA
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/ILLUMINA%20Platform-%20Illumina%20VietNam.pdf)  &emsp; [YOUTUBE](https://www.youtube.com/watch?v=-Kw5ov-orzU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=33)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_7/ILLUMINA%20Platform-%20Illumina%20VietNam.pdf)  &emsp; [YOUTUBE](https://www.youtube.com/watch?v=-Kw5ov-orzU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=33)
 
 #### MGI
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%207/MGI%20-%20Research%20Instruments.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=4_h4wNIyfk0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=34)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_7/MGI%20-%20Research%20Instruments.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=4_h4wNIyfk0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=34)
 
 #### [Q&A](https://www.youtube.com/watch?v=1SkWIKMu56g&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=37)
 ##### Slides
@@ -176,8 +176,8 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 #### Basic statistics in R3
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/1q4Hm8-7czKdhyHPc0JIiWPsTKN_3u8I2.pdf) &emsp; [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/VdrGenusCounts.csv)&emsp; [Slide Code](https://colab.research.google.com/drive/1mbJ2cUwe9_19jbK1Bu2PIn79BLX5wu54?usp=drive_link)&emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/code_statistics_Tr%C3%AD.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=6_4-byxNhB4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=38).
-- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Homework_R3.pptx) &emsp; [Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%208/Answer_R3.R)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/1q4Hm8-7czKdhyHPc0JIiWPsTKN_3u8I2.pdf) &emsp; [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/VdrGenusCounts.csv)&emsp; [Slide Code](https://colab.research.google.com/drive/1mbJ2cUwe9_19jbK1Bu2PIn79BLX5wu54?usp=drive_link)&emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/code_statistics_Tr%C3%AD.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=6_4-byxNhB4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=38).
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/Homework_R3.pptx) &emsp; [Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/Answer_R3.R)
 ## June 16, 2024
 
 ### Lecture 9
@@ -190,12 +190,12 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 ##### 1. QC and Trimming
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[QC](./lecture9/9.1_Mapping/output/FastQC/) &emsp;[Trimming](./lecture9/9.1_Mapping/output/trimmed/) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[QC](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.1_Mapping/output/FastQC) &emsp;[Trimming](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.1_Mapping/output/trimmed) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
 
 
 ##### 2. Alignment/Mapping to the reference genome, QC and visualization of BAM
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[Paper](./lecture9/docs/The_anti-tubercular_callyaerins_target_the_Mycobac.pdf) &emsp;[Alignment](./lecture9/9.1_Mapping/output/alignment/) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[Paper](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_9/9.1_Mapping/docs/The_anti-tubercular_callyaerins_target_the_Mycobac.pdf) &emsp;[Alignment](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.1_Mapping/output/alignment) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
 
 #### III. Microbial WGS downstream analysis
 
@@ -204,7 +204,7 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 ##### 2. Building and visualization of Phylogenetic Trees
 
-- [Slides](./lecture9/9.3_Building-a-Phylogenetic-Tree/docs/phylogenetic_tree.pdf) &emsp; [Tutorial](./lecture9/9.3_Building-a-Phylogenetic-Tree) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=LgEIc_nfNnE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=47)
+- [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_9/9.3_Building-a-Phylogenetic-Tree/docs/phylogenetic_tree.pdf) &emsp; [Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.3_Building-a-Phylogenetic-Tree) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=LgEIc_nfNnE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=47)
 #### [Q&A](https://www.youtube.com/watch?v=z25lFo90skI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=48)
 
 ## June 20, 2024
@@ -217,7 +217,7 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 #### Annotation of WGS and Pathway Analysis
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000). &emsp; [Materials](./lecture10/annotation_pathway/) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=j47sh5SdWfA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=51)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000). &emsp; [Materials](./lecture_10/annotation_pathway/) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=j47sh5SdWfA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=51)
 
 #### [Q&A](https://www.youtube.com/watch?v=wU_zXMtwR-c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=52)
 
