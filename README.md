@@ -240,10 +240,10 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 ## June 27, 2024
 ### Lecture 12
 #### Review Module 1: Microbial Genome Analysis
-- [PDF] &emsp; [YOUTUBE]
+- PDF &emsp; YOUTUBE
 
 #### Introduction of Metagenomics and Microbiome (Module 2)
-- [PDF] &emsp; [YOUTUBE]
+- PDF &emsp; YOUTUBE
 #### [Q&A]
 
 ## References
