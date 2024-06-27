@@ -237,6 +237,15 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%204_%20How%20to%20use%20pubMLST%20database%20%2B%20CoreGenome%20MLST%20practice.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=yYR37VdQtnI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=57)&emsp;[TUTORIAL](https://colab.research.google.com/drive/1qTnHzxvIctjg3G7j1pivuXT5tBWM-8jf?usp=sharing)
 #### [Q&A-YOUTUBE](https://www.youtube.com/watch?v=jTy02A62Ogs&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=58)
 
+## June 27, 2024
+### Lecture 12
+#### Review Module 1: Microbial Genome Analysis
+- [PDF] &emsp; [YOUTUBE]
+
+#### Introduction of Metagenomics and Microbiome (Module 2)
+- [PDF] &emsp; [YOUTUBE]
+#### [Q&A]
+
 ## References
 
 ### Books
