@@ -244,7 +244,7 @@ q# Microbial Genome & Microbiome Analysis Course Content Timeline
 
 #### Introduction of Metagenomics and Microbiome (Module 2)
 - PDF &emsp; YOUTUBE
-#### [Q&A]
+#### Q&A
 
 ## References
 
