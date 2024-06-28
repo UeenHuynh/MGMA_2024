@@ -1,4 +1,4 @@
-q# Microbial Genome & Microbiome Analysis Course Content Timeline
+#Microbial Genome & Microbiome Analysis Course Content Timeline
 
 ## May 19, 2024
 
