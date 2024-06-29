@@ -1,6 +1,6 @@
 # Microbial Genome & Microbiome Analysis Course Content Timeline
 
-#MODULE 1: MICROBIAL GENOME
+# MODULE 1: MICROBIAL GENOME
 
 ## May 19, 2024
 
@@ -249,7 +249,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/Intro_Metagenomics.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/Intro_Metagenomics.pptx) &emsp; YOUTUBE
 #### Q&A
 
-# MODuLE 2: MICROBIOME ANALYSIS
+# MODULE 2: MICROBIOME ANALYSIS
 
 ## June 30,2024
 ### Lecture 13
