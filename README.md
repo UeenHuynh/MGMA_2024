@@ -252,12 +252,27 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 # MODULE 2: MICROBIOME ANALYSIS
 
 ## June 30,2024
-### Lecture 13
-#### Introduction some useful packages for microbiome analysis
+### Lecture 13 Introduction to R for Microbiome Data (part 1)
+#### 1. Introduction some useful packages for microbiome analysis
+- Some Useful R Functions 
+- Some Useful R Packages for Microbiome Data: Readdr, Ggpubr, Tydyverse
+- [PDF]
+#### 2. Introduction to ggplot2 and basic plot
+-[PDF] -[DATA] -[TUTORIAL]
+#### 3. R package ggplot2 for microbiome analysis + Practice
+-[PDF] -[DATA] -[TUTORIAL] 
+-[HOMEWORK] -[ANSWER]
 
-#### Introduction to ggplot2 and basic plot
+## July 4,2024
+### Lecture 14 Introduction to R for Microbiome Data (part 2)
+#### 1) Introduction to R for Microbiome Data (part 2)
+- Specifically Designed R Packages for Microbiome Data: Phyloseq
+- -[PDF] -[DATA] -[TUTORIAL] 
+-[HOMEWORK] -[ANSWER]
 
-#### R package ggplot2 for microbiome analysis + Practice
+#### 2) Experimental Design for Microbiome studies (16S, shotgun and WGS)
+- -[PDF] -[DATA] -[TUTORIAL]
+-[HOMEWORK] -[ANSWER]
 
 ## References
 
