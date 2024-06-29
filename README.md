@@ -140,7 +140,7 @@
 
 #### Introduction of next-generation sequencing (NGS)
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_7/NGS_Loi_20240609.pdf) &emsp;[PPTX](hhttps://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_7/NGS_Loi_20240609.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=hhOH7TG9WPc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=30)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_7/NGS_Loi_20240609.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_7/NGS_Loi_20240609.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=hhOH7TG9WPc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=30)
 
 ### Lecture ppt
 ### Pacbio
