@@ -1,5 +1,7 @@
 # Microbial Genome & Microbiome Analysis Course Content Timeline
 
+#MODULE 1: MICROBIAL GENOME
+
 ## May 19, 2024
 
 ### Lecture 1
@@ -247,15 +249,15 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/Intro_Metagenomics.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/Intro_Metagenomics.pptx) &emsp; YOUTUBE
 #### Q&A
 
-#MODELE 2: MICROBIOME ANALYSIS
+# MODuLE 2: MICROBIOME ANALYSIS
 
 ## June 30,2024
 ### Lecture 13
-#### Introduction some using package for microbiome
+#### Introduction some useful packages for microbiome analysis
 
-#### Introduction to ggplot2
+#### Introduction to ggplot2 and basic plot
 
-#### ggplot2 for microbiome analysis
+#### R package ggplot2 for microbiome analysis + Practice
 
 ## References
 
