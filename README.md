@@ -253,7 +253,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 ## June 30,2024
 ### Lecture 13 Introduction to R for Microbiome Data (part 1)
-#### 1. Introduction Some Useful R Functions + Some Useful R Packages for Microbiome Data: Readdr, Ggpubr, Tydyverse
+#### 1. Introduction Some Useful R Functions + Some Useful R Packages for Microbiome Data: Readr, Ggpubr, Tidyverse
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/Introduction%20to%20R%20for%20Microbiome%20Data%20(part%201)/Introduction%20to%20R%20for%20Microbiome%20Data%20(part%201).pdf)  &emsp; [CHEAT SHEET](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_13/cheat_sheet) &emsp; [YOUTUBE](https://www.youtube.com/@vpivnpathoinformatics8930)
 #### 2. Introduction to ggplot2 and basic plot
 - [PDF] &emsp;[DATA] &emsp;[TUTORIAL] &emsp; [YOUTUBE](https://www.youtube.com/watch?v=DZOkXKBbfik&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=65&pp=iAQB)
