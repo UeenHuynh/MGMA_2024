@@ -39,14 +39,14 @@
 #### Basic Linux Commands Part 2: Download, File permission, Compress and Decompress
 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pptx)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=Y0C9AyUu8EE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=8&pp=iAQB)
-- [Materials used in Slide](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/Material)
+- [Materials used in Slide](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/2.%20basic%20Linux%20commands%20part%202)
 - [Homework for Basic Linux Commands Part 2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/Homework_basic_Linux_commands_part2.pdf) &emsp;[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/HomeworkAnswers_basic_Linux_commands_part2.pdf)
 
 #### Introduction to Bash Scripting 
 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Bashscript1/Introduction_to_bash_script_(1)_and%20_(2).pdf) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=bIMtUtNmBW4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=9&pp=iAQB)
-&emsp;[Scripts-material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/Bashscript1/Scriptst) 
-- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Bashscript1/%5B2%5D%20Bash%20script%20(1)%20Homework.pdf)  &emsp;[Answer](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/Bashscript1/Answers) &emsp;
+&emsp;[Scripts-material](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/Bashscript1/scripts) 
+- [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Bashscript1/Homework/%5B2%5D%20Bash%20script%20(1)%20Homework.pdf)  &emsp;[Answer](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/Bashscript1) &emsp;
 - [Q&A](https://www.youtube.com/watch?v=MYUUYeJ8YoY&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=10&pp=iAQB) &emsp; 
 
 #### Bash Cheat Sheet 
@@ -255,23 +255,23 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ### Lecture 13 Introduction to R for Microbiome Data (part 1)
 #### 1. Introduction some useful packages for microbiome analysis
 - Some Useful R Functions + Some Useful R Packages for Microbiome Data: Readdr, Ggpubr, Tydyverse
-- [PDF]
+- [PDF]()
 #### 2. Introduction to ggplot2 and basic plot
--[PDF] -[DATA] -[TUTORIAL]
+-[PDF]() &emsp;-[DATA] &emsp;-[TUTORIAL]
 #### 3. R package ggplot2 for microbiome analysis + Practice
--[PDF] -[DATA] -[TUTORIAL] 
--[HOMEWORK] -[ANSWER]
+-[PDF]() &emsp;-[DATA] &emsp;-[TUTORIAL] 
+-[HOMEWORK] &emsp;-[ANSWER]
 
 ## July 4,2024
 ### Lecture 14 Introduction to R for Microbiome Data (part 2)
 #### 1 Introduction to R for Microbiome Data (part 2)
 - Specifically Designed R Packages for Microbiome Data: Phyloseq
-- -[PDF] -[DATA] -[TUTORIAL] 
--[HOMEWORK] -[ANSWER]
+- -[PDF]() &emsp;-[DATA]() &emsp;-[TUTORIAL]() 
+-[HOMEWORK]() &emsp;-[ANSWER]()
 
 #### 2 Experimental Design for Microbiome studies (16S, shotgun and WGS)
-- -[PDF] -[DATA] -[TUTORIAL]
--[HOMEWORK] -[ANSWER]
+- -[PDF] &emsp;-[DATA] &emsp;-[TUTORIAL]
+-[HOMEWORK] &emsp;-[ANSWER]
 
 ## References
 
