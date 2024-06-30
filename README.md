@@ -243,11 +243,11 @@
 ### Lecture 12
 #### Review Module 1: Microbial Genome Analysis
 - [Artical_Viruses_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/viruses-13-00346-v2.pdf) &emsp; [Artical_Streptococcus
-pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chang-et-al-2018-whole-genome-sequence-analysis-of-streptococcus-pneumoniae-strains-that-cause-hospital-acquired.pdf) &emsp; YOUTUBE
+pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chang-et-al-2018-whole-genome-sequence-analysis-of-streptococcus-pneumoniae-strains-that-cause-hospital-acquired.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=f6XcEBJy8O4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=60)
 
 #### Introduction of Metagenomics and Microbiome (Module 2)
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/Intro_Metagenomics.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/Intro_Metagenomics.pptx) &emsp; YOUTUBE
-#### Q&A
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/Intro_Metagenomics.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/Intro_Metagenomics.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=-b7kZ870F8M&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=61)
+#### [Q&A](https://www.youtube.com/watch?v=XPBf40mnQcc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=62)
 
 # MODULE 2: MICROBIOME ANALYSIS
 
