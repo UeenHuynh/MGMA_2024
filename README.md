@@ -267,11 +267,11 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 #### 1 Introduction to R for Microbiome Data (part 2)
 - Specifically Designed R Packages for Microbiome Data: Phyloseq
 - [PDF]() &emsp;[DATA]() &emsp;[TUTORIAL]() 
--[HOMEWORK]() &emsp;[ANSWER]()
+- [HOMEWORK]() &emsp;[ANSWER]()
 
 #### 2 Experimental Design for Microbiome studies (16S, shotgun and WGS)
-- -[PDF] &emsp;-[DATA] &emsp;-[TUTORIAL]
--[HOMEWORK] &emsp;-[ANSWER]
+- [PDF] &emsp;-[DATA] &emsp;-[TUTORIAL]
+- [HOMEWORK] &emsp;-[ANSWER]
 
 ## References
 
