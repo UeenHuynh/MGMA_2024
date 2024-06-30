@@ -1,3 +1,4 @@
+install.package("ggpubr")
 library(ggpubr)
 
 data_PT <- read_excel("C:/Users/Kim/Downloads/BT/plateassay_growthrates.xlsx")
