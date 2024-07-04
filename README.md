@@ -258,20 +258,20 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 #### 1. Introduction Some Useful R Functions + Some Useful R Packages for Microbiome Data: Readr, Ggpubr, Tidyverse
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/Introduction%20to%20R%20for%20Microbiome%20Data%20(part%201)/Introduction%20to%20R%20for%20Microbiome%20Data%20(part%201).pdf)  &emsp; [CHEAT SHEET](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_13/cheat_sheet) &emsp; [YOUTUBE](https://www.youtube.com/@vpivnpathoinformatics8930)
 #### 2. Introduction to ggplot2 and basic plot
-- [PDF] &emsp;[DATA] &emsp;[TUTORIAL] &emsp; [YOUTUBE](https://www.youtube.com/watch?v=DZOkXKBbfik&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=65&pp=iAQB)
+- [PDF] &emsp; [YOUTUBE](https://www.youtube.com/watch?v=DZOkXKBbfik&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=65&pp=iAQB)
 #### 3. R package ggplot2 for microbiome analysis + Practice
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/13.3_ggplot2_for_microbiome/Lecture_13.3%3A_%20GGplot2_for_microbiome.pdf) &emsp;[DATA](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/13.3_ggplot2_for_microbiome/microbiome.tar.gz) &emsp;[TUTORIAL](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/13.3_ggplot2_for_microbiome/ggplot_microbiome_tutorial.nb.html) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=K8W1XQr0F8E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=66&pp=iAQB)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/13.3_ggplot2_for_microbiome/Lecture_13.3%3A_%20GGplot2_for_microbiome.pdf) &emsp;[DATA_TUTORIAL_R](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/13.3_ggplot2_for_microbiome/microbiome.tar.gz) &emsp;[TUTORIAL_HTML](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/13.3_ggplot2_for_microbiome/ggplot_microbiome_tutorial.nb.html) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=K8W1XQr0F8E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=66&pp=iAQB)
 - [HOMEWORK_ANSWER](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/13.3_ggplot2_for_microbiome/microbiome.tar.gz)
 
 ## July 4,2024
 ### Lecture 14 Introduction to R for Microbiome Data (part 2)
 #### 1 Introduction to R for Microbiome Data (part 2)
 - Specifically Designed R Packages for Microbiome Data: Phyloseq
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Introduction%20to%20R%20for%20Microbiome%20Data%20(part%202)%20-%20Specifically%20Designed%20R%20Packages%20for%20Microbiome%20Data_%20Phyloseq.pdf) &emsp;[DATA](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_14/14.1%20Phyloseq/data/data) &emsp;[TUTORIAL_R](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Phyloseq/data/Phyloseq_Rdata/Phyloseq_tutorial_final.Rmd) &emsp;[TUTORIAL_HTML](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Phyloseq/data/Phyloseq_Rdata/Phyloseq_tutorial_final.nb.html)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Introduction%20to%20R%20for%20Microbiome%20Data%20(part%202)%20-%20Specifically%20Designed%20R%20Packages%20for%20Microbiome%20Data_%20Phyloseq.pdf) &emsp;[DATA](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_14/14.1%20Phyloseq/data/data) &emsp;[TUTORIAL_R](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Phyloseq/data/Phyloseq_Rdata/Phyloseq_tutorial_final.Rmd) &emsp;[TUTORIAL_HTML](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Phyloseq/data/Phyloseq_Rdata/Phyloseq_tutorial_final.nb.html) &emsp; [YOUTUBE]()
 
 #### 2 Experimental Design for Microbiome studies (16S, shotgun and WGS)
-- [PDF] &emsp;-[DATA] &emsp;-[TUTORIAL]
-- [HOMEWORK] &emsp;-[ANSWER]
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.2%20Microbione%20experiment%20design.pdf)&emsp; [YOUTUBE]()
+
 
 ## References
 
