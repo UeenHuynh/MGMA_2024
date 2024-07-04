@@ -1,0 +1,201 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+
+
+
+```{r}
+#Install phyloseq
+if (!requireNamespace("BiocManager", quietly = TRUE))
+install.packages("BiocManager")
+if (!requireNamespace("phyloseq", quietly = TRUE))
+BiocManager::install("phyloseq")
+packageVersion("phyloseq")
+```
+```{r libraries, message=FALSE}
+library("phyloseq")
+library("ggplot2")      # graphics
+library("readxl")       # necessary to import the data from Excel file
+library("dplyr")        # filter and reformat data frames
+library("tibble")       # Needed for converting column to row names
+library("ape")
+```
+
+```{bash}
+ls
+```
+
+
+#import data
+```{r}
+  otu_mat<- read_excel("../data/CARBOM data.xlsx", sheet = "OTU matrix")
+  tax_mat<- read_excel("../data/CARBOM data.xlsx", sheet = "Taxonomy table")
+  samples_df <- read_excel("../data/CARBOM data.xlsx", sheet = "Samples")
+```
+
+```{r}
+head(otu_mat)
+head(tax_mat)
+head(samples_df)
+```
+
+Phyloseq objects need to have row.names
+
+# define the row names from the otu column
+
+```{r}
+  otu_mat <- otu_mat %>%
+    tibble::column_to_rownames("otu") 
+head(otu_mat)
+
+```
+
+```{r, warning=FALSE}
+
+  tax_mat <- tax_mat %>% 
+    tibble::column_to_rownames("otu")
+
+  samples_df <- samples_df %>% 
+    tibble::column_to_rownames("sample") 
+head(tax_mat)
+head(samples_df)
+
+```
+
+#Transform into matrixes otu and tax tables (sample table can be left as data frame)
+
+```{r}
+  otu_mat <- as.matrix(otu_mat)
+  tax_mat <- as.matrix(tax_mat)
+```
+
+
+#Phyloseq object
+
+```{r}
+  OTU = otu_table(otu_mat, taxa_are_rows = TRUE)
+  TAX = tax_table(tax_mat)
+  samples = sample_data(samples_df)
+  
+  carbom <- phyloseq(OTU, TAX, samples)
+  carbom
+```  
+#Check against
+```{r}
+sample_names(samples)
+sample_names(OTU)
+```
+#visualize data
+```{r}
+  sample_names(carbom)
+  rank_names(carbom)
+  taxa_names(carbom)
+  sample_variables(carbom)
+```
+
+
+Keep only samples to be analyzed
+```{r}
+  carbom <- subset_samples(carbom, Select_18S_nifH =="Yes")
+  carbom
+```
+
+Keep only photosynthetic taxa
+```{r}
+  carbom <- subset_taxa(carbom, Division %in% c("Chlorophyta", "Dinophyta", "Cryptophyta", 
+                                                "Haptophyta", "Ochrophyta", "Cercozoa"))
+  carbom <- subset_taxa(carbom, !(Class %in% c("Syndiniales", "Sarcomonadea")))
+  carbom
+```
+
+Normalize number of reads in each sample using median sequencing depth.
+```{r}
+  total = median(sample_sums(carbom))
+  standf = function(x, t=total) round(t * (x / sum(x)))
+  carbom = transform_sample_counts(carbom, standf)
+```
+#Phylogenetic tree
+```{r}
+a<-as.data.frame(tax_mat)
+random_tree = ape::rtree(ntaxa(carbom), rooted=TRUE, tip.label=taxa(carbom))
+plot(random_tree)
+```
+
+```{r}
+carbom1 = merge_phyloseq(carbom, random_tree)
+carbom1
+```
+
+#Basic bar graph based on Division
+```{r}
+  plot_bar(carbom, fill="Division")
+```
+
+#Make the bargraph nicer by removing OTUs boundaries.  This is done by adding ggplot2 modifier.
+```{r}
+  plot_bar(carbom, fill = "Division") + 
+  geom_bar(aes(color=Division, fill=Division),position = "stack", stat="identity")
+```
+
+#Regroup together Pico vs Nano samples
+```{r, warning=FALSE}
+  carbom_fraction <- merge_samples(carbom, "fraction")
+  plot_bar(carbom_fraction, fill = "Division") + 
+  geom_bar(aes(color=Division, fill=Division), stat="identity", position="stack")
+```
+
+#Keep only Chlorophyta and use color according to genus. Do separate panels Pico vs Nano and Surface vs Deep samples.
+```{r}
+  carbom_chloro <- subset_taxa(carbom, Division %in% c("Chlorophyta"))
+  plot_bar(carbom_chloro, x="Genus", fill = "Genus", facet_grid = level~fraction) +
+  geom_bar(aes(color=Genus, fill=Genus), stat="identity", position="stack")
+```
+
+## Heatmaps
+
+A basic heatmap using the default parameters.
+```{r}
+  plot_heatmap(carbom, method = "NMDS", distance = "bray")
+```  
+
+### It is very very cluttered.  It is better to only consider the most abundant OTUs for heatmaps. For example one can only take OTUs that represent at least 20% of reads in at least one sample. Remember we normalized all the sampples to median number of reads (total).  We are left with only 33 OTUS which makes the reading much more easy.
+```{r}
+  carbom_abund <- filter_taxa(carbom, function(x) sum(x > total*0.20) > 0, TRUE)
+  carbom_abund
+  otu_table(carbom_abund)[1:8, 1:5]
+  plot_heatmap(carbom_abund, method = "NMDS", distance = "bray")
+```
+
+#It is possible to use different distances and different multivaraite methods.  For example Jaccard distance and MDS and label OTUs with Class,  order by Class. We can also change the Palette (the default palette is a bit ugly...).
+```{r}
+  plot_heatmap(carbom_abund, method = "MDS", distance = "(A+B-2*J)/(A+B-J)", 
+               taxa.label = "Class", taxa.order = "Class", 
+               trans=NULL, low="beige", high="red", na.value="beige")
+```
+
+```{r}
+dist_methods <- unlist(distanceMethodList)
+print(dist_methods)
+
+```
+```{r}
+  plot_heatmap(carbom_chloro, method = "NMDS", distance = "bray", 
+               taxa.label = "Genus", taxa.order = "Genus", 
+               low="beige", high="red", na.value="beige")
+```
+## Alpha diversity
+
+Plot Chao1 richness estimator and Shannon diversity estimator.
+```{r}
+  plot_richness(carbom, measures=c("Chao1", "Shannon"))
+```
+
+
+Regroup together samples from the same fraction.
+```{r, warning=FALSE}
+  plot_richness(carbom, measures=c("Chao1", "Shannon"), x="level", color="fraction")
+```
+
+
