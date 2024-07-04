@@ -267,10 +267,10 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ### Lecture 14 Introduction to R for Microbiome Data (part 2)
 #### 1 Introduction to R for Microbiome Data (part 2)
 - Specifically Designed R Packages for Microbiome Data: Phyloseq
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Introduction%20to%20R%20for%20Microbiome%20Data%20(part%202)%20-%20Specifically%20Designed%20R%20Packages%20for%20Microbiome%20Data_%20Phyloseq.pdf) &emsp;[DATA](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_14/14.1%20Phyloseq/data/data) &emsp;[TUTORIAL_R](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Phyloseq/data/Phyloseq_Rdata/Phyloseq_tutorial_final.Rmd) &emsp;[TUTORIAL_HTML](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Phyloseq/data/Phyloseq_Rdata/Phyloseq_tutorial_final.nb.html) &emsp; [YOUTUBE]()
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Introduction%20to%20R%20for%20Microbiome%20Data%20(part%202)%20-%20Specifically%20Designed%20R%20Packages%20for%20Microbiome%20Data_%20Phyloseq.pdf) &emsp;[DATA](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_14/14.1%20Phyloseq/data/data) &emsp;[TUTORIAL_R](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Phyloseq/data/Phyloseq_Rdata/Phyloseq_tutorial_final.Rmd) &emsp;[TUTORIAL_HTML](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.1%20Phyloseq/data/Phyloseq_Rdata/Phyloseq_tutorial_final.nb.html) &emsp; [YOUTUBE]
 
 #### 2 Experimental Design for Microbiome studies (16S, shotgun and WGS)
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.2%20Microbione%20experiment%20design.pdf)&emsp; [YOUTUBE]()
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.2%20Microbione%20experiment%20design.pdf)&emsp; [YOUTUBE]
 
 
 ## References
