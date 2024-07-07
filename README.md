@@ -276,7 +276,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
  ## July 7,2024
  ### Lecture 15
  #### 1 Wrap-up R5
- - [PDF] &emsp; [YOUTUBE]
+ - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_15/R_summary_Duy.pdf) &emsp; [YOUTUBE]
  #### 2 Challenging when working with microbiome samples
  - [PDF] &emsp; [YOUTUBE]
 
