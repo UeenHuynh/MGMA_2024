@@ -278,7 +278,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
  #### 1 Wrap-up R5
  - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_15/R_summary_Duy.pdf) &emsp; [YOUTUBE]
  #### 2 Challenging when working with microbiome samples
- - [PDF] &emsp; [YOUTUBE]
+ - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_15/Current_challenges_and_best_practice_protocols_for_microbiome_analysis_20240707.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_15/Current_challenges_and_best_practice_protocols_for_microbiome_analysis_20240707.pptx) &emsp; [YOUTUBE]
 
 ## References
 
