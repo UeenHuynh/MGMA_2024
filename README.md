@@ -273,7 +273,12 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.2%20Microbione%20experiment%20design.pdf)&emsp; [YOUTUBE](https://www.youtube.com/watch?v=1YrWlNn_0ss&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=69)
 
 #### [Q&A](https://www.youtube.com/watch?v=DOmkVcFRZYI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=70)
-
+ ## July 7,2024
+ ### Lecture 15
+ #### 1 Wrap-up R5
+ - [PDF] &emsp; [YOUTUBE]
+ #### 2 Challenging when working with microbiome samples
+ - [PDF] &emsp; [YOUTUBE]
 
 ## References
 
