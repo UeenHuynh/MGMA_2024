@@ -276,9 +276,11 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
  ## July 7,2024
  ### Lecture 15
  #### 1 Wrap-up R5
- - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_15/R_summary_Duy.pdf) &emsp; [YOUTUBE]
+ - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_15/R_summary_Duy.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=eB7wNT5EeqQ&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=72)
  #### 2 Challenging when working with microbiome samples
- - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_15/Current_challenges_and_best_practice_protocols_for_microbiome_analysis_20240707.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_15/Current_challenges_and_best_practice_protocols_for_microbiome_analysis_20240707.pptx) &emsp; [YOUTUBE]
+ - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_15/Current_challenges_and_best_practice_protocols_for_microbiome_analysis_20240707.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_15/Current_challenges_and_best_practice_protocols_for_microbiome_analysis_20240707.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=FW-_eT3PHXI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=73)
+
+#### [Q&A](https://www.youtube.com/watch?v=fvgl_Z0Kbe4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=74)
 
 ## References
 
