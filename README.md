@@ -282,6 +282,22 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 #### [Q&A](https://www.youtube.com/watch?v=fvgl_Z0Kbe4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=74)
 
+## July 11, 2024
+
+### Lecture 16
+
+#### 1. Bioinformatic Analysis of Microbiome Data
+
+#### 2. Microbiome Data Structure
+
+#### 3. Introduction to QIIME 2
+
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTH92F2AbHuQOkWndE3I4C6EdUdQvUSndS0US6oPhTKewNGG81CHv4Pw-5Sa4c4HaTajGlZeqkiR0W7/pub?start=true&loop=false&delayms=60000)
+
+#### 4. Basic Data Processing in QIIME 2
+
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR_qWgNvzBxXMZ3Kika2-XhOoiK6oskBOH_wUMhyT1Qz1aoxT_5tstuubp0VOw_8BHfol9korxuzKIE/pub?start=true&loop=false&delayms=60000)
+
 ## References
 
 ### Books
