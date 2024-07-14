@@ -300,6 +300,14 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 #### [Q&A](https://www.youtube.com/watch?v=seM-DIPksPg&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=78)
 
+## July 14, 2024
+
+### Lecture 17
+
+#### Building feature table and feature representative sequences from raw reads
+
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSq8DgydEnsSPNWPU8KumFFYkvQi0ZrsmmmSaRItkhufcWQEsINsETaEALkK85TQRd38CK9I5Wm6Xyl/pub?start=true&loop=false&delayms=60000)
+
 ## References
 
 ### Books
