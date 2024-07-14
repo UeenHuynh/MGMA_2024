@@ -292,11 +292,13 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 #### 3. Introduction to QIIME 2
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTH92F2AbHuQOkWndE3I4C6EdUdQvUSndS0US6oPhTKewNGG81CHv4Pw-5Sa4c4HaTajGlZeqkiR0W7/pub?start=true&loop=false&delayms=60000)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTH92F2AbHuQOkWndE3I4C6EdUdQvUSndS0US6oPhTKewNGG81CHv4Pw-5Sa4c4HaTajGlZeqkiR0W7/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=V5BrjLxUZS4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=76)
 
 #### 4. Basic Data Processing in QIIME 2
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR_qWgNvzBxXMZ3Kika2-XhOoiK6oskBOH_wUMhyT1Qz1aoxT_5tstuubp0VOw_8BHfol9korxuzKIE/pub?start=true&loop=false&delayms=60000)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR_qWgNvzBxXMZ3Kika2-XhOoiK6oskBOH_wUMhyT1Qz1aoxT_5tstuubp0VOw_8BHfol9korxuzKIE/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BKdZ8IIEgsk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=77)
+
+#### [Q&A](https://www.youtube.com/watch?v=seM-DIPksPg&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=78)
 
 ## References
 
