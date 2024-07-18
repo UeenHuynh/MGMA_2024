@@ -306,9 +306,11 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 #### Building feature table and feature representative sequences from raw reads
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSq8DgydEnsSPNWPU8KumFFYkvQi0ZrsmmmSaRItkhufcWQEsINsETaEALkK85TQRd38CK9I5Wm6Xyl/pub?start=true&loop=false&delayms=60000)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSq8DgydEnsSPNWPU8KumFFYkvQi0ZrsmmmSaRItkhufcWQEsINsETaEALkK85TQRd38CK9I5Wm6Xyl/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=zhVZpf6rLE0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=80&pp=iAQB)
 #### Practice
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practic.pdf) &emsp; [Sample](https://drive.google.com/file/d/1pHsIJxIIEbsPQQdPXTYj6BsTm1LEMabL/view?usp=sharing) &emsp; [Exercise](https://drive.google.com/file/d/155KNpAWLHxYfsBqVU9USsn9_kpgvvSNJ/view?usp=sharing)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practic.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=buP5Q_3cJ4c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=81&pp=iAQB) &emsp; [Sample](https://drive.google.com/file/d/1pHsIJxIIEbsPQQdPXTYj6BsTm1LEMabL/view?usp=sharing) &emsp; [Exercise](https://drive.google.com/file/d/155KNpAWLHxYfsBqVU9USsn9_kpgvvSNJ/view?usp=sharing) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=XytXob4RZv0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=82&pp=iAQB)
+
+#### [Q&A](https://www.youtube.com/watch?v=406_AyAspO8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=83&pp=iAQB)
 
 ## References
 
