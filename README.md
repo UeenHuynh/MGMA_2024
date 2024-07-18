@@ -286,14 +286,12 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 ### Lecture 16
 
-#### 1. Bioinformatic Analysis of Microbiome Data
-
-#### 2. Microbiome Data Structure
+#### 1. Bioinformatic Analysis of Microbiome Data & 2. Microbiome Data Structure
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_16/Microbial%20analysis.pptx) &esmp; [YOUTUBE](https://www.youtube.com/watch?v=V5BrjLxUZS4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=76&t=5s&pp=iAQB)
 
 #### 3. Introduction to QIIME 2
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTH92F2AbHuQOkWndE3I4C6EdUdQvUSndS0US6oPhTKewNGG81CHv4Pw-5Sa4c4HaTajGlZeqkiR0W7/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=V5BrjLxUZS4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=76)
-
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTH92F2AbHuQOkWndE3I4C6EdUdQvUSndS0US6oPhTKewNGG81CHv4Pw-5Sa4c4HaTajGlZeqkiR0W7/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BKdZ8IIEgsk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=77)
 #### 4. Basic Data Processing in QIIME 2
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR_qWgNvzBxXMZ3Kika2-XhOoiK6oskBOH_wUMhyT1Qz1aoxT_5tstuubp0VOw_8BHfol9korxuzKIE/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BKdZ8IIEgsk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=77)
@@ -304,13 +302,17 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 ### Lecture 17
 
-#### Building feature table and feature representative sequences from raw reads
+#### 1. Building feature table and feature representative sequences from raw reads
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSq8DgydEnsSPNWPU8KumFFYkvQi0ZrsmmmSaRItkhufcWQEsINsETaEALkK85TQRd38CK9I5Wm6Xyl/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=zhVZpf6rLE0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=80&pp=iAQB)
-#### Practice
+#### 2. Practice
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practic.pdf) &emsp; [YOUTUBE-1](https://www.youtube.com/watch?v=buP5Q_3cJ4c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=81&pp=iAQB) &emsp; [Sample](https://drive.google.com/file/d/1pHsIJxIIEbsPQQdPXTYj6BsTm1LEMabL/view?usp=sharing) &emsp; [Exercise](https://drive.google.com/file/d/155KNpAWLHxYfsBqVU9USsn9_kpgvvSNJ/view?usp=sharing) &emsp; [YOUTUBE-2](https://www.youtube.com/watch?v=XytXob4RZv0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=82&pp=iAQB)
 
 #### [Q&A](https://www.youtube.com/watch?v=406_AyAspO8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=83&pp=iAQB)
+
+### Lecture 18
+#### Assigning Taxonomy & Building Phylogenetic Tree
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_18/Taxonomy%20Assignment%20-%20phylogenetic%20building.pdf)
 
 ## References
 
