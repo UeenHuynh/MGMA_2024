@@ -287,7 +287,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ### Lecture 16
 
 #### 1. Bioinformatic Analysis of Microbiome Data & 2. Microbiome Data Structure
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_16/Microbial%20analysis.pptx) &esmp; [YOUTUBE](https://www.youtube.com/watch?v=V5BrjLxUZS4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=76&t=5s&pp=iAQB)
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_16/Microbial%20analysis.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=V5BrjLxUZS4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=76&t=5s&pp=iAQB)
 
 #### 3. Introduction to QIIME 2
 
@@ -312,7 +312,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 ### Lecture 18
 #### Assigning Taxonomy & Building Phylogenetic Tree
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_18/Taxonomy%20Assignment%20-%20phylogenetic%20building.pdf)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_18/Taxonomy%20Assignment%20-%20phylogenetic%20building.pdf) &emsp; YOUTUBE
 
 ## References
 
