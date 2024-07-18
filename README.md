@@ -310,6 +310,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 #### [Q&A](https://www.youtube.com/watch?v=406_AyAspO8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=83&pp=iAQB)
 
+## July 18, 2024
 ### Lecture 18
 #### Assigning Taxonomy & Building Phylogenetic Tree
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_18/Taxonomy%20Assignment%20-%20phylogenetic%20building.pdf) &emsp; YOUTUBE
