@@ -331,6 +331,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRr0v6J_TGeYNpVkaT2uegE-yuaYKMMhMYq0VcQzVYgFcBsdqVGh4GlpV-rAXL5MkP95u556PdDh0aY/pub?start=false&loop=false&delayms=3000)
 
 #### 2. OTU Methods in Numerical Taxonomy
+- [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_19/Numerical_Taxonomy/docs/Numerical_Taxonomy.pdf)
 
 ## References
 
