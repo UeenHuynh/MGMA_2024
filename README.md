@@ -305,16 +305,32 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 #### 1. Building feature table and feature representative sequences from raw reads
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSq8DgydEnsSPNWPU8KumFFYkvQi0ZrsmmmSaRItkhufcWQEsINsETaEALkK85TQRd38CK9I5Wm6Xyl/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=zhVZpf6rLE0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=80&pp=iAQB)
+
 #### 2. Practice
+
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practic.pdf) &emsp; [YOUTUBE-1](https://www.youtube.com/watch?v=buP5Q_3cJ4c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=81&pp=iAQB) &emsp; [Sample](https://drive.google.com/file/d/1pHsIJxIIEbsPQQdPXTYj6BsTm1LEMabL/view?usp=sharing) &emsp; [Exercise](https://drive.google.com/file/d/155KNpAWLHxYfsBqVU9USsn9_kpgvvSNJ/view?usp=sharing) &emsp; [YOUTUBE-2](https://www.youtube.com/watch?v=XytXob4RZv0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=82&pp=iAQB)
 
 #### [Q&A](https://www.youtube.com/watch?v=406_AyAspO8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=83&pp=iAQB)
 
 ## July 18, 2024
+
 ### Lecture 18
+
 #### Assigning Taxonomy & Building Phylogenetic Tree
+
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_18/Taxonomy%20Assignment%20-%20phylogenetic%20building.pdf) &emsp; [YOUTUBE-1](https://www.youtube.com/watch?v=PkWUIrxZuNQ&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=85) &emsp; [YOUTUBE-2](https://www.youtube.com/watch?v=BVDziO870V8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=86)
+
 #### [Q&A](https://www.youtube.com/watch?v=Iea_gpR_Rac&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=87)
+
+## July 21, 2024
+
+### Lecture 19
+
+#### 1. Clustering Sequences into OTUs
+
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRr0v6J_TGeYNpVkaT2uegE-yuaYKMMhMYq0VcQzVYgFcBsdqVGh4GlpV-rAXL5MkP95u556PdDh0aY/pub?start=false&loop=false&delayms=3000)
+
+#### 2. OTU Methods in Numerical Taxonomy
 
 ## References
 
