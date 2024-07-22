@@ -259,7 +259,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/Introduction%20to%20R%20for%20Microbiome%20Data%20(part%201)/Introduction%20to%20R%20for%20Microbiome%20Data%20(part%201).pdf)  &emsp; [CHEAT SHEET](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_13/cheat_sheet) &emsp; [YOUTUBE](https://www.youtube.com/@vpivnpathoinformatics8930)
 #### 2. Introduction to ggplot2 and basic plot
 - [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/GGPLOT2_240624.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=DZOkXKBbfik&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=65&pp=iAQB)
-#### 3. R package ggplot2 for microbiome analysis + Practice
+#### 3. R package ggplot2 in R4 for microbiome analysis + Practice
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/13.3_ggplot2_for_microbiome/Lecture_13.3%3A_%20GGplot2_for_microbiome.pdf) &emsp;[DATA_TUTORIAL_R](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/13.3_ggplot2_for_microbiome/microbiome.tar.gz) &emsp;[TUTORIAL_HTML](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/13.3_ggplot2_for_microbiome/ggplot_microbiome_tutorial.nb.html) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=K8W1XQr0F8E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=66&pp=iAQB)
 - [HOMEWORK_ANSWER](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_13/13.3_ggplot2_for_microbiome/microbiome.tar.gz)
 
