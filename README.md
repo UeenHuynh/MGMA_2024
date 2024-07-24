@@ -328,10 +328,12 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 #### 1. Clustering Sequences into OTUs
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRr0v6J_TGeYNpVkaT2uegE-yuaYKMMhMYq0VcQzVYgFcBsdqVGh4GlpV-rAXL5MkP95u556PdDh0aY/pub?start=false&loop=false&delayms=3000)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRr0v6J_TGeYNpVkaT2uegE-yuaYKMMhMYq0VcQzVYgFcBsdqVGh4GlpV-rAXL5MkP95u556PdDh0aY/pub?start=false&loop=false&delayms=3000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=xeQ-5pRG0Vo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=89&pp=iAQB)
 
 #### 2. OTU Methods in Numerical Taxonomy
-- [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_19/Numerical_Taxonomy/docs/Numerical_Taxonomy.pdf)
+- [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_19/Numerical_Taxonomy/docs/Numerical_Taxonomy.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=nCoo61kzliU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=90&pp=iAQB)
+
+#### [Q&A](https://www.youtube.com/watch?v=P1iMUVIaatc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=91&pp=iAQB)
 
 ## References
 
