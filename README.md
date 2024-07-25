@@ -180,7 +180,7 @@
 
 #### Basic statistics in R3
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/1q4Hm8-7czKdhyHPc0JIiWPsTKN_3u8I2.pdf) &emsp; [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/VdrGenusCounts.csv)&emsp; [Slide Code](https://colab.research.google.com/drive/1mbJ2cUwe9_19jbK1Bu2PIn79BLX5wu54?usp=drive_link)&emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/code_statistics_Tr%C3%AD.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=6_4-byxNhB4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=38).
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/1q4Hm8-7czKdhyHPc0JIiWPsTKN_3u8I2.pdf) &emsp; [Data CSV](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/VdrGenusCounts.csv)&emsp; TUTORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mbJ2cUwe9_19jbK1Bu2PIn79BLX5wu54?usp=drive_link)&emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/code_statistics_Tr%C3%AD.R) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=6_4-byxNhB4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=38).
 - [Homework](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/Homework_R3.pptx) &emsp; [Answer](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_8/Answer_R3.R)
 ## June 16, 2024
 
@@ -188,27 +188,27 @@
 
 #### I. Introduction of Whole genome sequencing analysis for Microbes
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=44)
+- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qNkAK99Oo3E&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=44)
 
 #### II. Microbial WGS upstream analysis
 
 ##### 1. QC and Trimming
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[QC](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.1_Mapping/output/FastQC) &emsp;[Trimming](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.1_Mapping/output/trimmed) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
+- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[QC](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.1_Mapping/output/FastQC) &emsp;[Trimming](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.1_Mapping/output/trimmed) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
 
 
 ##### 2. Alignment/Mapping to the reference genome, QC and visualization of BAM
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[Paper](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_9/9.1_Mapping/docs/The_anti-tubercular_callyaerins_target_the_Mycobac.pdf) &emsp;[Alignment](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.1_Mapping/output/alignment) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
+- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vQ3x2qwxeRxyyIwTZGkoJ68jEKn0j-gfu7zxOnKpABYaXpRMQktDruLofqGOlZAugvbrdUuxKcLaga2/pub?start=false&loop=false&delayms=3000) &emsp;[Paper](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_9/9.1_Mapping/docs/The_anti-tubercular_callyaerins_target_the_Mycobac.pdf) &emsp;[Alignment](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.1_Mapping/output/alignment) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=qBXfg9YvWc8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=45)
 
 #### III. Microbial WGS downstream analysis
 
 ##### 1. Calling variants and visualization of variants (VCF)
-- [Tutorial] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1myWAW4smvROX6w4dFL3KloQZHrsol9do?usp=sharing) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BO80RxfSG8s&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=46)
+- TUTORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1myWAW4smvROX6w4dFL3KloQZHrsol9do?usp=sharing) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BO80RxfSG8s&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=46)
 
 ##### 2. Building and visualization of Phylogenetic Trees
 
-- [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_9/9.3_Building-a-Phylogenetic-Tree/docs/phylogenetic_tree.pdf) &emsp; [Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.3_Building-a-Phylogenetic-Tree) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=LgEIc_nfNnE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=47)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_9/9.3_Building-a-Phylogenetic-Tree/docs/phylogenetic_tree.pdf) &emsp; [TUTORIAL](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_9/9.3_Building-a-Phylogenetic-Tree) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=LgEIc_nfNnE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=47)
 #### [Q&A](https://www.youtube.com/watch?v=z25lFo90skI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=48)
 
 ## June 20, 2024
@@ -217,11 +217,11 @@
 
 #### Denovo assembly for WGS of Microbes
 
-- [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_10/Denovo_assembly/docs/Denovo_assembly.pdf) &emsp; [Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_10) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=4uF5Nd07-N0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=50)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_10/Denovo_assembly/docs/Denovo_assembly.pdf) &emsp; [TUTORIAL](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_10) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=4uF5Nd07-N0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=50)
 
 #### Annotation of WGS and Pathway Analysis
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000). &emsp; [Materials](./lecture_10/annotation_pathway/) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=j47sh5SdWfA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=51)
+- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000). &emsp; [Materials](./lecture_10/annotation_pathway/) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=j47sh5SdWfA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=51)
 
 #### [Q&A](https://www.youtube.com/watch?v=wU_zXMtwR-c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=52)
 
@@ -230,7 +230,7 @@
 ## Lecture 11
 
 ### Serotyping, genotyping and phenotyping for Microbes
-- [Slides for all sections](https://docs.google.com/presentation/d/1gioc_015QxKmmBVs7ebYW9eqMSoiT4PgL5fJY1Zcezo/edit#slide=id.g2e78a483b2b_3_45)
+- [PDF for all sections](https://docs.google.com/presentation/d/1gioc_015QxKmmBVs7ebYW9eqMSoiT4PgL5fJY1Zcezo/edit#slide=id.g2e78a483b2b_3_45)
 #### Section 1: Serotyping, phenotyping
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%201_%20Serotyping%2C%20phenotyping.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=QEAE9TJrn-8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=54) 
 #### Section 2: Genotype and molecular subtyping
@@ -238,7 +238,7 @@
 #### Section 3: MLST analysis for microbes
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%203_%20MLST%20analysis%20for%20microbes.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=SXClmCkdYnA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=56)
 #### Section 4: How to use pubMLST database + CoreGenome MLST practice
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%204_%20How%20to%20use%20pubMLST%20database%20%2B%20CoreGenome%20MLST%20practice.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=yYR37VdQtnI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=57)&emsp;[Tutorial] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qTnHzxvIctjg3G7j1pivuXT5tBWM-8jf?usp=sharing)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%204_%20How%20to%20use%20pubMLST%20database%20%2B%20CoreGenome%20MLST%20practice.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=yYR37VdQtnI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=57)&emsp; TUTORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qTnHzxvIctjg3G7j1pivuXT5tBWM-8jf?usp=sharing)
 #### [Q&A-YOUTUBE](https://www.youtube.com/watch?v=jTy02A62Ogs&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=58)
 
 ## June 27, 2024
@@ -273,6 +273,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_14/14.2%20Microbione%20experiment%20design.pdf)&emsp; [YOUTUBE](https://www.youtube.com/watch?v=1YrWlNn_0ss&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=69)
 
 #### [Q&A](https://www.youtube.com/watch?v=DOmkVcFRZYI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=70)
+
  ## July 7,2024
  ### Lecture 15
  #### 1 Wrap-up R5
@@ -291,10 +292,10 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 #### 3. Introduction to QIIME 2
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTH92F2AbHuQOkWndE3I4C6EdUdQvUSndS0US6oPhTKewNGG81CHv4Pw-5Sa4c4HaTajGlZeqkiR0W7/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BKdZ8IIEgsk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=77)
+- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vTH92F2AbHuQOkWndE3I4C6EdUdQvUSndS0US6oPhTKewNGG81CHv4Pw-5Sa4c4HaTajGlZeqkiR0W7/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BKdZ8IIEgsk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=77)
 #### 4. Basic Data Processing in QIIME 2
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vR_qWgNvzBxXMZ3Kika2-XhOoiK6oskBOH_wUMhyT1Qz1aoxT_5tstuubp0VOw_8BHfol9korxuzKIE/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BKdZ8IIEgsk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=77)
+- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vR_qWgNvzBxXMZ3Kika2-XhOoiK6oskBOH_wUMhyT1Qz1aoxT_5tstuubp0VOw_8BHfol9korxuzKIE/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BKdZ8IIEgsk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=77)
 
 #### [Q&A](https://www.youtube.com/watch?v=seM-DIPksPg&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=78)
 
@@ -304,11 +305,11 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 #### 1. Building feature table and feature representative sequences from raw reads
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSq8DgydEnsSPNWPU8KumFFYkvQi0ZrsmmmSaRItkhufcWQEsINsETaEALkK85TQRd38CK9I5Wm6Xyl/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=zhVZpf6rLE0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=80&pp=iAQB)
+- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vSq8DgydEnsSPNWPU8KumFFYkvQi0ZrsmmmSaRItkhufcWQEsINsETaEALkK85TQRd38CK9I5Wm6Xyl/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=zhVZpf6rLE0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=80&pp=iAQB)
 
 #### 2. Practice
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practic.pdf) &emsp; [COLAB](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practice_DADA2.ipynb) &emsp; [YOUTUBE-1](https://www.youtube.com/watch?v=buP5Q_3cJ4c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=81&pp=iAQB) &emsp; [Sample](https://drive.google.com/file/d/1UYI72glvlrlNmgUQIlZjUGdoZhulSzRE/view?usp=sharing) &emsp; [Exercise](https://drive.google.com/file/d/155KNpAWLHxYfsBqVU9USsn9_kpgvvSNJ/view?usp=sharing) &emsp; [YOUTUBE-2](https://www.youtube.com/watch?v=XytXob4RZv0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=82&pp=iAQB)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practic.pdf) &emsp; TURORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practice_DADA2.ipynb) &emsp; [YOUTUBE-1](https://www.youtube.com/watch?v=buP5Q_3cJ4c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=81&pp=iAQB) &emsp; [Sample](https://drive.google.com/file/d/1UYI72glvlrlNmgUQIlZjUGdoZhulSzRE/view?usp=sharing) &emsp; [Exercise](https://drive.google.com/file/d/155KNpAWLHxYfsBqVU9USsn9_kpgvvSNJ/view?usp=sharing) &emsp; [YOUTUBE-2](https://www.youtube.com/watch?v=XytXob4RZv0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=82&pp=iAQB)
 
 #### [Q&A](https://www.youtube.com/watch?v=406_AyAspO8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=83&pp=iAQB)
 
@@ -328,18 +329,20 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 #### 1. Clustering Sequences into OTUs
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vRr0v6J_TGeYNpVkaT2uegE-yuaYKMMhMYq0VcQzVYgFcBsdqVGh4GlpV-rAXL5MkP95u556PdDh0aY/pub?start=false&loop=false&delayms=3000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=xeQ-5pRG0Vo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=89&pp=iAQB)
+- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vRr0v6J_TGeYNpVkaT2uegE-yuaYKMMhMYq0VcQzVYgFcBsdqVGh4GlpV-rAXL5MkP95u556PdDh0aY/pub?start=false&loop=false&delayms=3000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=xeQ-5pRG0Vo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=89&pp=iAQB)
 
 #### 2. OTU Methods in Numerical Taxonomy
-- [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_19/Numerical_Taxonomy/docs/Numerical_Taxonomy.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=nCoo61kzliU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=90&pp=iAQB)
-- Tutorial: Taxonomy and Phylogenetic tree [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-d603bttJN328WJ9HshDnSJLJ2JI7nHe#scrollTo=8XwoDLbDltGg)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_19/Numerical_Taxonomy/docs/Numerical_Taxonomy.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=nCoo61kzliU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=90&pp=iAQB)
+- TUTORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-d603bttJN328WJ9HshDnSJLJ2JI7nHe#scrollTo=8XwoDLbDltGg)
+  
 #### [Q&A](https://www.youtube.com/watch?v=P1iMUVIaatc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=91&pp=iAQB)
 
 ## July 25, 2024
 ### Lecture 20
 #### 1. Alpha diversity & Visualization
 - [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_20/Alpha_diversity_tutorial.ppt) &emsp;
-- Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iwZy_Cl2yid_FjN5OWXCU_4e1Wy0QYCY?usp=sharing)
+- TUTORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iwZy_Cl2yid_FjN5OWXCU_4e1Wy0QYCY?usp=sharing)
+  
 #### 2. Beta diversity & Visualization
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_20/BetaDiversity_Duy.pdf)
   
