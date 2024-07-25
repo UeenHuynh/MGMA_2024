@@ -332,8 +332,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 #### 2. OTU Methods in Numerical Taxonomy
 - [Slides](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_19/Numerical_Taxonomy/docs/Numerical_Taxonomy.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=nCoo61kzliU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=90&pp=iAQB)
-- Tutorial: Taxonomy and Phylogenetic tree [![Open In Colab](https://colab.research.google.com/drive/1-d603bttJN328WJ9HshDnSJLJ2JI7nHe#scrollTo=8XwoDLbDltGg)
-
+- Tutorial: Taxonomy and Phylogenetic tree [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-d603bttJN328WJ9HshDnSJLJ2JI7nHe#scrollTo=8XwoDLbDltGg)
 #### [Q&A](https://www.youtube.com/watch?v=P1iMUVIaatc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=91&pp=iAQB)
 
 ## References
