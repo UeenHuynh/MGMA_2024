@@ -340,7 +340,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ## July 25, 2024
 ### Lecture 20
 #### 1. Alpha diversity & Visualization
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_20/Alpha_diversity_tutorial.ppt) &emsp;
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_20/Alpha_diversity_tutorial.pdf) &emsp;
 - TUTORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iwZy_Cl2yid_FjN5OWXCU_4e1Wy0QYCY?usp=sharing)
   
 #### 2. Beta diversity & Visualization
