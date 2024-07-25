@@ -221,7 +221,7 @@
 
 #### Annotation of WGS and Pathway Analysis
 
-- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000). &emsp; [Materials](./lecture_10/annotation_pathway/) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=j47sh5SdWfA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=51)
+- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vQ_R5L_EdWGYVnM0tWTOI_Jdwq7LVmMatnakwSXVNam09Ykq-0DExiN2WUIm5-zXJ4MtUzAWQTf_vjR/pub?start=false&loop=false&delayms=3000) &emsp; [Materials](./lecture_10/annotation_pathway/) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=j47sh5SdWfA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=51)
 
 #### [Q&A](https://www.youtube.com/watch?v=wU_zXMtwR-c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=52)
 
@@ -309,7 +309,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 #### 2. Practice
 
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practic.pdf) &emsp; TURORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practice_DADA2.ipynb) &emsp; [YOUTUBE-1](https://www.youtube.com/watch?v=buP5Q_3cJ4c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=81&pp=iAQB) &emsp; [Sample](https://drive.google.com/file/d/1UYI72glvlrlNmgUQIlZjUGdoZhulSzRE/view?usp=sharing) &emsp; [Exercise](https://drive.google.com/file/d/155KNpAWLHxYfsBqVU9USsn9_kpgvvSNJ/view?usp=sharing) &emsp; [YOUTUBE-2](https://www.youtube.com/watch?v=XytXob4RZv0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=82&pp=iAQB)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practic.pdf) &emsp; TUTORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_17/Practice_DADA2.ipynb) &emsp; [YOUTUBE-1](https://www.youtube.com/watch?v=buP5Q_3cJ4c&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=81&pp=iAQB) &emsp; [Sample](https://drive.google.com/file/d/1UYI72glvlrlNmgUQIlZjUGdoZhulSzRE/view?usp=sharing) &emsp; [Exercise](https://drive.google.com/file/d/155KNpAWLHxYfsBqVU9USsn9_kpgvvSNJ/view?usp=sharing) &emsp; [YOUTUBE-2](https://www.youtube.com/watch?v=XytXob4RZv0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=82&pp=iAQB)
 
 #### [Q&A](https://www.youtube.com/watch?v=406_AyAspO8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=83&pp=iAQB)
 
