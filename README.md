@@ -204,7 +204,7 @@
 #### III. Microbial WGS downstream analysis
 
 ##### 1. Calling variants and visualization of variants (VCF)
-- [Tutorial](https://colab.research.google.com/drive/1myWAW4smvROX6w4dFL3KloQZHrsol9do?usp=sharing) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BO80RxfSG8s&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=46)
+- [Tutorial] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1myWAW4smvROX6w4dFL3KloQZHrsol9do?usp=sharing) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=BO80RxfSG8s&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=46)
 
 ##### 2. Building and visualization of Phylogenetic Trees
 
@@ -238,7 +238,7 @@
 #### Section 3: MLST analysis for microbes
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%203_%20MLST%20analysis%20for%20microbes.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=SXClmCkdYnA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=56)
 #### Section 4: How to use pubMLST database + CoreGenome MLST practice
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%204_%20How%20to%20use%20pubMLST%20database%20%2B%20CoreGenome%20MLST%20practice.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=yYR37VdQtnI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=57)&emsp;[TUTORIAL](https://colab.research.google.com/drive/1qTnHzxvIctjg3G7j1pivuXT5tBWM-8jf?usp=sharing)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_11/Lecture%2011%20-%20Section%204_%20How%20to%20use%20pubMLST%20database%20%2B%20CoreGenome%20MLST%20practice.pdf)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=yYR37VdQtnI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=57)&emsp;[Tutorial] [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qTnHzxvIctjg3G7j1pivuXT5tBWM-8jf?usp=sharing)
 #### [Q&A-YOUTUBE](https://www.youtube.com/watch?v=jTy02A62Ogs&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=58)
 
 ## June 27, 2024
@@ -338,9 +338,11 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ## July 25, 2024
 ### Lecture 20
 #### 1. Alpha diversity & Visualization
-- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_20/Alpha_diversity_tutorial.ppt) &emsp; [COLAB](https://colab.research.google.com/drive/1iwZy_Cl2yid_FjN5OWXCU_4e1Wy0QYCY?usp=sharing)
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_20/Alpha_diversity_tutorial.ppt) &emsp;
+- Tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iwZy_Cl2yid_FjN5OWXCU_4e1Wy0QYCY?usp=sharing)
 #### 2. Beta diversity & Visualization
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_20/BetaDiversity_Duy.pdf)
+  
 ## References
 
 ### Books
