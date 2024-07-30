@@ -346,7 +346,12 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 #### 2. Beta diversity & Visualization
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_20/BetaDiversity_Duy.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=iYBeylVwixM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=94&pp=iAQB)
 #### [Q&A](https://www.youtube.com/watch?v=BmL2T1FOKu8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=95&pp=iAQB)
-  
+
+## August 1, 2024
+### Lecture 21
+#### 1. Differential abundance analysis (DAA)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_20/Alpha_diversity_tutorial.pdf) &emsp;
+- [END TERM PROJECTS](https://www.youtube.com/watch?v=dpd_gxAlohg&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=93&pp=iAQB)  
 ## References
 
 ### Books
