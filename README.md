@@ -351,7 +351,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ### Lecture 21
 #### 1. Differential abundance analysis (DAA)
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_21/Differential_Abundance_Analysis_20240728.pdf) &emsp;
-- [END TERM PROJECTS](https://www.youtube.com/watch?v=dpd_gxAlohg&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=93&pp=iAQB)  
+- [END TERM PROJECTS](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_21/Differential_Abundance_Analysis_EndTermProjects.pdf)  
 ## References
 
 ### Books
