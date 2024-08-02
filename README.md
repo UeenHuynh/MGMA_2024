@@ -347,13 +347,19 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_20/BetaDiversity_Duy.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=iYBeylVwixM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=94&pp=iAQB)
 #### [Q&A](https://www.youtube.com/watch?v=BmL2T1FOKu8&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=95&pp=iAQB)
 
-## August 1, 2024
+## July 28, 2024
 ### Lecture 21
 #### Differential abundance analysis (DAA)
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_21/Differential_Abundance_Analysis_20240728.pdf) &emsp; [END TERM PROJECTS](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_21/Differential_Abundance_Analysis_EndTermProjects.pdf)
 - Practice with DESeq2:&emsp; [A basic work flow (download and view with browser)](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_21/deseq2_aWorkFlow.html)&emsp; [R code](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_21/deseq2_aWorkFlow.R)&emsp; [raw count data](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_21/otu_data)&emsp; [metadata](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_21/smd)&emsp; [YOTUBE](https://www.youtube.com/watch?v=OaWb1QJY9dI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=98&pp=iAQB)
 - [ANCOM BC2](https://www.youtube.com/watch?v=1NB40G24Yx0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=99&pp=iAQB)
-- [Project list](https://www.youtube.com/watch?v=P7cNS8d-2WI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=100&t=1151s&pp=iAQB) 
+- [Project list](https://www.youtube.com/watch?v=P7cNS8d-2WI&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=100&t=1151s&pp=iAQB)
+
+## August 1, 2024
+### Lecture 22
+### Library prep and multiplexing for 16S and shotgun metagenomics
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_22/Metagenomicwetlab%20ppt.pdf) &emsp; [YOUTUBE]
+
 ## References
 
 ### Books
