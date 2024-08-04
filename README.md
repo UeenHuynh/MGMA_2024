@@ -364,8 +364,8 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ## August 4, 2024
 ### Lecture 23
 ####  Shotgun metagenomics
-- [PDF]() &emsp;
-- TUTORIAL [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10nakXKwfDKwRi4cH7QgiRmlvyxHzwbj0#scrollTo=sxNuG_8wFiRV)
+- PDF &emsp;
+- TUTORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10nakXKwfDKwRi4cH7QgiRmlvyxHzwbj0#scrollTo=sxNuG_8wFiRV)
   
 ## References
 
