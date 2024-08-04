@@ -1,0 +1,308 @@
+---
+title: "Lecture 22: Differential abundance analysis of Microbiome data"
+date: "28/09/2024"
+---
+
+# Microbiome Differential Abundance Analysis With DESeq2 - A basic workflow
+
+**References**
+
+[DESeq2 workflow tutorial \| Differential Gene Expression Analysis \| Bioinformatics 101](https://youtu.be/OzNzO8qwwp0?si=d-aEqtqNo8YWTYW6)  
+
+[RNA Seq Analysis | How to visualize gene expression data | Volcano Plots with R ggplot](https://www.youtube.com/watch?v=NFD_WBepK9c)  
+
+[How I analyze RNA Seq Gene Expression data using DESeq2](https://www.youtube.com/watch?v=kOlMcZujHHA&list=PL5T9th5waOqzb4bO6ZvG66sKDO6W-ssQr&index=27)  
+
+[DESeq2's manual from Michael Love](https://bioconductor.org/packages/release/bioc/manuals/DESeq2/man/DESeq2.pdf)  
+
+[EnhancedVolcano: publication-ready volcano plots with enhanced colouring and labeling](https://bioconductor.org/packages/release/bioc/vignettes/EnhancedVolcano/inst/doc/EnhancedVolcano.html#plot-the-most-basic-volcano-plot)  
+
+[Package ‘EnhancedVolcano’](https://bioconductor.org/packages/release/bioc/manuals/EnhancedVolcano/man/EnhancedVolcano.pdf)  
+
+
+**Additional references for DESeq2**
+
+[Bulk RNA-seq 8: Downstream analysis of Bulk RNA-seq (start from 1:15:10)](https://youtu.be/N8AruRYfigA?si=dnLLgqT0UhXvovi-)
+
+[How Does DESeq2 Work? \| Mr. BioinformatiX on Youtube](https://youtu.be/Mhw5a-anLJ4?si=cBKMa_A2-1Tul96M)
+
+["Analyzing RNA-seq data with DESeq2" from bioconductor](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)  
+
+[Differential expression analysis with DESeq2](https://hbctraining.github.io/DGE_workshop/lessons/04_DGE_DESeq2_analysis.html)  
+
+[Plotting DESEQ2 Results](https://cloud.wikis.utexas.edu/wiki/spaces/bioiteam/pages/47719015/Plotting+DESEQ2+Results)  
+
+[Example using Negative Binomial in Microbiome Differential Abundance Testing](https://bioconductor.org/packages/devel/bioc/vignettes/phyloseq/inst/doc/phyloseq-mixture-models.html)  
+
+[How I analyze RNA Seq Gene Expression data using DESeq2](https://www.youtube.com/watch?v=kOlMcZujHHA&list=PL5T9th5waOqzb4bO6ZvG66sKDO6W-ssQr&index=25)  
+
+[DESeq2's Paper: Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-014-0550-8)  
+
+[DESEQ2 R Tutorial](https://lashlock.github.io/compbio/R_presentation.html)  
+
+[Differential expression with DEseq2](https://genviz.org/module-04-expression/0004/02/01/DifferentialExpression/)  
+
+[ “Microbiome Differential Abundance Testing Tutorial” Dr. upasna srivastava](https://rpubs.com/Sri_Upasna/1067683)  
+
+[Identifying Differentially Abundant Features in Microbiome Data](https://www.nicholas-ollberding.com/post/identifying-differentially-abundant-features-in-microbiome-data/)  
+
+[RNA-Seq workflow: gene-level exploratory analysis and differential expression](https://bioconductor.org/help/course-materials/2015/LearnBioconductorFeb2015/B02.1.1_RNASeqLab.html)  
+
+[]()  
+
+[]()  
+
+
+## Install packages
+
+```{r eval = FALSE}
+#Install DESeq2
+if (!require("BiocManager", quietly = TRUE))
+    install.packages("BiocManager")
+
+BiocManager::install("DESeq2")
+
+install.packages("ggplot2") #Install ggplot2
+
+BiocManager::install("EnhancedVolcano") #Install EnhancedVolcano
+```
+
+## Load packages
+
+```{r}
+library(DESeq2)
+library(EnhancedVolcano)
+library(ggplot2)
+```
+
+## the simulation dataset
+
+Here, I use the simulation dataset to run with DESeq2.
+
+Includes 2 files:
+
+1.  "otu_data" file is the raw count table file: There are 91 otu (rows) and 150 samples (columns).
+
+2.  "smd" file is the metadata file: there are 150 samples (rows) corresponding to 150 samples (columns) of the otu_data file; and 3 columns, in this case we look at the 3rd column named "health_status"
+
+## Binary classes: health_status (1,3)
+
+### Prepare count data
+
+**Read in counts data:**
+
+```{r}
+#Load a .RData file named "otu_data"
+#The object will be loaded into the environment with its original name
+load("C:/Users/KhaiNguyen/OneDrive/Documents/deseq2_practice/otu_data") 
+
+#Create a object named "counts.data"
+counts.data <- otu_data
+
+#Check 
+ncol(counts.data)
+head(counts.data) 
+```
+
+**Read in sample info:**
+
+```{r}
+#Load a .RData file named "smd"
+#The object will be loaded into the environment with its original name
+load("C:/Users/KhaiNguyen/OneDrive/Documents/deseq2_practice/smd") 
+
+#Create a object named "meta.data"
+meta.data <- smd
+
+#Check 
+nrow(meta.data)
+head(meta.data)
+```
+
+**Check a little bit:**
+
+```{r}
+#Making sure the row names in meta.data matches to column names in counts.data**
+all(colnames(counts.data) %in% rownames(meta.data))
+
+#Are they in the same order?
+all(colnames(counts.data) == rownames(meta.data))
+```
+
+### Construct a DESeqDataSet object
+
+```{r}
+# Construct a DESeqDataSet object with DESeqDataSetFromMatrix() function in DESeq2
+dds <- DESeqDataSetFromMatrix(countData = counts.data,
+                              colData = meta.data,
+                              design = ~ health_status)
+dds #Show results
+```
+
+**[OPTION] pre-filtering: removing OTU with low read counts**
+
+When analyzing differential abundance in microbial studies, a common practice is to use OTUs that have a certain minimum number of reads across all samples to ensure that the analysis is statistically robust and to avoid noise from low-abundance OTUs.
+
+*Common Thresholds*
+
+-   Minimum Reads per OTU: Typically, researchers require that an OTU have at least 10 to 100 reads across all samples to be included in the analysis. The exact threshold can vary based on the study design, sample size, sequencing depth, and the research question.
+-   Prevalence Filtering: Some studies also require that an OTU must be present in a certain percentage of samples (e.g., at least 10% of the samples) to be considered for analysis.
+
+*References*
+
+Callahan, B. J., McMurdie, P. J., Rosen, M. J., Han, A. W., Johnson, A. J., & Holmes, S. P. (2016). DADA2: High-resolution sample inference from Illumina amplicon data. Nature Methods, 13(7), 581-583.\
+--\> In this study, they recommend filtering OTUs with low abundance to reduce noise in the data.
+
+Weiss, S., Xu, Z. Z., Peddada, S., Amir, A., Bittinger, K., Gonzalez, A., ... & Knight, R. (2017). Normalization and microbial differential abundance strategies depend upon data characteristics. Microbiome, 5(1), 27.\
+--\> This study evaluates the impact of different preprocessing strategies, including minimum read thresholds for OTUs.
+
+```{r}
+# keeping OTU that have at least 10 reads total
+keep <- rowSums(counts(dds)) >= 10
+dds <- dds[keep,]
+
+dds
+```
+
+**Run DESeq2**
+
+*Note:* If *results()* is run without specifying contrast or name, it will return the comparison of **the last level** of the last variable in the design formula over **the first level** of this variable. In this case: **the last level** is "3",  **the first level** is "1"
+
+```{r}
+# Run DESeq2
+dds <- DESeq(dds) 
+
+#Set threshold for adjusted P value < 0.05, and |log2FoldChange| > 1 
+res <- results(dds, alpha = 0.05, lfcThreshold = 1) 
+res
+```
+if you want to compare 2 other conditions, such as comparing 2 with 3
+```{r}
+#Compare 2 to 3 
+res2_3 <- results(dds, contrast = c("health_status", "2", "3")) 
+
+res2_3
+```
+### Explore Results
+
+```{r}
+summary(res)
+```
+With adjusted P-value < 0.05 and |log2FoldChange| > 1, we have total 6 features
+
+### Visualization
+
+MA plot by plotMA() function in DESeq2:
+
+```{r}
+plotMA(res)
+```
+
+**Volcano plot**
+
+Volcano plot using EnhancedValcano pakages:
+
+```{r}
+# Create EnhancedVolcano plot
+EnhancedVolcano(res,
+                lab = rownames(res),
+                title = 'Volcano plot',            # Title of the plot
+                subtitle = 'log2FoldChange cutoff: ±1, adjusted P-value cutoff: 0.05', # Subtitle of the plot
+                x = 'log2FoldChange',
+                y = 'padj',
+                xlim = c(min(res$log2FoldChange), 2),
+                ylim = c(0, -log10(10e-9)),
+                xlab = 'log2FoldChange',
+                ylab= '-Log10(adjusted P-value)',
+                axisLabSize = 13,
+                pCutoff = 0.05,
+                FCcutoff = 1.0,
+                pointSize = 2,
+                labSize = 4,
+                legendLabels = c('Non-significant', 'Log2FC', 'Adjusted P-value', 'Adjusted P-value & Log2FC'),
+                caption = 'health_status_3 to health_status_1',
+                captionLabSize = 18,
+                legendPosition = 'top', # Position of the legend  # Only label the selected points
+                boxedLabels = TRUE,   
+                drawConnectors = TRUE)  # Optional: Connect labels with lines
+
+```  
+
+In compare heal_status_3 to health_status_1. We have 6 features labeled on the valcano plot (which meet the requirements of adjusted P-value < 0.05 and |log2FoldChange| > 1): T2, T7, T12, T43, T65, T81.
+
+### Manual test
+
+```{r}
+# Assuming 'dds' is your DESeq2 dataset and 'res' is the DESeq2 results
+# Filter DESeq2 results for significant genes
+significant_genes <- res[which(res$padj < 0.05 & abs(res$log2FoldChange) > 1), ]
+
+# Extract raw counts for significant genes
+raw_counts <- counts(dds)[rownames(significant_genes), ]
+
+# Subset counts based on conditions
+condition_1_samples <- colData(dds)$health_status == '1'
+condition_3_samples <- colData(dds)$health_status == '3'
+
+# Initialize lists to store data for plotting
+plot_data_list <- list()
+p_value_data_list <- list()
+
+# Perform t-tests and prepare data for plotting
+for (i in seq_len(nrow(significant_genes))) {
+        gene_name <- rownames(significant_genes)[i]
+        gene_counts <- raw_counts[i, ]
+        
+        # Ensure there are enough samples for both conditions
+        if (sum(condition_1_samples) > 1 && sum(condition_3_samples) > 1) {
+                # Perform t-test
+                t_test <- t.test(gene_counts[condition_1_samples], gene_counts[condition_3_samples])
+                p_value <- t_test$p.value
+                
+                # Print t-test results
+                cat("Gene:", gene_name, "\n")
+                cat("p-Value:", p_value, "\n\n")
+                
+                # Prepare data for plotting
+                temp_data <- data.frame(
+                        Group = rep(c('Condition 1', 'Condition 3'), each = c(sum(condition_1_samples), sum(condition_3_samples))),
+                        RawCounts = c(gene_counts[condition_1_samples], gene_counts[condition_3_samples]),
+                        Gene = gene_name
+                )
+                plot_data_list[[i]] <- temp_data
+                
+                # Prepare p-value data for annotation
+                p_value_data <- data.frame(
+                        Gene = gene_name,
+                        p_value = p_value,
+                        Group = 'Condition 1', # Use 'Condition 1' as a base group for positioning
+                        y = max(temp_data$RawCounts) * 0.9 # Adjust dynamically based on max raw count
+                )
+                p_value_data_list[[i]] <- p_value_data
+        }
+}
+
+# Combine all data for plotting
+combined_plot_data <- do.call(rbind, plot_data_list)
+combined_p_values <- do.call(rbind, p_value_data_list)
+
+# Create boxplots with p-values annotated, removing outliers
+ggplot(combined_plot_data, aes(x = Group, y = RawCounts, fill = Group)) +
+        geom_boxplot(outlier.shape = NA) + # Remove outliers
+        stat_summary(fun = mean, geom = "point", size = 3, color = "red") +
+        geom_text(data = combined_p_values, aes(label = sprintf("p=%.3f", p_value), x = 'Condition 1', y = y),
+                  vjust = -0.5, hjust = 0.5, size = 3, color = "black") +
+        facet_wrap(~ Gene, scales = "free_y") +
+        labs(title = "Boxplots of Raw Counts for Significant Features",
+             x = "Health Status",
+             y = "Raw Counts") +
+        theme_minimal() +
+        theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+```
+
+Perform t-test compare raw count of features (with adjusted P-value < 0.05 and |log2FoldChange| > 1 in DESeq2's results) in health_status_3 with health_status_1:  
+
+- **The differences in abundance are statistically significant**: the p-values are very small (<0,05). This suggests that there is strong evidence of differential abundance between health_status_3 and health_status_1.  
+- The mean value (red point) of health_status 3 is higher than that of health_status 1.
+
