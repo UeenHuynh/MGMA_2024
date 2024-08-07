@@ -358,7 +358,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ## August 1, 2024
 ### Lecture 22
 ### Library prep and multiplexing for 16S and shotgun metagenomics
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_22/Metagenomicwetlab%20ppt.pdf) &emsp;
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_22/Metagenomicwetlab%20ppt%20-%20Suran%20Medical%20%26%20Scientific.pdf) &emsp;
 - [ Extract and test quality of genomic DNA, Genomic DNA fragmentation](https://www.youtube.com/watch?v=sur4wfqWHTw&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=102)
 - [Repair DNA the end of DNA fragments, Add DNA adapter, Collect target fragments,...](https://www.youtube.com/watch?v=GBBI99FHvto&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=103)
 - [ Bind the sequencing libraries to sequencing chips, Sequencing](https://www.youtube.com/watch?v=u4p8KGnOfqA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=104)
