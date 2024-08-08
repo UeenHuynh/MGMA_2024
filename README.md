@@ -367,8 +367,9 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ## August 4, 2024
 ### Lecture 23
 ####  Shotgun metagenomics
-- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vRs3nVVRZ8ffDPsPg-pTV0Nto47O1tWM2J1t3ju5XGbTFQ64dTcPvkqITKpFpSDhvZZ08v6ycoqHb7L/pub?start=true&loop=false&delayms=60000)
-- TUTORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10nakXKwfDKwRi4cH7QgiRmlvyxHzwbj0#scrollTo=sxNuG_8wFiRV)
+- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vRs3nVVRZ8ffDPsPg-pTV0Nto47O1tWM2J1t3ju5XGbTFQ64dTcPvkqITKpFpSDhvZZ08v6ycoqHb7L/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=c6V9JnXFy38&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=107)
+- TUTORIAL [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10nakXKwfDKwRi4cH7QgiRmlvyxHzwbj0#scrollTo=sxNuG_8wFiRV) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=8d34JC9EOUA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=108)
+#### [Q&A](https://www.youtube.com/watch?v=6XfP9PnWtso&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=109)
   
 ## References
 
