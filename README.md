@@ -374,7 +374,12 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ## August 8, 2024
 ### Lecture 24
 ####  Microbiome Application:
-- [PDF](https://docs.google.com/presentation/d/e/2PACX-1vRs3nVVRZ8ffDPsPg-pTV0Nto47O1tWM2J1t3ju5XGbTFQ64dTcPvkqITKpFpSDhvZZ08v6ycoqHb7L/pub?start=true&loop=false&delayms=60000) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=c6V9JnXFy38&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=107)
+##### Application in Environment & Aquaculture:
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications%20of%20micriobiome%20in%20environment%20and%20aquaculture.pptx)
+##### Application in Agriculture & Industry:
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications%20for%20Microbiome%20in%20Agriculture%20and%20Industry.pptx)
+##### Applications in health and clinic:
+- [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications_of_Microbiome_in_health_and_clinic.pptx)
 ## References
 
 ### Books
