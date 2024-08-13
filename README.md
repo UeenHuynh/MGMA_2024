@@ -377,9 +377,9 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - Application in Environment & Aquaculture:&emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications%20of%20micriobiome%20in%20environment%20and%20aquaculture.pptx)
 - Application in Agriculture & Industry:&emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications%20for%20Microbiome%20in%20Agriculture%20and%20Industry.pptx)
 - Applications in health and clinic:&emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications_of_Microbiome_in_health_and_clinic.pptx)
-## References
 - DNA RNA extraction and NGS:&emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/DNA%20RNA%20extraction%20%20and%20NGS.pdf)
 
+## References
 ### Books
 
 - [R book](https://github.com/UeenHuynh/MGMA_2024/tree/main/Book/R)
