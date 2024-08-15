@@ -374,10 +374,11 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ## August 8, 2024
 ### Lecture 24
 ####  Microbiome Application:
-- Application in Environment & Aquaculture:&emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications%20of%20micriobiome%20in%20environment%20and%20aquaculture.pptx)
-- Application in Agriculture & Industry:&emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications%20for%20Microbiome%20in%20Agriculture%20and%20Industry.pptx)
-- Applications in health and clinic:&emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications_of_Microbiome_in_health_and_clinic.pptx)
-- DNA RNA extraction and NGS:&emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/DNA%20RNA%20extraction%20%20and%20NGS.pdf)
+- Application in Environment & Aquaculture:&emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications%20of%20micriobiome%20in%20environment%20and%20aquaculture.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=CN1MCGC0nmE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=113&pp=iAQB)
+- Application in Agriculture & Industry:&emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications%20for%20Microbiome%20in%20Agriculture%20and%20Industry.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=cfXFqcpPZpk&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=114&pp=iAQB)
+- Applications in health and clinic:&emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/Applications_of_Microbiome_in_health_and_clinic.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=M5FklkK7hXo&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=112&pp=iAQB)
+- DNA RNA extraction and NGS:&emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/DNA%20RNA%20extraction%20%20and%20NGS.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=7g4knXNV5RM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=111&pp=iAQB)
+#### [Q&A](https://www.youtube.com/watch?v=-hwHPQEc-rA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=115&pp=iAQB)
 
 ## References
 ### Books
