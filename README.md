@@ -384,9 +384,9 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ### Lecture 25
 #### Overview of the course: 
 - Main content: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_25/MGMA2024_Long_Read.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_25/MGMA2024_Long_Read.pptx)
-Review old lecture MGMA
-Introduction new platform
-16S full-length ONT
+- Review old lecture MGMA
+- Introduction new platform
+- 16S full-length ONT
 
 
 ## References
