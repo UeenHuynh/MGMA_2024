@@ -380,6 +380,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - DNA RNA extraction and NGS:&emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/DNA%20RNA%20extraction%20%20and%20NGS.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=7g4knXNV5RM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=111&pp=iAQB)
 #### [Q&A](https://www.youtube.com/watch?v=-hwHPQEc-rA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=115&pp=iAQB)
 
+# MODULE 3: LONG READ MICROBIOME
 ## October 6, 2024 (20h-22h30)
 ### Lecture 25
 #### Overview of the course: 
