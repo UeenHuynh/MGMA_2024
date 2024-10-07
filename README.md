@@ -389,7 +389,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - Introduction new platform
 - 16S full-length ONT: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_25/ONT_wf-16S.pdf)
 - 16S full-length ONT and PacBio: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_25/full_length_16S-rRNA_ont_vs_pacbio.pdf)
-- Practice: [ONT][![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10G-wEgIwMo8IwONHfX7eRUSOKGaESiq-?usp=sharing) 
+- Practice: ONT[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10G-wEgIwMo8IwONHfX7eRUSOKGaESiq-?usp=sharing) 
 
 
 ## References
