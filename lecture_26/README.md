@@ -358,7 +358,6 @@ done < metadata_long.txt
 ### 4.2 Taxonomic Classification of Reads from Short Read and Long Read
 
 ```bash
-
 # Activate the environment
 source activate long_read_shotgun
 
@@ -701,7 +700,9 @@ done < metadata_short.txt
 ```
 
 #### For Long Reads
-```bash 
+
+```bash
+# Activate the environment
 source activate binning
 
 # Set CheckM database root
