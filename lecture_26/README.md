@@ -7,6 +7,7 @@ graph TD
     B -->|Long Reads| D[Long Read Pipeline]
     
     subgraph "Short Read Pipeline"
+        style C fill:#e6f3ff,stroke:#4da6ff
         C --> C1[Adapter / quality trimming: fastp]
         C1 --> C2[Host read removal: Bowtie2]
         C2 --> C3[Quality control: FastQC]
@@ -18,6 +19,7 @@ graph TD
     end
     
     subgraph "Long Read Pipeline"
+        style D fill:#fff0e6,stroke:#ffb380
         D --> D1[Adapter / quality trimming: porechop]
         D1 --> D2[Host read removal: Minimap2]
         D2 --> D3[Quality control: Nanoplot]
@@ -27,7 +29,6 @@ graph TD
         D6 --> D7[Binning: MetaBAT2]
         D7 --> D8[Binning evaluation, refinement and annotation: CheckM]
     end
-
     C8 --> E[Statistics]
     D8 --> E
     E --> E1[Relative abundance]
@@ -36,6 +37,11 @@ graph TD
     E1 --> F[R, Python packages]
     E2 --> F
     E3 --> F
+
+classDef shortRead fill:#e6f3ff,stroke:#4da6ff;
+classDef longRead fill:#fff0e6,stroke:#ffb380;
+class C1,C2,C3,C4,C5,C6,C7,C8 shortRead;
+class D1,D2,D3,D4,D5,D6,D7,D8 longRead;
 ```
 
 > ⚠️ **Notice:**
