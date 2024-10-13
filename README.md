@@ -391,7 +391,13 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - 16S full-length ONT and PacBio: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_25/full_length_16S-rRNA_ont_vs_pacbio.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=UK7ZCTvjvWc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=135&pp=iAQB)
 - Practice: ONT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10G-wEgIwMo8IwONHfX7eRUSOKGaESiq-?usp=sharing) &emsp; Illumina [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcsUBxuaraWeni_aiiw75YxnmGMK-r8H?usp=sharing) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=zonetgX1YFA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=136&pp=iAQB)
 
-
+## October 13, 2024 (20h-22h30)
+### Lecture 26
+#### Shotgun Metagenomics Workflow using Oxford Nanopore Platform
+- [PDF]()
+- [PDF_Article]()
+- [TUTORIAL](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_26)
+  
 ## References
 ### Books
 
