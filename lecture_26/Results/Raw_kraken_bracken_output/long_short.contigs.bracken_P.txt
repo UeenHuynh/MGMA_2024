@@ -1,0 +1,12 @@
+name	taxonomy_id	taxonomy_lvl	CD_7_long.contigs.assembly.bracken_P.txt_num	CD_7_long.contigs.assembly.bracken_P.txt_frac	CD_7_short.contigs.assembly.bracken_P.txt_num	CD_7_short.contigs.assembly.bracken_P.txt_frac	CD_7_short.scaffolds.assembly.bracken_P.txt_num	CD_7_short.scaffolds.assembly.bracken_P.txt_frac	TD_31_short.contigs.assembly.bracken_P.txt_num	TD_31_short.contigs.assembly.bracken_P.txt_frac	TD_31_short.scaffolds.assembly.bracken_P.txt_num	TD_31_short.scaffolds.assembly.bracken_P.txt_frac	TD_92_long.contigs.assembly.bracken_P.txt_num	TD_92_long.contigs.assembly.bracken_P.txt_frac	TD_92_short.contigs.assembly.bracken_P.txt_num	TD_92_short.contigs.assembly.bracken_P.txt_frac	TD_92_short.scaffolds.assembly.bracken_P.txt_num	TD_92_short.scaffolds.assembly.bracken_P.txt_frac
+Bacillota	1239	P	154	0.68444	3347	0.17070	3326	0.17185	3994	0.36662	3966	0.36712	76	0.20106	3431	0.31576	3319	0.32049
+Bacteroidota	976	P	59	0.26222	3673	0.18732	3659	0.18906	2527	0.23196	2487	0.23021	172	0.45503	1113	0.10243	1102	0.10641
+Uroviricota	2731618	P	12	0.05333	294	0.01499	289	0.01493	234	0.02148	233	0.02157	0	0.00000	96	0.00883	96	0.00927
+Pseudomonadota	1224	P	0	0.00000	10772	0.54937	10562	0.54573	3342	0.30677	3328	0.30806	130	0.34392	5713	0.52577	5329	0.51458
+Actinomycetota	201174	P	0	0.00000	474	0.02417	472	0.02439	234	0.02148	234	0.02166	0	0.00000	187	0.01721	188	0.01815
+Mycoplasmatota	544448	P	0	0.00000	10	0.00051	10	0.00052	15	0.00138	15	0.00139	0	0.00000	0	0.00000	0	0.00000
+Campylobacterota	29547	P	0	0.00000	69	0.00352	69	0.00357	87	0.00799	87	0.00805	0	0.00000	36	0.00331	35	0.00338
+Fusobacteriota	32066	P	0	0.00000	35	0.00178	34	0.00176	26	0.00239	25	0.00231	0	0.00000	23	0.00212	23	0.00222
+Euryarchaeota	28890	P	0	0.00000	668	0.03407	667	0.03446	92	0.00845	90	0.00833	0	0.00000	66	0.00607	63	0.00608
+Chordata	7711	P	0	0.00000	266	0.01357	266	0.01374	331	0.03038	326	0.03018	0	0.00000	201	0.01850	201	0.01941
+Cyanobacteriota	1117	P	0	0.00000	0	0.00000	0	0.00000	12	0.00110	12	0.00111	0	0.00000	0	0.00000	0	0.00000
