@@ -14,18 +14,18 @@ graph TD
         C4 --> C5[Assembly: SPAdes]
         C5 --> C6[Assembly evaluation: QUAST]
         C6 --> C7[Binning: MetaBAT2]
-        C7 --> C8[Binning evaluation and refinement: CheckM]
+        C7 --> C8[Binning evaluation, refinement and annotation: CheckM]
     end
     
     subgraph "Long Read Pipeline"
         D --> D1[Adapter / quality trimming: porechop]
         D1 --> D2[Host read removal: Minimap2]
-        D2 --> D3[Quality control: fastcat]
+        D2 --> D3[Quality control: Nanoplot]
         D3 --> D4[Taxonomic classification: Kraken2, Bracken]
         D4 --> D5[Assembly: MetaFlye]
         D5 --> D6[Assembly evaluation: QUAST]
         D6 --> D7[Binning: MetaBAT2]
-        D7 --> D8[Binning evaluation and refinement: CheckM]
+        D7 --> D8[Binning evaluation, refinement and annotation: CheckM]
     end
 
     C8 --> E[Statistics]
@@ -38,6 +38,39 @@ graph TD
     E3 --> F
 ```
 
+> ⚠️ **Notice:**
+>
+> This guideline applies to upstream data processing, covering steps from quality control to binning. The downstream pipeline, including statistics, will be conducted on Google Colab.
+>
+> You can access the Colab notebook here: [Google Colab Notebook](https://colab.research.google.com/drive/1Eh_krhVULtoJDzIgnJOKZK5PITiNYYRU?usp=sharing#scrollTo=JZ74yuFaZJUy).
+>
+> The raw files for the downstream analysis can be found in the following repository: [GitHub - Raw Kraken Bracken Output](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_26/Results/Raw_kraken_bracken_output).
+
+
+## Table of Contents
+
+- [1. Set Up](#1-set-up)
+  - [1.1. Install Miniforge](#11-install-miniforge)
+  - [1.2. Create and Activate the Environment](#12-create-and-activate-the-environment)
+  - [1.3. Install Additional Software](#13-install-additional-software)
+  - [1.4. Download Additional Kraken Tools](#14-download-additional-kraken-tools)
+- [2. Download Raw Data](#2-download-raw-data)
+- [3. Download Database](#3-download-database)
+  - [3.1. Host Fasta](#31-host-fasta)
+  - [3.2. Taxonomic Classification](#32-taxonomic-classification)
+- [4. Pipeline](#4-pipeline)
+  - [4.1. Quality Control](#41-quality-control)
+    - [For Short Reads](#for-short-reads)
+    - [For Long Reads](#for-long-reads)
+  - [4.2. Taxonomic Classification of Reads from Short Read and Long Read](#42-taxonomic-classification-of-reads-from-short-read-and-long-read)
+  - [4.3. Assembly](#43-assembly)
+    - [For Short Reads](#for-short-reads-1)
+    - [For Long Reads](#for-long-reads-1)
+  - [4.4. Taxonomic Classification of Contigs from Short Read and Long Read](#44-taxonomic-classification-of-contigs-from-short-read-and-long-read)
+  - [4.5. Binning](#45-binning)
+    - [For Short Reads](#for-short-reads-2)
+    - [For Long Reads](#for-long-reads-2)
+
 ## 1. Set Up
 
 ### 1.1. Install Miniforge
@@ -48,7 +81,7 @@ Download and install `Miniforge` (a minimal conda installer):
 wget --no-check-certificate https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Linux-x86_64.sh
 bash Miniforge3-Linux-x86_64.sh
 conda init
-source ~/.bashrc
+mamba ~/.bashrc
 ```
 
 ### 1.2. Create and Activate the Environment
@@ -57,7 +90,7 @@ Create and activate the environment using `mamba`:
 
 ```bash
 mamba create --name shotgun
-mamba activate shotgun
+source activate shotgun
 ```
 
 ### 1.3. Install Additional Software
@@ -106,27 +139,6 @@ mamba create --name binning python=2.7.15 \
     seaborn=0.9.0 \
     spades=3.13.0 \
     trim-galore=0.5.0
-```
-
-Set up the environment for checkm.
-
-```bash
-# Create and activate the conda environment
-mamba create -n checkm2 python=3.8 -y
-mamba activate checkm2
-
-# Install CheckM2
-mamba install -c bioconda checkm2 -y
-
-# Create directory for CheckM2 database
-mkdir -p checkm2_db
-cd checkm2_db
-
-# Download the CheckM2 database
-checkm2 database --download --path .
-
-# Set the CHECKM2DB environment variable
-export CHECKM2DB="path/to/checkm2_db"
 ```
 
 ### 1.4. Download Additional Kraken Tools
@@ -214,6 +226,13 @@ Download the Kraken2 database:
 ```bash
 wget https://genome-idx.s3.amazonaws.com/kraken/k2_minusb_20240605.tar.gz
 tar -xzvf k2_minusb_20240605.tar.gz k2_mini_db
+```
+
+Download the CheckM database:
+
+```bash
+wget https://data.ace.uq.edu.au/public/CheckM_databases/checkm_data_2015_01_16.tar.gz
+tar -xzvf checkm_data_2015_01_16.tar.gz checkm2_db
 ```
 
 ## 4. Pipeline
@@ -625,7 +644,7 @@ fi
 rm -rf "$MPA_DIR"
 ``` 
 
-### 4.4 Binning
+### 4.5 Binning
 
 #### For Short Reads 
 
@@ -633,7 +652,8 @@ rm -rf "$MPA_DIR"
 # Activate micromamba environment for binning
 source activate binning
 
-# Loop through all the short-read samples for paired-end files
+checkm data setRoot "path/to/checkm_db"
+
 while read -r SRR SAMPLE_NAME; do
     READ1=$(ls "${SAMPLE_NAME}/remove_host/"*_1.fastq.gz 2>/dev/null)
 
@@ -664,21 +684,28 @@ while read -r SRR SAMPLE_NAME; do
     mkdir -p "${SAMPLE_NAME}/binning"
 
     # Run metawrap binning
-    metawrap binning -o "${SAMPLE_NAME}/binning" -t 12 -l 1500 \
+    metawrap binning -o "${SAMPLE_NAME}/binning" -t 16 -l 1500 --run-checkm \
         -a "${SAMPLE_NAME}/assembly/${SAMPLE_NAME}.scaffolds.fasta.gz" \
-        --metabat2 --maxbin2 "$READ1_DECOMPRESSED" "$READ2_DECOMPRESSED"
+        --metabat2 "$READ1_DECOMPRESSED" "$READ2_DECOMPRESSED"
+
+    # Run bin refinement
+    metawrap bin_refinement -o "${SAMPLE_NAME}/binning/bin_refinement" -t 16 -m 100 \
+        -A "${SAMPLE_NAME}/binning/metabat2_bins/" \
+        -c 70 -x 10
 
     # Remove the decompressed files after running metawrap
     rm "$READ1_DECOMPRESSED"
     rm "$READ2_DECOMPRESSED"
 
 done < metadata_short.txt
-
 ```
 
 #### For Long Reads
 ```bash 
 source activate binning
+
+# Set CheckM database root
+checkm data setRoot "/path/to/checkm_db"
 
 while read -r SRR SAMPLE_NAME; do
     # Create the directory for the assembly results
@@ -686,63 +713,24 @@ while read -r SRR SAMPLE_NAME; do
 
     # Check if the gzipped assembly file exists
     if [ -f "${SAMPLE_NAME}/assembly/${SAMPLE_NAME}.contigs.fasta.gz" ]; then
-        # Decompress the fastq.gz file for single-end reads
-        gunzip -k "${SAMPLE_NAME}/remove_host/${SAMPLE_NAME}.unmapped.fastq.gz"
+        # Decompress the single-end fastq file
+        gunzip -c "${SAMPLE_NAME}/remove_host/${SAMPLE_NAME}.unmapped.fastq.gz" > "${SAMPLE_NAME}/remove_host/${SAMPLE_NAME}.unmapped.fastq"
         
-        # Run metawrap binning directly with the .fastq file and gzipped .fasta file
-        metawrap binning -o "${SAMPLE_NAME}/binning" -t 24 -l 1500 \
+        # Run metawrap binning with MetaBAT2 using the .fasta.gz file and single-end .fastq
+        metawrap binning -o "${SAMPLE_NAME}/binning" -t 16 -l 1500 --run-checkm \
             -a "${SAMPLE_NAME}/assembly/${SAMPLE_NAME}.contigs.fasta.gz" \
-            --metabat2 --maxbin2 --single-end "${SAMPLE_NAME}/remove_host/${SAMPLE_NAME}.unmapped.fastq"
+            --metabat2 --single-end "${SAMPLE_NAME}/remove_host/${SAMPLE_NAME}.unmapped.fastq"
         
-        # Remove the decompressed .fastq file after processing
+        # Run bin refinement
+        metawrap bin_refinement -o "${SAMPLE_NAME}/binning/bin_refinement" -t 16 -m 100 \
+            -A "${SAMPLE_NAME}/binning/metabat2_bins/" \
+            -c 70 -x 10
+        
+        # Remove the decompressed fastq file after processing
         rm "${SAMPLE_NAME}/remove_host/${SAMPLE_NAME}.unmapped.fastq"
     else
         echo "Assembly file for ${SAMPLE_NAME} not found. Skipping."
-        continue
     fi
-
 done < metadata_long.txt
 ```
 
-### 4.5 CheckM
-
-#### For Short Reads 
-
-```bash 
-source activate checkm2
-
-# Set the CHECKM2DB environment variable
-export CHECKM2DB="path/to/checkm2_db"
-
-# Loop through all the short-read samples for paired-end files
-while read -r SRR SAMPLE_NAME; do
-    # Create the directory for the assembly results
-    mkdir -p "${SAMPLE_NAME}/binning/metabat2_bins/checkm"
-
-    # Run CheckM2 prediction
-    checkm2 predict --threads 24 -x fa \
-        --input "${SAMPLE_NAME}/binning/metabat2_bins/" \
-        --output-directory "${SAMPLE_NAME}/binning/metabat2_bins/checkm"
-
-done < metadata_short.txt
-```
-
-#### For Long Reads 
-```bash 
-source activate checkm2
-
-# Set the CHECKM2DB environment variable
-export CHECKM2DB="path/to/checkm2_db"
-
-# Loop through all the short-read samples for paired-end files
-while read -r SRR SAMPLE_NAME; do
-    # Create the directory for the assembly results
-    mkdir -p "${SAMPLE_NAME}/binning/metabat2_bins/checkm"
-
-    # Run CheckM2 prediction
-    checkm2 predict --threads 24 -x fa \
-        --input "${SAMPLE_NAME}/binning/metabat2_bins/" \
-        --output-directory "${SAMPLE_NAME}/binning/metabat2_bins/checkm"
-
-done < metadata_long.txt
-```
