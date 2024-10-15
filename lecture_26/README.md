@@ -52,9 +52,9 @@ This guideline applies to upstream data processing, covering steps from quality 
 
 However, the downstream pipeline, including statistical analysis, will be conducted on Google Colab.
 
-You can access the Colab notebook here: [Google Colab Notebook](link).
+You can access the Colab notebook here: [Google Colab Notebook](https://colab.research.google.com/drive/1Eh_krhVULtoJDzIgnJOKZK5PITiNYYRU?usp=sharing#scrollTo=JZ74yuFaZJUy).
 
-The raw files for statistical analysis can be found in the following repository: [GitHub - Raw Kraken Bracken Output](link).
+The raw files for statistical analysis can be found in the following repository: [GitHub - Raw Kraken Bracken Output](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_26/Results/Raw_kraken_bracken_output).
 
 ---
 
