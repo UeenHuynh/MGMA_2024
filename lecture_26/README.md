@@ -44,14 +44,19 @@ class C1,C2,C3,C4,C5,C6,C7,C8 shortRead;
 class D1,D2,D3,D4,D5,D6,D7,D8 longRead;
 ```
 
-> ⚠️ **Notice:**
->
-> This guideline applies to upstream data processing, covering steps from quality control to binning. The downstream pipeline, including statistics, will be conducted on Google Colab.
->
-> You can access the Colab notebook here: [Google Colab Notebook](https://colab.research.google.com/drive/1Eh_krhVULtoJDzIgnJOKZK5PITiNYYRU?usp=sharing#scrollTo=JZ74yuFaZJUy).
->
-> The raw files for the downstream analysis can be found in the following repository: [GitHub - Raw Kraken Bracken Output](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_26/Results/Raw_kraken_bracken_output).
+---
 
+⚠️ **Notice:**
+
+This guideline applies to upstream data processing, covering steps from quality control to binning on a **local machine** in a **Linux environment**. Since file processing will require significant RAM, storage capacity, and time, running it on a local machine is more optimal.
+
+However, the downstream pipeline, including statistical analysis, will be conducted on Google Colab.
+
+You can access the Colab notebook here: [Google Colab Notebook](link).
+
+The raw files for statistical analysis can be found in the following repository: [GitHub - Raw Kraken Bracken Output](link).
+
+---
 
 ## Table of Contents
 
