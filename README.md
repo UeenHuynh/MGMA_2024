@@ -394,7 +394,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ## October 13, 2024 (20h-22h30)
 ### Lecture 26
 #### Shotgun Metagenomics Workflow using Oxford Nanopore Platform
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/e11d0efb6cbe80e3449d8b45f64be96e9974967a/lecture_26/Slides/shotgun_ONT.pdf)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_26/Slides/shotgun_ONT.pdf)
 - [PDF_Article](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_26/Slides/shotgun_article.pdf)
 - [TUTORIAL](https://github.com/UeenHuynh/MGMA_2024/blob/e11d0efb6cbe80e3449d8b45f64be96e9974967a/lecture_26/README.md)
   
