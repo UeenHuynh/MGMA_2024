@@ -93,6 +93,9 @@ wget --no-check-certificate https://github.com/conda-forge/miniforge/releases/la
 bash Miniforge3-Linux-x86_64.sh
 conda init
 mamba ~/.bashrc
+
+# Add bioconda channel
+mamba config --add channels bioconda
 ```
 
 ### 1.2. Create and Activate the Environment
