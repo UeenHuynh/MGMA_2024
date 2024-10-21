@@ -380,7 +380,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - DNA RNA extraction and NGS:&emsp; [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture%2024/DNA%20RNA%20extraction%20%20and%20NGS.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=7g4knXNV5RM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=111&pp=iAQB)
 #### [Q&A](https://www.youtube.com/watch?v=-hwHPQEc-rA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=115&pp=iAQB)
 
-# MODULE 3: LONG READ MICROBIOME
+# MODULE 3: LONG READ MICROBIOME [Timeline Project for MODULE 3](https://docs.google.com/spreadsheets/d/1M_KTe991iK4zjKD3HL1fmI-FMEHXirKvB65XYLUnVbI/edit?usp=sharing)
 ## October 6, 2024 (20h-22h30)
 ### Lecture 25
 #### Overview of the course: 
@@ -397,6 +397,10 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_26/Slides/shotgun_ONT.pdf)
 - [PDF_Article](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_26/Slides/shotgun_article.pdf)
 - [TUTORIAL](https://github.com/UeenHuynh/MGMA_2024/blob/e11d0efb6cbe80e3449d8b45f64be96e9974967a/lecture_26/README.md)
+
+## October 20, 2024 (20h-22h30)
+### Lecture 27
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_26/Slides/shotgun_ONT.pdf)
   
 ## References
 ### Books
