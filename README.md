@@ -401,7 +401,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ## October 20, 2024 (20h-22h30)
 ### Lecture 27
 #### Introduction Project
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pptx) &emsp; [Project](https://docs.google.com/spreadsheets/d/1M_KTe991iK4zjKD3HL1fmI-FMEHXirKvB65XYLUnVbI/edit?usp=sharing]
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pptx) &emsp; [Project](https://docs.google.com/spreadsheets/d/1M_KTe991iK4zjKD3HL1fmI-FMEHXirKvB65XYLUnVbI/edit?usp=sharing)
   
 ## References
 ### Books
