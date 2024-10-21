@@ -400,7 +400,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 
 ## October 20, 2024 (20h-22h30)
 ### Lecture 27
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_26/Slides/shotgun_ONT.pdf)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pdf)
   
 ## References
 ### Books
