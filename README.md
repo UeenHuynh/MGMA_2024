@@ -394,13 +394,14 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ## October 13, 2024 (20h-22h30)
 ### Lecture 26
 #### Shotgun Metagenomics Workflow using Oxford Nanopore Platform
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_26/Slides/shotgun_ONT.pdf)
-- [PDF_Article](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_26/Slides/shotgun_article.pdf)
-- [TUTORIAL](https://github.com/UeenHuynh/MGMA_2024/blob/e11d0efb6cbe80e3449d8b45f64be96e9974967a/lecture_26/README.md)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_26/Slides/shotgun_ONT.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=Cy3_i9KVnOQ&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=138&pp=iAQB)
+- [PDF_Article](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_26/Slides/shotgun_article.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=Shs69sf6qLc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=139&pp=iAQB)
+- [TUTORIAL](https://github.com/UeenHuynh/MGMA_2024/blob/e11d0efb6cbe80e3449d8b45f64be96e9974967a/lecture_26/README.md) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=xgZsOP48A4U&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=140&pp=iAQB)
 
 ## October 20, 2024 (20h-22h30)
 ### Lecture 27
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pdf)
+#### Introduction Project
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pptx) &emsp; [Project](https://docs.google.com/spreadsheets/d/1M_KTe991iK4zjKD3HL1fmI-FMEHXirKvB65XYLUnVbI/edit?usp=sharing]
   
 ## References
 ### Books
