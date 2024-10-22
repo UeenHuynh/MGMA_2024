@@ -405,8 +405,8 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 #### WGS_ONT_Virus
 -[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/ONT_WGS/ONT_longread_WGS_virus.pdf)
 ##### Practice 
-- [Mapping][![Open In Colab](https://colab.research.google.com/drive/1f58gYt2sNFtgoR9kdAdw4YXqsbr_q_44?usp=sharing)
-- [De novo_assembly][![Open In Colab](https://colab.research.google.com/drive/1KeshRCrWsql36z7gYO0BiC0nbiazt-5a?usp=sharing)
+- Mapping[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f58gYt2sNFtgoR9kdAdw4YXqsbr_q_44?usp=sharing)
+- De novo_assembly[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KeshRCrWsql36z7gYO0BiC0nbiazt-5a?usp=sharing)
 ## References
 ### Books
 
