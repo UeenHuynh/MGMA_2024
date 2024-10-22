@@ -402,7 +402,11 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ### Lecture 27
 #### Introduction Project
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pptx) &emsp; [Project](https://docs.google.com/spreadsheets/d/1M_KTe991iK4zjKD3HL1fmI-FMEHXirKvB65XYLUnVbI/edit?usp=sharing)
-  
+#### WGS_ONT_Virus
+-[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/ONT_WGS/ONT_longread_WGS_virus.pdf)
+##### Practice 
+- [Mapping][![Open In Colab](https://colab.research.google.com/drive/1f58gYt2sNFtgoR9kdAdw4YXqsbr_q_44?usp=sharing)
+- [De novo_assembly][![Open In Colab](https://colab.research.google.com/drive/1KeshRCrWsql36z7gYO0BiC0nbiazt-5a?usp=sharing)
 ## References
 ### Books
 
