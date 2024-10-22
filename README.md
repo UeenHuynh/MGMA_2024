@@ -387,6 +387,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 - Main content: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_25/MGMA2024_Long_Read.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_25/MGMA2024_Long_Read.pptx) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=Z6cIJRzZF7Q&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=133&pp=iAQB)
 - Review old lecture MGMA
 - Introduction new platform
+#### 16S full-length ONT
 - 16S full-length ONT: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_25/ONT_wf-16S.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=wvBnk-cl-vM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=134&pp=iAQB)
 - 16S full-length ONT and PacBio: [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_25/full_length_16S-rRNA_ont_vs_pacbio.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=UK7ZCTvjvWc&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=135&pp=iAQB)
 - Practice: ONT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10G-wEgIwMo8IwONHfX7eRUSOKGaESiq-?usp=sharing) &emsp; Illumina [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FcsUBxuaraWeni_aiiw75YxnmGMK-r8H?usp=sharing) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=zonetgX1YFA&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=136&pp=iAQB)
@@ -403,7 +404,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 #### Introduction Project
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pdf) &emsp; [PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/MGMA_2024_2010.pptx) &emsp; [Project](https://docs.google.com/spreadsheets/d/1M_KTe991iK4zjKD3HL1fmI-FMEHXirKvB65XYLUnVbI/edit?usp=sharing)
 #### WGS_ONT_Virus
--[PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/ONT_WGS/ONT_longread_WGS_virus.pdf)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/ONT_WGS/ONT_longread_WGS_virus.pdf)
 ##### Practice 
 - Mapping[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f58gYt2sNFtgoR9kdAdw4YXqsbr_q_44?usp=sharing)
 - De novo_assembly[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KeshRCrWsql36z7gYO0BiC0nbiazt-5a?usp=sharing)
