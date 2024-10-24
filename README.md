@@ -408,6 +408,11 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ##### Practice 
 - Mapping[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f58gYt2sNFtgoR9kdAdw4YXqsbr_q_44?usp=sharing)
 - De novo_assembly[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KeshRCrWsql36z7gYO0BiC0nbiazt-5a?usp=sharing)
+#### Pacbio_full_length_16S
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/Pacbio_full_length_16S/Pacbio%20Long%20reads.pdf)
+- [Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_27/Pacbio_full_length_16S)
+##### Practice 
+- Microbiome 16S [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 ## References
 ### Books
 
