@@ -419,7 +419,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 #### PacBio
 
 #### ONT
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_28/Delivering%20the%20future%20of%20microbial%20genomics%20with%20ONT.pdf)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_28/Delivering%20the%20future%20of%20microbial%20genomics%20with%20ONT.pdf) &emsp; [Artical](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_28/2024%20Routine%20MG%20Service%20for%20ICU%20Patients%20with%20Respiratory%20Infection.pdf)
 
 ## References
 ### Books
