@@ -414,7 +414,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 ##### Practice 
 - Microbiome 16S [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() &emsp; [YOUTUBE](https://www.youtube.com/watch?v=xp72omim1g0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=146&pp=iAQB)
 
-  ## October 70, 2024 (19h-22h30)
+  ## October 27, 2024 (19h-22h30)
 ### Lecture 28
 #### PacBio
 
