@@ -406,13 +406,13 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 #### WGS_ONT_Virus
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_27/ONT_WGS/ONT_longread_WGS_virus.pdf)
 ##### Practice 
-- Mapping[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f58gYt2sNFtgoR9kdAdw4YXqsbr_q_44?usp=sharing) $emsp; [YOUTUBE](https://www.youtube.com/watch?v=aokwS1N9xgM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=143&pp=iAQB)
+- Mapping[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f58gYt2sNFtgoR9kdAdw4YXqsbr_q_44?usp=sharing) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=aokwS1N9xgM&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=143&pp=iAQB)
 - De novo_assembly[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KeshRCrWsql36z7gYO0BiC0nbiazt-5a?usp=sharing) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=yuH1-WMSMc0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=144&pp=iAQB)
 #### Pacbio_full_length_16S
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/Pacbio%20Long%20reads.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=ecHQjrSMi0s&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=145&pp=iAQB)
 - [Tutorial](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_27/Pacbio_full_length_16S)
 ##### Practice 
-- Microbiome 16S [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() &emsp; [YOUTUBE](https://www.youtube.com/watch?v=xp72omim1g0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=146&pp=iAQB)
+- Microbiome 16S [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RjTNS03Wz2ilVUnwmhGJ26W4Qsxb947S) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=xp72omim1g0&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=146&pp=iAQB)
 
   ## October 27, 2024 (19h-22h30)
 ### Lecture 28
