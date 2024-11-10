@@ -419,7 +419,12 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
 #### PacBio
 
 #### ONT
-- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_28/Delivering%20the%20future%20of%20microbial%20genomics%20with%20ONT.pdf) &emsp; [Artical](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_28/2024%20Routine%20MG%20Service%20for%20ICU%20Patients%20with%20Respiratory%20Infection.pdf)
+- [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_28/Delivering%20the%20future%20of%20microbial%20genomics%20with%20ONT.pdf) &emsp; [Artical](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_28/2024%20Routine%20MG%20Service%20for%20ICU%20Patients%20with%20Respiratory%20Infection.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=MFVcj4VZHuU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=155&pp=iAQB)
+
+## November 03, 2024 (20h-22h30)
+ ### Lecture 29
+ #### Shotgun PacBio
+ - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_29/A%20-%20Shotgun%20Pacbio%201-2-3-4.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=tz9yQq-cI-k&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=164)
 
 ## References
 ### Books
