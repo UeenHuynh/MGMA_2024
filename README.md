@@ -417,7 +417,7 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
   ## October 27, 2024 (19h-22h30)
 ### Lecture 28
 #### PacBio
-
+- [YOUTUBE](https://www.youtube.com/watch?v=MFVcj4VZHuU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=155&pp=iAQB)
 #### ONT
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_28/Delivering%20the%20future%20of%20microbial%20genomics%20with%20ONT.pdf) &emsp; [Artical](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_28/2024%20Routine%20MG%20Service%20for%20ICU%20Patients%20with%20Respiratory%20Infection.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=MFVcj4VZHuU&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=155&pp=iAQB)
 
