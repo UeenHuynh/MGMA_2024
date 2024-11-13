@@ -426,6 +426,12 @@ pneumoniae_PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_12/chan
  #### Shotgun PacBio
  - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_29/A%20-%20Shotgun%20Pacbio%201-2-3-4.pdf) &emsp; [YOUTUBE](https://www.youtube.com/watch?v=tz9yQq-cI-k&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=164)
 
+## November 10, 2024 (20h-22h30)
+ ### Lecture 30
+ #### Denovo + mapping + variant calling PacBio
+ - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_30/Hifi%20Pacbio%20-%20De%20novo%20assembly%2C%20Mapping%20and%20Variants%20calling.pdf)
+ - Practice [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WVYyTGdhDttO9FnCkbFoYrXHmB-gis5B?usp=sharing)
+ 
 ## References
 ### Books
 
