@@ -43,7 +43,7 @@
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pdf) &emsp;[PPTX](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/basic_Linux_commands_part2_II.Other_commands_download-permission-compressing_and_decompress.pptx)&emsp;[YOUTUBE](https://www.youtube.com/watch?v=Y0C9AyUu8EE&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=8&pp=iAQB)
 - [Materials used in Slide](https://github.com/UeenHuynh/MGMA_2024/tree/main/lecture_2/2.%20basic%20Linux%20commands%20part%202)
 - [Homework for Basic Linux Commands Part 2](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/Homework_basic_Linux_commands_part2.pdf) &emsp;[Homework answers](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/HomeworkAnswers_basic_Linux_commands_part2.pdf)
-
+-NOTE: adjust homework material to [raw_material](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/2.%20basic%20Linux%20commands%20part%202/SRR25653406.fasta.tar.gz)
 #### Introduction to Bash Scripting 
 
 - [PDF](https://github.com/UeenHuynh/MGMA_2024/blob/main/lecture_2/Bashscript1/Introduction_to_bash_script_(1)_and%20_(2).pdf) &emsp;[YOUTUBE](https://www.youtube.com/watch?v=bIMtUtNmBW4&list=PLXtgXP89Tyn-cldf3rwqsCh5nR031OD-s&index=9&pp=iAQB)
